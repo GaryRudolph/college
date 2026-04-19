@@ -333,7 +333,7 @@ Cornell Engineering is **gated on specific prereqs** — missing any one (Calc I
 
 ### 3h. SDSU (San Diego State University) — last-resort state school for BSME
 
-- **Role in Jack's plan:** Post-Hobart transfer for ABET BSME. Relevant for Option 3 (Hobart Applied Physics only).
+- **Role in Jack's plan:** Post-Hobart transfer for ABET BSME. Relevant for Option 3 (Hobart BA → State School BSME).
 
 #### SDSU ME — admission requirements (for major change/transfer)
 
@@ -539,7 +539,7 @@ Assumptions used throughout:
 - RPI (2 years): ~$67K × 2 = ~$134K
 - **Total tuition: ~$236K**
 
-### Option 3: Hobart Applied Physics + SDSU/WSU BSME
+### Option 3: Hobart BA → State School BSME (Hobart Applied Physics + SDSU/WSU BSME)
 
 **With full Hobart BA (6 years):**
 - Hobart (4 years): $34,207 × 4 = ~$137K
@@ -645,12 +645,12 @@ Which bucket appeals to him? The answer significantly narrows the entry-path dec
 
 - **Technical / nuclear** → NUPOC is the primary path; USNA works if he also wants the Academy experience.
 - **Operational line** → OCS or USNA; engineering degree not required.
-- **Engineering duty** → OCS with ABET BS (CEC direct accession); **Option 3 Hobart Physics does not qualify for this bucket.**
+- **Engineering duty** → OCS with ABET BS (CEC direct accession); **Option 3 qualifies only after completing the state-school BSME, not after the Hobart physics BA alone.**
 - **SpecOps / combat** → any entry path; physical performance dominates.
 
 ### 6.1. Can military service pay for a BS or MS in engineering afterward? Yes — three mechanisms.
 
-This is directly relevant to the decision because it meaningfully changes the effective cost math for Option 3 (Hobart Physics), Option 4 (WPI), and Option 6 (UBC), and is relevant for anyone who enters the service without the degree they ultimately want.
+This is directly relevant to the decision because it meaningfully changes the effective cost math for Option 3 (Hobart BA → State School BSME), Option 4 (WPI), and Option 6 (UBC), and is relevant for anyone who enters the service without the degree they ultimately want.
 
 #### (i) Post-9/11 GI Bill (Chapter 33) — the primary benefit
 
@@ -708,7 +708,7 @@ Rough estimates of tuition-only value if Jack completes 3+ years of active duty 
 
 | Primary path | Stand-alone tuition | With military service + GI Bill grad school after |
 |---|---|---|
-| Option 3 (Hobart Physics → NUPOC) | ~$142K–$196K + physics BA | Can add **Dartmouth Thayer MS for ~$0** post-service. End state: Physics BA + Navy nuclear service + Dartmouth MEng. |
+| Option 3 (Hobart BA → NUPOC, skip the state-school BSME) | ~$142K + physics BA | Can add **Dartmouth Thayer MS for ~$0** post-service. End state: Physics BA + Navy nuclear service + Dartmouth MEng. |
 | Option 4 (WPI) | ~$144K | Can add Dartmouth/Cornell/Stanford MS for ~$0 post-service. Strong cost efficiency. |
 | Option 6 (UBC) | ~$193K | Same — post-service MS at Dartmouth/Cornell possible. Upgrades the US-brand-recognition problem of the UBC undergrad. |
 | Option 1 (Hobart → Ivy) | ~$242K | Less value-add since Ivy BS is already in hand; still available if he wants a further MS. |
@@ -805,7 +805,7 @@ Relevant as an **end-state officer pipeline** regardless of which civilian colle
 
 #### Why this changes the calculus on Option 3
 
-If Jack ends up with only a Hobart Applied Physics BA (because the 3:2 didn't work out and he decided not to spend 2 more years chasing an ABET BSME), **NUPOC is a legitimate elite officer pipeline** that doesn't require an engineering BS. That turns Option 3 from "failed engineering path" into "physics undergrad → nuclear Navy officer."
+If Jack ends up with only a Hobart Applied Physics BA (because the 3:2 didn't work out and he decided not to spend 2 more years chasing an ABET BSME at a state school), **NUPOC is a legitimate elite officer pipeline** that doesn't require an engineering BS. That turns Option 3 from "failed engineering path" into "physics undergrad → nuclear Navy officer" — making the state-school BSME leg optional rather than required.
 
 ### 6c. ROTC — considered and excluded
 
