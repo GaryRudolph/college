@@ -1,6 +1,6 @@
 # Background — Jack's College Decision
 
-*Longform reference document. All specifics pulled from the two prior research handoffs (`handoffs/college_decision_handoff.md` and `handoffs/jack_engineering_pathway_handoff.md`) plus additional research on the military-option wildcard and state-school engineering transfer pathways. Companion to:*
+*Longform reference document. All specifics pulled from prior agent-conversation research plus additional research on the military-option wildcard and state-school engineering transfer pathways. Companion to:*
 
 - *[`README.md`](./README.md) — the primary decision doc with the 3-way framework (WPI / Hobart / UBC), comparison table, and short summaries.*
 - *[`hobart.md`](./hobart.md) — read only if the starting-school choice is Hobart. Detailed per-option breakdown of the junior-year fork (2a–2f), portfolio strategy, eligibility reframing, and the Option 2f GI Bill + Yellow Ribbon mechanics.*
@@ -999,9 +999,7 @@ If the dual-degree forks fail (Columbia / Dartmouth / WashU / RPI all reject) an
 
 ## 10. Source notes
 
-- Prior research conducted April 2026 by another agent conversation; documented in:
-  - `handoffs/college_decision_handoff.md`
-  - `handoffs/jack_engineering_pathway_handoff.md`
+- Prior research conducted April 2026 by another agent conversation (handoff documents since removed; all relevant content has been consolidated into this file).
 - Supplementary research April 2026 this session:
   - USNA admissions policy on college transfers (USNA.edu Admissions FAQ).
   - Navy OCS engineering officer designator requirements (ABET-EAC requirement).
