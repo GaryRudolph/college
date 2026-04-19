@@ -20,12 +20,11 @@ if [[ ! -f "$FILE" ]]; then
 fi
 
 # Find the start of the main comparison table: the header line containing
-# the five column names in order.
-start_line=$(grep -n '^| Option .*| Engineering Reputation .*| Rowing Culture Fit .*| Tuition Cost.*| Risk .*|' "$FILE" | head -n1 | cut -d: -f1)
+# the five column names in order. Accept either "Cost" or "Tuition Cost".
+start_line=$(grep -n '^| Option .*| Engineering Reputation .*| Rowing Culture Fit .*| Cost .*| Risk .*|' "$FILE" | head -n1 | cut -d: -f1)
 
 if [[ -z "$start_line" ]]; then
-  # Accept shorter "Cost" column header as well.
-  start_line=$(grep -n '^| Option .*| Engineering Reputation .*| Rowing Culture Fit .*| Cost .*| Risk .*|' "$FILE" | head -n1 | cut -d: -f1)
+  start_line=$(grep -n '^| Option .*| Engineering Reputation .*| Rowing Culture Fit .*| Tuition Cost.*| Risk .*|' "$FILE" | head -n1 | cut -d: -f1)
 fi
 
 if [[ -z "$start_line" ]]; then
@@ -59,7 +58,7 @@ while IFS= read -r line; do
     case $idx in
       3) col_name="Engineering Reputation" ;;
       4) col_name="Rowing Culture Fit" ;;
-      5) col_name="Tuition Cost" ;;
+      5) col_name="Cost" ;;
       6) col_name="Risk" ;;
     esac
 

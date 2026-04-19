@@ -187,7 +187,7 @@ Dartmouth's quarter system (10-week terms) with six ENGS courses in year 3 is de
 
 - Automatic **Graduate Affiliation Scholarship**: flat **50% tuition discount** for all 3 years at WashU (structural feature of the program, not need-based).
 - At 2026-27 rates ($69,190/year graduate tuition), that's **~$34,500/year post-discount × 3 years ≈ $103,500** at WashU.
-- Combined with 3 years at Hobart (50% scholarship, ~$103K), the WashU 3:3 path delivers BA + BS + MS for **~$205K total tuition over 6 years** — the best cost-per-degree on the board.
+- Combined with 3 years at Hobart (50% scholarship, ~$103K tuition / ~$156K all-in), the WashU 3:3 path delivers BA + BS + MS for **~$205K total tuition / ~$320K all-in (with R&B) over 6 years** — the best cost-per-degree on the board, and roughly the same total all-in cost as Columbia 3:2 despite adding a master's degree.
 
 #### WashU rowing
 
@@ -332,7 +332,7 @@ Cornell Engineering is **gated on specific prereqs** — missing any one (Calc I
 - Housing, food, fees, insurance in Vancouver: ~CAD $18–20K/year.
 - Total: ~CAD $85K/year.
 - **At ~$0.73 CAD/USD exchange rate: ~$62,000 USD/year total; tuition alone ~$48,300 USD/year.**
-- **4-year total tuition: ~$193K USD.**
+- **4-year total tuition: ~$193K USD; 4-year total all-in (tuition + on-campus residence + meal plan): ~$268K USD.**
 - UBC caps international tuition increases at 3%/year for up to 4 years (predictable).
 
 ---
@@ -523,7 +523,7 @@ The old plan assumed Jack could redshirt Y4 at Columbia and race both Y4 and Y5 
 
 The old plan assumed ACRA club rowing had informal or enrollment-based eligibility and that Jack could row all 3 grad years at WashU. **The ACRA 2025 Regatta Packet eligibility rules are explicit:** 4 seasons in 5 calendar years from initial full-time enrollment, with "competing for an institution in any one event within the academic year" constituting a used season. Prior IRA competition at Hobart counts. Jack burns 3 of 4 ACRA seasons at Hobart, uses the 4th at WashU in Y4, and is eligibility-exhausted by Y5.
 
-**Combined result: all three rowing-fit options (2a, 2b, 2c) deliver 4 total competitive seasons.** What differs is peak level of the final season (Ivy LW vs. ACRA club), credential earned (Ivy BS/BE vs. WashU BS+MS), cost (~$242K vs. ~$205K), and admit risk (3.50/~3.30 gate vs. ~3.25 near-automatic). None of them is "sustained elite rowing across 5–6 years" — the 4-in-5 eligibility clock binds in all cases.
+**Combined result: all three rowing-fit options (2a, 2b, 2c) deliver 4 total competitive seasons.** What differs is peak level of the final season (Ivy LW vs. ACRA club), credential earned (Ivy BS/BE vs. WashU BS+MS), all-in cost (~$322K Columbia / ~$334K Dartmouth / ~$320K WashU — roughly comparable; WashU adds an MS for ~$0 net), and admit risk (3.50/~3.30 gate vs. ~3.25 near-automatic). None of them is "sustained elite rowing across 5–6 years" — the 4-in-5 eligibility clock binds in all cases.
 
 This does not invalidate any of these paths. Each still provides a real, multi-year competitive rowing experience and a strong engineering credential. But it means the **choice between Ivy paths and WashU 3:3 is not "elite 1-year experience vs. 3 extra years of rowing."** It's a straightforward tradeoff: Ivy credential + higher admit risk + higher cost vs. WashU BS+MS + near-automatic admit + lower cost. Rowing is not a meaningful tiebreaker between them at the total-seasons level.
 
@@ -536,85 +536,122 @@ This does not invalidate any of these paths. Each still provides a real, multi-y
 
 ---
 
-## 5. Cost analysis — detailed (all in current USD, tuition only)
+## 5. Cost analysis — detailed (all in current USD, tuition + on-campus room & board)
 
-Assumptions used throughout:
-- **Hobart:** 50% merit scholarship → **~$34,207/yr net tuition** (from $68,414 sticker).
-- **WPI:** $27,000/yr merit scholarship already awarded → **~$36,046/yr net tuition** (from $63,046 sticker).
-- **Columbia, Dartmouth, RPI, WashU, UBC:** full sticker (no aid assumed).
-- **SDSU (and other Cal States):** **Jack is a California resident** → in-state CSU tuition + SDSU campus fees ≈ **~$9K/yr all-in** (2025–26). WSU is non-resident (~$30K/yr) and is no longer the baseline comparison.
-- **WashU graduate tuition** is reduced by the automatic 50% Graduate Affiliation Scholarship that comes with the 3:3 Dual Degree structure (this is a structural feature of the program, not a need-based award).
+The cost model is **tuition + on-campus room & board**, rounded to the nearest ~$K in summary tables. Books, personal expenses, travel, loan origination, and required campus fees are excluded — they're roughly path-invariant (each adds ~$2–4K/yr regardless of school) and including them adds noise without changing the relative ranking. Jack's parent set the simplification scope.
+
+### Per-school baseline (2025–26 rates)
+
+Assumptions used throughout (merit scholarships are **tuition-only** — they don't reduce R&B):
+
+| School | Tuition (net) | R&B (on-campus) | All-in / yr | Notes |
+|---|---|---|---|---|
+| Hobart | ~$34,207 (50% merit on $68,414) | ~$18,210 (standard room + Finger Lakes meal plan) | **~$52K** | **50% merit needs offer-letter confirmation.** Hobart standard room $9,642 + Finger Lakes meal $8,568. Cheaper meal plan options bring R&B down by $5–7K. |
+| WPI | ~$36,046 ($27K merit on $63,046) | ~$18,900 (housing $10,200 + food $8,700) | **~$55K** | Per WPI's published 2025–26 first-year COA. |
+| Columbia | ~$70,170 (full sticker) | ~$13,222 (upperclass on-campus + meal plan) | **~$83K** | Columbia first-year R&B is $11,900; upperclass $13,222. Used upperclass as the conservative case. No need-based aid assumed. |
+| Dartmouth | ~$68,000 (full sticker) | ~$20,670 (housing $12,579 + food $8,091, all 3 quarters) | **~$89K** | Dartmouth quarter system; full-year R&B is $20,670 across 3 terms. No need-based aid assumed. |
+| WashU undergrad | full sticker (~$65K) | ~$20,000 | **~$85K** | Not used in the model — Jack enters WashU as a grad student via 3:3. |
+| WashU 3:3 grad years | ~$34,595 (50% Graduate Affiliation Scholarship on $69,190) | ~$20,000 (typical grad off-campus housing + food) | **~$54.5K** | GAS is a structural feature of the 3:3 program, not need-based. |
+| RPI | ~$65,000 (full sticker) | ~$18,560 (room $9,750 + meal $8,810) | **~$83K** | RPI double room + standard meal plan. |
+| UBC (international) | ~$56,000 USD (CAD ~$66,200 @ 0.73) | ~$11,000 USD (residence ~CAD $7K + All Access Dining CAD $7,250 ≈ CAD $14K → USD ~$11K) | **~$67K USD** | International engineering tuition. UBC R&B based on Place Vanier / Orchard Commons / Totem Park residence + mandatory All Access Dining. Off-campus Vancouver runs higher. |
+| SDSU / Cal State (CA resident) | ~$9,000 (in-state tuition + campus fees) | ~$20,000 (on-campus residence + required first-year meal plan; mid-tier room) | **~$29K** | Jack is a CA resident. SDSU first-year on-campus typically $20–22K all-in for room+meal. **If Jack commutes from home, R&B drops to ~$0** — cuts ~$30–40K from the 2-year Cal State portion of Option 2e. |
+| USNA (military wildcard) | $0 | $0 | **$0** + monthly stipend | Tuition, R&B, medical all covered. Midshipmen receive a monthly stipend (~$1,200/mo, increases by year). 5-year active-duty service commitment post-grad. |
 
 ### Option 1: WPI (4 years)
 
-- Net tuition: $36,046/yr × 4 = **~$144K**
+- All-in: $55K/yr × 4 = **~$220K**
+- *(Tuition-only would be $36K × 4 = ~$144K.)*
 
 ### Option 2a: Hobart → Columbia 3:2 (5 years)
 
-- Hobart (3 years): $34,207 × 3 = ~$103K
-- Columbia (2 years): $70,170 × 2 = ~$140K
-- **Total tuition: ~$243K** (rounded ~$242K in summary tables)
+- Hobart (3 years): $52K × 3 = ~$156K
+- Columbia (2 years): $83K × 2 = ~$166K
+- **Total all-in: ~$322K**
 
 ### Option 2b: Hobart → Dartmouth 2:1:1:1 (5 years)
 
-- Hobart (3 years total across years 1, 2, 4): $34,207 × 3 = ~$103K
-- Dartmouth (2 years total across years 3, 5): ~$70K × 2 = ~$140K (Dartmouth undergrad tuition comparable to Columbia)
-- **Total tuition: ~$242K**
+- Hobart (3 years total — Y1, Y2, Y4): $52K × 3 = ~$156K
+- Dartmouth (2 years total — Y3, Y5): $89K × 2 = ~$178K
+- **Total all-in: ~$334K**
+- Slightly more expensive than Columbia 3:2 because Dartmouth's R&B sticker is higher (~$21K vs. Columbia's ~$13K); their tuition is roughly equal.
 
 ### Option 2c: Hobart → WashU 3:3 (6 years)
 
-- Hobart (3 years): $34,207 × 3 = ~$103K
-- WashU graduate tuition $69,190 × 50% auto-discount × 3 years = ~$103K
-- **Total tuition: ~$205K**
-- Delivers **BA + BS + MS** in 6 years.
+- Hobart (3 years): $52K × 3 = ~$156K
+- WashU grad (3 years, with 50% GAS): $54.5K × 3 = ~$163.5K
+- **Total all-in: ~$320K**
+- Delivers **BA + BS + MS** in 6 years. Roughly the same total cost as Columbia 3:2 despite adding an extra year and a master's degree, because WashU's per-year cost is materially lower.
 
 ### Option 2d: Hobart → RPI 3:2 (5 years)
 
-- Hobart (3 years): $34,207 × 3 = ~$103K
-- RPI (2 years): ~$67K × 2 = ~$134K
-- **Total tuition: ~$236K**
+- Hobart (3 years): $52K × 3 = ~$156K
+- RPI (2 years): $83K × 2 = ~$166K
+- **Total all-in: ~$322K**
 
 ### Option 2e: Hobart BA → State School BSME (Hobart Applied Physics + Cal State BSME)
 
-**Jack is a California resident**, so Cal State BSME tuition is at in-state rates (~$9K/yr including mandatory campus fees at SDSU). WSU is out-of-state for a California resident and is not competitive on cost (~$30K/yr non-resident), so it's dropped from the primary cost model below. Any Cal State with an ABET BSME and the right prereq path (SDSU, Cal Poly SLO if admissions permit, SJSU, CSU Long Beach, etc.) can substitute for SDSU at similar in-state pricing.
+**Jack is a California resident**, so Cal State BSME tuition is at in-state rates. Any Cal State with an ABET BSME and the right prereq path (SDSU, Cal Poly SLO if admissions permit, SJSU, CSU Long Beach, etc.) can substitute for SDSU at similar in-state pricing.
 
-**With full Hobart BA (6 years):**
-- Hobart (4 years): $34,207 × 4 = ~$137K
-- SDSU resident (2 years): ~$9K × 2 = ~$18K → **Total ~$155K** (rounded ~$154K in summary table)
+**With full Hobart BA, 6 years (on-campus CSU):**
+- Hobart (4 years): $52K × 4 = ~$208K
+- SDSU on-campus (2 years): $29K × 2 = ~$58K
+- **Total all-in: ~$266K**
 
-**Leaving Hobart after year 3 without BA (5 years):**
-- Hobart (3 years): ~$103K
-- SDSU resident (2 years): ~$18K → **Total ~$121K** (rounded ~$120K in summary table)
+**With full Hobart BA, 6 years (commuting CSU from home):**
+- Hobart (4 years): ~$208K
+- SDSU commuting (2 years, tuition only ~$9K): ~$18K
+- **Total all-in: ~$226K** — roughly $40K cheaper if Jack lives at home for the Cal State portion.
+
+**Leaving Hobart after year 3 without BA, 5 years (on-campus CSU):**
+- Hobart (3 years): ~$156K
+- SDSU on-campus (2 years): ~$58K
+- **Total all-in: ~$214K** — sacrifices the Hobart BA to save ~$50K.
+
+### Option 2f: Hobart BA → OCS → post-service MS
+
+- Hobart BA (4 years): $52K × 4 = **~$208K out-of-pocket**
+- Military service: paid (officer salary).
+- Post-service MS at Dartmouth Thayer / Cornell / Stanford via GI Bill + Yellow Ribbon: **$0 tuition** (housing allowance + books stipend on top).
+- **Total all-in: ~$208K** for a Hobart BA + elite engineering MS. Service commitment (3–5 yrs) is the real cost, not the dollar number.
 
 ### Add-on to Option 1: WPI → Ivy transfer (highly competitive long shot)
 
-- If transfer lands (at end of year 1 or year 2): WPI $36K × 1–2 + Ivy $70K × 2–3 = **~$212K–$282K**
-- If transfer fails: stays at WPI → same as Option 1 (~$144K)
+- If transfer lands (end of year 1 or year 2): WPI $55K × 1–2 + Ivy $83K–$89K × 2–3 = **~$300K–$370K all-in**
+- If transfer fails: stays at WPI → same as Option 1 (~$220K all-in)
 
 ### Option 3: UBC (4 years, international)
 
-- International engineering tuition: CAD $66,200/year → ~USD $48,300/year at $0.73
-- **4-year total tuition: ~$193K USD**
-- Tuition increases capped at 3%/yr (predictable).
+- All-in (USD): $67K × 4 = **~$268K USD**
+- Tuition increases capped at 3%/yr (predictable). FX risk on Canadian dollar.
 
-### Cost summary table
+### Cost summary table (tuition + on-campus R&B, USD)
 
-| Option | Total tuition | Years | Degrees awarded |
+| Option | All-in cost | Years | Degrees awarded |
 |---|---|---|---|
-| 2e. Hobart (3yr, no BA) → SDSU (CA resident) | ~$120K | 5 | BSME |
-| 1. WPI | ~$144K | 4 | BS Engineering |
-| 2e. Hobart Applied Physics (4yr BA) → SDSU (CA resident) | ~$154K | 6 | BA Physics + BSME |
-| 3. UBC | ~$193K | 4 | BASc Engineering |
-| 2c. Hobart → WashU 3:3 | ~$205K | 6 | BA + BS + MS Engineering |
-| Add-on. WPI → Ivy (if transfer works) | ~$212K–$282K | 4 | BS Engineering (Ivy) |
-| 2d. Hobart → RPI 3:2 | ~$236K | 5 | BA + BS Engineering |
-| 2a. Hobart → Columbia 3:2 or 2b. Hobart → Dartmouth 2:1:1:1 | ~$242K | 5 | BA + BS/BE Engineering (Ivy) |
+| 2f. Hobart BA → OCS → MS | ~$208K + $0 grad | 4 + service | BA + post-service MS |
+| 1. WPI | ~$220K | 4 | BS Engineering |
+| 2e. Hobart BA → Cal State BSME (commute) | ~$226K | 6 | BA Physics + BSME |
+| 3. UBC | ~$268K (USD) | 4 | BASc Engineering |
+| 2e. Hobart BA → Cal State BSME (on-campus) | ~$266K | 6 | BA Physics + BSME |
+| 2c. Hobart → WashU 3:3 | ~$320K | 6 | BA + BS + MS Engineering |
+| 2a. Hobart → Columbia 3:2 | ~$322K | 5 | BA + Columbia BS |
+| 2d. Hobart → RPI 3:2 | ~$322K | 5 | BA + RPI BS |
+| 2b. Hobart → Dartmouth 2:1:1:1 | ~$334K | 5 | BA + Dartmouth BE |
+| Add-on. WPI → Ivy (if transfer works) | ~$300K–$370K | 4 | BS Engineering (Ivy) |
+
+### What's excluded from these numbers (and why it doesn't change the ranking)
+
+- **Books and supplies:** ~$1K–$1.5K/yr per school. Roughly equal across paths.
+- **Personal expenses:** Schools quote ~$1.5K–$2.5K/yr. Driven more by Jack than by school.
+- **Travel:** Cross-country flights to/from Hobart, Vancouver, or St. Louis are higher than to/from a Cal State, but rounding to per-year doesn't materially change a 5–6 year total.
+- **Required fees** beyond the campus fees already bundled into Cal State tuition. Most schools quote $1K–$3K/yr in fees on top of tuition; folding them in would shift each path by $5–15K total but not reorder anything.
+- **FX risk on UBC:** modeled at $0.73 USD/CAD. A 10% CAD swing changes UBC's total by ~$25K USD in either direction.
 
 ### Military options cost
 
-- **USNA:** Tuition, room, board covered. Students receive a monthly stipend. **Net tuition cost: $0.** Service obligation: 5 years active + 3 years reserve post-commissioning.
-- **OCS / NUPOC:** Applied after any civilian degree. OCS itself is a 13-week school at Newport, RI. NUPOC offers signing bonuses of $15K–$38K and pay during school. Service obligation 5–8 years depending on community.
-- **ROTC:** considered and excluded on capacity grounds — see Section 6c.
+- **USNA:** Tuition, R&B, medical all covered. Monthly stipend (~$1,200/mo, increases by year). **Net cost: $0** out-of-pocket. Service obligation: 5 years active + 3 years reserve post-commissioning.
+- **OCS / NUPOC:** Applied after any civilian degree. OCS itself is a 13-week school at Newport, RI. NUPOC offers signing bonuses of $15K–$38K and pay during school. Service obligation 5–8 years depending on community. Doesn't change the cost of the underlying college path — only what happens after.
+- **Post-service MS via GI Bill + Yellow Ribbon (Option 2f mechanism):** $0 tuition at Dartmouth Thayer (uncapped Yellow Ribbon), near-$0 at Cornell, Stanford, and similar. Mechanism detail in `hobart.md` Option 2f.
 
 ---
 
@@ -739,14 +776,14 @@ Rough estimates of tuition-only value if Jack completes 3+ years of active duty 
 
 #### How this changes the cost math for the primary paths
 
-| Primary path | Stand-alone tuition | With military service + GI Bill grad school after |
+| Primary path | Stand-alone all-in cost | With military service + GI Bill grad school after |
 |---|---|---|
-| Option 1 (WPI) | ~$144K | Can add Dartmouth/Cornell/Stanford MS for ~$0 post-service. Strong cost efficiency. |
-| Option 2e (Hobart BA → NUPOC, skip the state-school BSME) | ~$137K (Hobart BA only) | Can add **Dartmouth Thayer MS for ~$0** post-service. End state: Physics BA + Navy nuclear service + Dartmouth MEng. |
-| Option 3 (UBC) | ~$193K | Same — post-service MS at Dartmouth/Cornell possible. Upgrades the US-brand-recognition problem of the UBC undergrad. |
-| Options 2a/2b (Hobart → Ivy) | ~$242K | Less value-add since Ivy BS is already in hand; still available if he wants a further MS. |
+| Option 1 (WPI) | ~$220K | Can add Dartmouth/Cornell/Stanford MS for ~$0 post-service. Strong cost efficiency. |
+| Option 2f (Hobart BA → OCS / NUPOC, skip the state-school BSME) | ~$208K (Hobart BA only) | Can add **Dartmouth Thayer MS for ~$0** post-service. End state: Physics BA + Navy nuclear service + Dartmouth MEng. |
+| Option 3 (UBC) | ~$268K (USD) | Same — post-service MS at Dartmouth/Cornell possible. Upgrades the US-brand-recognition problem of the UBC undergrad. |
+| Options 2a/2b (Hobart → Ivy) | ~$322K–$334K | Less value-add since Ivy BS is already in hand; still available if he wants a further MS. |
 
-**Key insight:** the military path is not just "how Jack pays for his first degree" — it's also a **structured path to an elite engineering MS at near-zero tuition after service.** This is particularly powerful for Options 1, 4, and 5, where the undergrad credential is less prestigious (or less expensive) than an Ivy BS and can be topped with a Dartmouth/Cornell/Stanford MS for effectively free.
+**Key insight:** the military path is not just "how Jack pays for his first degree" — it's also a **structured path to an elite engineering MS at near-zero tuition after service.** This is particularly powerful for Options 1 and 2f, where the undergrad credential is less prestigious (or less expensive) than an Ivy BS and can be topped with a Dartmouth/Cornell/Stanford MS for effectively free.
 
 ### 6a. USNA (US Naval Academy) — apply this summer
 

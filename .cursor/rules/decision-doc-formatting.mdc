@@ -10,7 +10,7 @@ These rules apply to `decision.md` and `background.md`. Gary has asked for these
 
 ## 1. Table cells with ratings/amounts MUST have `<br>` after the bolded lead
 
-Every cell in the main comparison table's **Engineering Reputation**, **Rowing Culture Fit**, **Tuition Cost**, and **Risk** columns must follow this pattern (the column header is `Tuition Cost`, not `Cost`):
+Every cell in the main comparison table's **Engineering Reputation**, **Rowing Culture Fit**, **Cost**, and **Risk** columns must follow this pattern (the column header is `Cost` — was renamed from `Tuition Cost` when the model switched to tuition + R&B):
 
 ```
 **<Rating or amount>.**<br><supporting detail>
@@ -80,12 +80,32 @@ Single tilde (`~$120K`) = "approximately." Double tilde (`~~$120K~~`) renders as
 
 ## 4. Cost baseline facts (update together if any of these change)
 
-- **Hobart:** 50% merit scholarship → ~$34K/yr net tuition. **Needs offer-letter confirmation.**
-- **WPI:** $27K/yr merit scholarship → ~$36K/yr net tuition.
-- **Ivy (Columbia / Dartmouth):** full sticker, ~$70K/yr. No need-based aid assumed.
-- **WashU 3:3 graduate years:** 50% automatic Graduate Affiliation Scholarship → ~$34.5K/yr net.
-- **RPI, UBC:** full sticker.
-- **SDSU / Cal States:** **Jack is a California resident** → ~$9K/yr (in-state tuition + campus fees). WSU is out-of-state and dropped from the primary cost model.
+The cost model is **tuition + on-campus room & board**, rounded to the nearest ~$K. Books / personal / travel / required fees are excluded (path-invariant). Merit scholarships apply to **tuition only**, not R&B.
+
+**Per-year all-in cost (tuition + R&B), 2025–26 rates:**
+
+- **Hobart:** ~$34K net tuition (50% merit, **needs offer-letter confirmation**) + ~$18K R&B = **~$52K/yr all-in**.
+- **WPI:** ~$36K net tuition ($27K merit awarded) + ~$19K R&B = **~$55K/yr all-in**.
+- **Columbia:** ~$70K tuition + ~$13K R&B = **~$83K/yr all-in**. No need-based aid assumed.
+- **Dartmouth:** ~$68K tuition + ~$21K R&B = **~$89K/yr all-in**. No need-based aid assumed.
+- **WashU 3:3 graduate years:** ~$34.5K net tuition (50% automatic Graduate Affiliation Scholarship) + ~$20K R&B = **~$54.5K/yr all-in**.
+- **RPI:** ~$65K tuition + ~$18K R&B = **~$83K/yr all-in**. Full sticker.
+- **UBC (international, USD):** ~$56K tuition + ~$11K on-campus residence + All Access Dining = **~$67K/yr all-in (USD)**.
+- **SDSU / Cal States (CA resident, on-campus):** ~$9K tuition + ~$20K R&B = **~$29K/yr all-in**. If Jack commutes from home, path is ~$30–40K cheaper over 2 Cal State years. WSU is out-of-state (~$30K/yr tuition) and dropped from the primary cost model.
+- **USNA (if the wildcard hits):** all-inclusive — tuition + R&B + medical + monthly stipend = **$0 out-of-pocket** for a 5-year active-duty commitment post-grad.
+
+**Totals by option (refresh if per-year numbers above change):**
+
+| # | Option | Total | Years |
+|---|---|---|---|
+| 1 | WPI | **~$220K** | 4 |
+| 2a | Hobart → Columbia (3:2) | **~$322K** | 5 |
+| 2b | Hobart → Dartmouth (2:1:1:1) | **~$334K** | 5 |
+| 2c | Hobart → WashU (3:3) | **~$320K** | 6 |
+| 2d | Hobart → RPI (3:2) | **~$322K** | 5 |
+| 2e | Hobart BA → Cal State BSME | **~$266K** (on-campus CSU) | 6 |
+| 2f | Hobart BA → OCS → MS | **~$208K undergrad + $0 grad** | 4 + service |
+| 3 | UBC | **~$268K (USD)** | 4 |
 
 ## 5. Rowing eligibility facts (don't invent or drift)
 
