@@ -54,9 +54,23 @@ The current numbering is:
 | 2c | Hobart → WashU (3:3) |
 | 2d | Hobart → RPI (3:2) |
 | 2e | Hobart BA → State School BSME |
+| 2f | Hobart BA → OCS → MS (via GI Bill + Yellow Ribbon) |
 | 3 | UBC |
 
-All five Hobart-starting paths are grouped under option #2 (2a–2e) since they share the same first 1–3 years at Hobart and differ only in the post-Hobart leg. UBC is option #3 since it's the only non-Hobart, non-WPI path.
+All six Hobart-starting paths are grouped under option #2 (2a–2f) since they share the same first 1–4 years at Hobart and differ only in the post-Hobart leg. 2f specifically is the military-service path (OCS → 3–5 yrs service → tuition-free MS at Dartmouth Thayer / Cornell / Stanford) — it lives alongside 2a–2e because the shape is the same (Hobart start, post-Hobart leg determines the credential and the cost). UBC is option #3 since it's the only non-Hobart, non-WPI path.
+
+Option 2f detail lives in `hobart.md`, not `decision.md`. The `decision.md` military section should NOT re-explain GI Bill / Yellow Ribbon mechanics — link to `hobart.md#the-other-hobart-forks` instead. Single source of truth for the mechanism is the "How Option 2f pays for the engineering credential" subsection in `hobart.md`.
+
+## 6. Military detail lives in `military.md`, not `decision.md`
+
+`decision.md`'s Military option section is deliberately kept short: USNA wildcard (with the transfer-credit plebe-restart disclaimer), post-grad OCS, and pointers to `military.md` + `hobart.md` Option 2f. It should NOT contain:
+
+- The full four-bucket role-type table (technical/nuclear, operational line, engineering duty, SpecOps).
+- The step-by-step entry path breakdown for NUPOC, OCS designators, Army Direct Commissioning.
+- The per-primary-path interaction table.
+- The practical recommendation bullet list.
+
+All of that lives in `military.md`. If the reader needs it, they follow the link. This mirrors the `hobart.md` / Option 2f split: the decision doc stays focused on the 3-way starting-school choice and its immediate implications; follow-on detail lives in topic-specific files.
 
 When referencing options in prose, use these numbers. Do not renumber without explicit instruction.
 

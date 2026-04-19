@@ -192,13 +192,17 @@ Dartmouth's quarter system (10-week terms) with six ENGS courses in year 3 is de
 #### WashU rowing
 
 - WashU Rowing is a **student-run club** program (not NCAA varsity), but **nationally competitive within the club division.**
-- Competes in **ACRA (American Collegiate Rowing Association)** — the de facto national championship for club programs.
+- Competes in **ACRA (American Collegiate Rowing Association)** — the de facto national championship for club programs. 2025 field: **77 clubs, 388 entries.** Top of the men's side includes UVA (2025 M8 champion), UCLA, Purdue, Rutgers, Michigan, Bucknell — programs that rival or exceed many DIII varsity programs in training volume and racing quality.
+- **2024 ACRA Championship results (men's side):**
+  - **Men's 4+ : 1st in Grand Final — ACRA national champion**
+  - Men's 8+: 14th overall (2nd in C Final) — mid-pack in the flagship eight
 - **2025 ACRA Championship results:**
   - **Men's 2- : 3rd in Grand Final (bronze medal)**
   - Women's V8+: 4th in Grand Final
   - Women's 2-: 6th in Grand Final
   - Men's Novice 4+: B Final
   - Men's 2x: E Final
+- **Pattern:** WashU men's small boats (4+, 2-) race at a genuinely national level. The flagship M8 is mid-pack against a deep ACRA field.
 - Competes at **Head of the Charles, Head of the Rock, Head of the Hooch** — legitimate national-level racing calendar.
 - **Caveat 1 (category):** No lightweight category at ACRA; openweight club racing only. Jack would be stepping down from IRA-system Hobart racing to national-level club racing. Not a lightweight destination, but not a rowing dead end either.
 - **Caveat 2 (eligibility — critical):** ACRA enforces its own 4-seasons-in-5-years clock counting prior intercollegiate competition (ACRA 2025 Regatta Packet, Eligibility Rule #2). Jack's 3 Hobart IRA seasons burn 3 of 4 ACRA seasons. He has **1 ACRA season of eligibility remaining when he arrives at WashU** — Y4 only. Y5–Y6 at WashU as a grad student are eligibility-exhausted. See the dedicated eligibility section below for the full rule analysis.
@@ -250,9 +254,10 @@ Dartmouth's quarter system (10-week terms) with six ENGS courses in year 3 is de
 
 #### WPI rowing
 
-- NCAA DIII rowing in NEWMAC conference.
-- Historically strong **women's** program (2022 NCAA DIII national champions, raced at Women's Henley).
-- **Men's program is a step below Hobart.** At the 2025 NIRC V8 heat: Trinity 5:43, MIT 5:47, Hobart 5:53, Vassar 6:00, WPI 6:02. **Hobart beat WPI by ~9 seconds.**
+- NCAA DIII program. **Important:** NEWMAC does not run a men's rowing championship — only women's. WPI men are technically a NEWMAC member but compete on the **New England DIII invitational circuit** and target the **IRA DIII National Championship** (held on the Cooper River in Camden, NJ) as their peak event.
+- Historically strong **women's** program (2022 NCAA DIII national champions, raced at Women's Henley); women won the 2025 NEWMAC championship as silver medalists to Wellesley.
+- **Men's program is mid-pack in DIII and a step below Hobart.** At the 2025 NIRC V8 heat: Trinity 5:43, MIT 5:47, Hobart 5:53, Vassar 6:00, WPI 6:02. **Hobart beat WPI by ~9 seconds.**
+- **Not selected to 2025 IRA DIII Championships.** IRA DIII 2025 was won by Trinity; Points Trophy top 8 were Tufts, Trinity, Williams, Bates, Wesleyan, Colby, Ithaca, Marietta — WPI did not make the field. At NIRC (the resume-building regatta used to earn IRA DIII bids), WPI's V8 was relegated to a 3rd-level final, where they finished 2nd behind Hamilton.
 - No dedicated lightweight racing.
 
 #### WPI cost
@@ -399,9 +404,9 @@ Lightweight-category context for reference: dedicated lightweight racing exists 
 | Dartmouth | Elite Ivy LW | **Yes, dedicated** | **Yes, elite** | 2025 IRA silver medalist (best in program history); V4 Eastern Sprints silver 2025 |
 | UBC | Elite Canadian varsity | No — openweight (4 LW roster slots) | **No for Jack** — walk-on is uncertain (Jack's own assessment); even if he walks on, only 4 LW slots | 7 of last 9 Canadian national titles; Olympic pipeline; HOCR Championship Eights competitor |
 | Hobart | IRA system D1/D2 level | No — openweight only | **Yes, strong** | #24 2025 coaches poll; moving to Dad Vail 2026 |
-| WashU | ACRA club (nationally competitive) | No — openweight only | **Yes, strong** | 2025 ACRA: **Men's 2- bronze**; Women's V8+ 4th Grand Final. Races HOCR, Head of the Hooch |
+| WashU | ACRA club (nationally competitive) | No — openweight only | **Yes, strong (nationally)** | 2024 ACRA **Men's 4+ national champion**; 2025 ACRA **Men's 2- bronze** (Grand Final). M8 is mid-pack in the 77-club ACRA field. Top ACRA programs (UVA, UCLA, Purdue, Rutgers, Michigan) rival or exceed many DIII varsity programs. |
 | Navy (USNA) | Patriot League DI | Lightweight exists, smaller | **Yes** | Navy LW competes at Eastern Sprints |
-| WPI | DIII NEWMAC | No — openweight only | **Partial** (tier below Hobart) | #9 D3 coaches poll 2025; beaten by Hobart by 9s at NIRC V8 |
+| WPI | DIII IRA system (NEWMAC is women's-only for rowing) | No — openweight only | **Partial** (mid-pack DIII, tier below Hobart and WashU M-small-boats) | **Not selected to 2025 IRA DIII Championships.** #9 D3 coaches poll 2025; beaten by Hobart by 9s at NIRC V8; V8 relegated to 3rd-level final at NIRC. |
 | RPI | Recreational club | N/A | **No** | No ACRA/IRA entries; 2024 raced Head of the Hudson only; Spring 2026 race schedule TBD |
 | SDSU | Club | N/A | **No** | Not competitive |
 | WSU | Club | N/A | **No** | Not competitive |
@@ -501,7 +506,7 @@ ACRA is not governed by IRA or NCAA, but it has its own written eligibility rule
 
 **Option 1: WPI**
 
-- NCAA DIII program in the NEWMAC conference (not IRA for the varsity heavyweight/lightweight championships Jack would target, though WPI does enter Dad Vail and similar regattas). 4 seasons in 5 years under NCAA rules. With a 4-year BS, he uses all 4 naturally. No eligibility constraints.
+- NCAA DIII program. NEWMAC does not run a men's rowing championship, so WPI men compete on the New England DIII invitational circuit and target the **IRA DIII National Championship** as their peak event (when selected — WPI was not selected in 2025). 4 seasons in 5 years under NCAA rules. With a 4-year BS, he uses all 4 naturally. No eligibility constraints.
 
 **Option 3: UBC (U Sports, not NCAA/IRA)**
 
