@@ -1,6 +1,10 @@
 # Background — Jack's College Decision
 
-*Longform reference document. All specifics pulled from the two prior research handoffs (`handoffs/college_decision_handoff.md` and `handoffs/jack_engineering_pathway_handoff.md`) plus additional research on the military-option wildcard and state-school engineering transfer pathways. Companion to `README.md`, which contains the framing and recommendation.*
+*Longform reference document. All specifics pulled from the two prior research handoffs (`handoffs/college_decision_handoff.md` and `handoffs/jack_engineering_pathway_handoff.md`) plus additional research on the military-option wildcard and state-school engineering transfer pathways. Companion to:*
+
+- *[`README.md`](./README.md) — the primary decision doc with the 3-way framework (WPI / Hobart / UBC), comparison table, and short summaries.*
+- *[`hobart.md`](./hobart.md) — read only if the starting-school choice is Hobart. Detailed per-option breakdown of the junior-year fork (2a–2f), portfolio strategy, eligibility reframing, and the Option 2f GI Bill + Yellow Ribbon mechanics.*
+- *[`military.md`](./military.md) — read only if a military path is under serious consideration. Role-type table, entry paths (USNA / NUPOC / OCS / Army Direct Commissioning), per-primary-path interaction table, and practical recommendations.*
 
 *Research date: April 2026. Rankings, costs, and rowing results should be re-verified before any commitment.*
 
@@ -921,13 +925,17 @@ Apply to Dartmouth 2:1:1:1 sophomore year as a reach. Low downside (cheap to app
 
 ### USNA as parallel reach
 
-Apply to USNA summer/fall of freshman year. Accepts ~8% of applicants plus the nomination hurdle, but zero tuition cost and BS in engineering. Parallel track — doesn't foreclose the 3:2 portfolio if rejected.
+Apply to USNA summer/fall of freshman year. Accepts ~8% of applicants plus the nomination hurdle, but zero out-of-pocket cost (tuition + R&B + medical + monthly stipend) and BS in engineering. Parallel track — doesn't foreclose the 3:2 portfolio if rejected. **Important caveat:** USNA does not accept transfer credit; if admitted after Hobart freshman year, Jack restarts as a plebe (Class of 2031 instead of 2030).
+
+### Post-grad OCS as the Hobart-BA pivot (Option 2f)
+
+If the dual-degree forks fail (Columbia / Dartmouth / WashU / RPI all reject) and Jack still wants an elite engineering credential, **post-grad OCS + GI Bill + Yellow Ribbon** is materially better than the Cal State BSME (Option 2e) for the final credential. Mechanism: Hobart BA (~$208K all-in) → 3–5 years of commissioned service → tuition-free MS at Dartmouth Thayer (uncapped Yellow Ribbon), Cornell, or Stanford. End state: Hobart BA + Navy/military service + elite engineering MS for the same $208K out-of-pocket as Option 2f (instead of $266K for 2e + a Cal State BSME). The trade is the service commitment itself, not the credential quality. Only the right play if Jack is independently drawn to military service. Full mechanism in [`hobart.md`](./hobart.md#how-option-2f-pays-for-the-engineering-credential); role-type detail in [`military.md`](./military.md).
 
 ### Pivot rules
 
 - **GPA checkpoint end of sophomore year:** if cumulative < 3.25, have a serious conversation about direct transfer to an engineering school vs. another year of Hobart tuition.
 - **Dartmouth 2:1:1:1 if pursued:** if visibly struggling by end of fall term at Dartmouth, talk to the Dual-Degree director immediately. Early pivot = more options intact.
-- **If all 3:2 partners reject:** the rational move is direct transfer from Hobart to SDSU (California resident, ~$9K/yr) rather than finishing a Hobart BA purely for completion's sake. Finishing the Hobart BA adds ~$34K (one additional year at 50% scholarship) for a credential he'll barely use once an ABET BSME is on his resume. **Unless NUPOC is the target**, in which case completing the physics BA makes sense.
+- **If all 3:2 partners reject:** three forks. (a) Direct transfer Hobart → SDSU as a CA resident — cheapest at ~$214K all-in over 5 years, but no Hobart BA. (b) Finish Hobart BA + Cal State BSME (Option 2e, ~$266K / 6 yrs) — keeps the BA but adds ~$52K. (c) Finish Hobart BA + post-grad OCS + tuition-free MS (Option 2f, ~$208K + service) — cheapest *and* highest-credential, but requires the service commitment. Pick based on whether NUPOC / OCS is independently attractive.
 
 ---
 
