@@ -3,7 +3,7 @@
 *Longform reference document. All specifics pulled from prior agent-conversation research plus additional research on the military-option wildcard and state-school engineering transfer pathways. Companion to:*
 
 - *[`README.md`](./README.md) — the primary decision doc with the 3-way framework (WPI / Hobart / UBC), comparison table, and short summaries.*
-- *[`hobart.md`](./hobart.md) — read only if the starting-school choice is Hobart. Detailed per-option breakdown of the junior-year fork (2a–2f), portfolio strategy, eligibility reframing, and the Option 2f GI Bill + Yellow Ribbon mechanics.*
+- *[`hobart.md`](./hobart.md) — read only if the starting-school choice is Hobart. Detailed per-option breakdown of the junior-year fork (2a–2g), portfolio strategy, eligibility reframing, and the Option 2g GI Bill + Yellow Ribbon mechanics.*
 - *[`military.md`](./military.md) — read only if a military path is under serious consideration. Role-type table, entry paths (USNA / NUPOC / OCS / Army Direct Commissioning), per-primary-path interaction table, and practical recommendations.*
 
 *Research date: April 2026. Rankings, costs, and rowing results should be re-verified before any commitment.*
@@ -343,7 +343,7 @@ Cornell Engineering is **gated on specific prereqs** — missing any one (Calc I
 
 ### 3h. SDSU (San Diego State University) — last-resort state school for BSME
 
-- **Role in Jack's plan:** Post-Hobart transfer for ABET BSME. Relevant for Option 2e (Hobart BA → State School BSME).
+- **Role in Jack's plan:** Post-Hobart transfer for ABET BSME. Relevant for Option 2f (Hobart BA → State School BSME).
 
 #### SDSU ME — admission requirements (for major change/transfer)
 
@@ -387,6 +387,56 @@ Transfer prereq requirements vary by campus. SDSU's requirements (Calculus I–I
 ### 3i. WSU (Washington State University) — not cost-competitive for CA residents
 
 Previously considered as an alternative BSME transfer destination. **Dropped from the primary cost model** because Jack is a California resident and WSU non-resident tuition (~$30K/yr) is dominated by any Cal State at in-state pricing (~$9K/yr). WSU stays on the list only as a geographic-preference wildcard (Pullman/Pacific Northwest) if that preference is strong enough to pay a ~$40K premium over SDSU for two years.
+
+---
+
+### 3j. Syracuse University (via 4+2 pathway) — new partnership, MS-only
+
+- **Location:** Syracuse, NY (~1 hr from Hobart)
+- **Role in Jack's plan:** Backup-to-the-backup for the Hobart path if both WashU 3:3 and Cal State BSME fall through. Not a primary target.
+
+#### Syracuse 4+2 partnership — structure
+
+In a March 2026 announcement, Syracuse's College of Engineering and Computer Science (ECS) launched 4+2 master's pathway partnerships with six NY partner schools (HWS, Canisius, Marist, Mercy, Nazareth, Utica). Structure: complete a BA/BS in **science or mathematics** at Hobart (4 years), then enter Syracuse ECS for an MS in engineering (typically 24 months / ~30 credits).
+
+- **Admission gate:** 3.2 cumulative Hobart GPA + faculty recommendation + science or math major → **direct admission** (similar to WashU's "near-automatic if criteria met" standard).
+- **Bridge course:** required for students from non-engineering BAs (physics BA qualifies; bridge may be waived for certain well-prepared students).
+- **12 MS programs available:** biomedical engineering, chemical engineering, mechanical engineering, civil engineering, environmental engineering, computer engineering, computer science, cybersecurity, among others.
+
+#### Syracuse 4+2 — what it actually delivers
+
+Unlike the existing 3:2 (Columbia, RPI) or 3:3 (WashU) partnerships, the Syracuse agreement skips the ABET BS entirely. **Jack would finish with a Hobart BA in physics + Syracuse MS in engineering — no BS.** This is structurally similar to the Hobart BA + post-service MS path (Option 2g), but without the military service.
+
+- **Engineering reputation:** Syracuse ECS is ranked ~#70 for engineering (US News) — below WashU (~#42), RPI (~#35), Columbia (~#21), Dartmouth (~#51), and roughly tied with WPI (~#64).
+- **ABET status concern:** an MS-only engineering credential without an ABET-accredited BS is a weaker profile for early-career engineering roles and is **disqualifying for Professional Engineer (PE) licensure in most states**, which requires the BS to be ABET-accredited.
+
+#### Syracuse rowing — structurally doesn't extend rowing
+
+- Syracuse men's rowing is a **heavyweight-only IRA program** (EARC conference; V8 finished 6th at 2025 IRA Nationals; #7 2026 preseason IRCA/IRA poll). **No lightweight program.**
+- By the time Jack arrives at Syracuse (Y5), he has already used 4 IRA seasons at Hobart. **Under the IRA/NCAA 4-in-5 clock, his eligibility is exhausted** — same constraint that binds the Ivy and ACRA paths.
+- **Result: 0 rowing seasons at Syracuse.** Same outcome as Option 2f (Cal State) or 2g (OCS) — rowing ends with the Hobart BA.
+
+#### Syracuse cost
+
+- **Tuition (on-campus, 2025–26):** $2,015/credit × 18 credits/yr ≈ **~$36,270/yr tuition**.
+- **Housing and food (Syracuse Graduate COA):** ~$16,338/yr.
+- **All-in per year (tuition + R&B):** ~$52,600/yr.
+- **2-year MS all-in:** ~$105K.
+- **Combined 6-year total (Option 2e):** Hobart 4 yrs at ~$52K = ~$208K + Syracuse 2 yrs at ~$52.6K = ~$105K → **~$313K all-in.**
+- **No published partner-school scholarship or tuition discount.** The Syracuse announcement emphasizes "streamlined pathway" but makes no commitment on financial aid. This is an open item to confirm — even a 25% discount would improve the cost competitiveness materially.
+
+#### Why Syracuse 4+2 is dominated by existing options
+
+- **Dominated by WashU 3:3 (Option 2c) on every axis:** same 6-year timeline, same near-automatic admit (marginally easier at 3.2 GPA vs. 3.25), similar cost (~$320K vs. ~$313K), but WashU delivers a BA + ABET BS + MS (vs. 2e's BA + MS) and has a stronger engineering reputation (~#42 vs. ~#70) and a nationally competitive ACRA rowing season in Y4.
+- **Weaker credential profile than Cal State BSME (Option 2f):** 2f gives an ABET-accredited BSME, which is the baseline credential for engineering employment and PE licensure. Syracuse's MS-without-BS is structurally worse for early-career engineering roles.
+- **Only advantage:** marginally easier GPA gate (3.2 vs. WashU 3.25) and stays on the East Coast. Not enough to make it a primary target.
+
+#### When Option 2e would actually matter
+
+- **WashU rejects AND Cal State BSME rejects** — unlikely combination given WashU's 3.25 near-automatic admit and CSU's 2.7 admit floor.
+- **Or:** Jack specifically wants to stay in upstate NY for family/lifestyle reasons and values MS-only credential enough to accept the BS-less profile.
+
+In practice, 2e serves as a **floor-level fallback** that keeps a direct graduate-engineering pathway alive if the two stronger Hobart fallbacks (2c, 2f) both fail. It should not be the primary target.
 
 ---
 
@@ -558,7 +608,7 @@ Assumptions used throughout (merit scholarships are **tuition-only** — they do
 | WashU 3:3 grad years | ~$34,595 (50% Graduate Affiliation Scholarship on $69,190) | ~$20,000 (typical grad off-campus housing + food) | **~$54.5K** | GAS is a structural feature of the 3:3 program, not need-based. |
 | RPI | ~$65,000 (full sticker) | ~$18,560 (room $9,750 + meal $8,810) | **~$83K** | RPI double room + standard meal plan. |
 | UBC (international) | ~$56,000 USD (CAD ~$66,200 @ 0.73) | ~$11,000 USD (residence ~CAD $7K + All Access Dining CAD $7,250 ≈ CAD $14K → USD ~$11K) | **~$67K USD** | International engineering tuition. UBC R&B based on Place Vanier / Orchard Commons / Totem Park residence + mandatory All Access Dining. Off-campus Vancouver runs higher. |
-| SDSU / Cal State (CA resident) | ~$9,000 (in-state tuition + campus fees) | ~$20,000 (on-campus residence + required first-year meal plan; mid-tier room) | **~$29K** | Jack is a CA resident. SDSU first-year on-campus typically $20–22K all-in for room+meal. **If Jack commutes from home, R&B drops to ~$0** — cuts ~$30–40K from the 2-year Cal State portion of Option 2e. |
+| SDSU / Cal State (CA resident) | ~$9,000 (in-state tuition + campus fees) | ~$20,000 (on-campus residence + required first-year meal plan; mid-tier room) | **~$29K** | Jack is a CA resident. SDSU first-year on-campus typically $20–22K all-in for room+meal. **If Jack commutes from home, R&B drops to ~$0** — cuts ~$30–40K from the 2-year Cal State portion of Option 2f. |
 | USNA (military wildcard) | $0 | $0 | **$0** + monthly stipend | Tuition, R&B, medical all covered. Midshipmen receive a monthly stipend (~$1,200/mo, increases by year). 5-year active-duty service commitment post-grad. |
 
 ### Option 1: WPI (4 years)
@@ -592,7 +642,14 @@ Assumptions used throughout (merit scholarships are **tuition-only** — they do
 - RPI (2 years): $83K × 2 = ~$166K
 - **Total all-in: ~$322K**
 
-### Option 2e: Hobart BA → State School BSME (Hobart Applied Physics + Cal State BSME)
+### Option 2e: Hobart → Syracuse ECS 4+2 (6 years)
+
+- Hobart BA (4 years): $52K × 4 = ~$208K
+- Syracuse MS (2 years, on-campus, no partner-school discount published): ~$52.6K × 2 = ~$105K
+- **Total all-in: ~$313K** for a Hobart BA + Syracuse MS. **No ABET BS.**
+- *Scholarship sensitivity:* if Syracuse were to offer a 25% partner-school tuition discount (not currently published but worth asking about), the 2-year grad portion drops to ~$87K and total falls to ~$295K. Still dominated by WashU 3:3 on credential.
+
+### Option 2f: Hobart BA → State School BSME (Hobart Applied Physics + Cal State BSME)
 
 **Jack is a California resident**, so Cal State BSME tuition is at in-state rates. Any Cal State with an ABET BSME and the right prereq path (SDSU, Cal Poly SLO if admissions permit, SJSU, CSU Long Beach, etc.) can substitute for SDSU at similar in-state pricing.
 
@@ -611,7 +668,7 @@ Assumptions used throughout (merit scholarships are **tuition-only** — they do
 - SDSU on-campus (2 years): ~$58K
 - **Total all-in: ~$214K** — sacrifices the Hobart BA to save ~$50K.
 
-### Option 2f: Hobart BA → OCS → post-service MS
+### Option 2g: Hobart BA → OCS → post-service MS
 
 - Hobart BA (4 years): $52K × 4 = **~$208K out-of-pocket**
 - Military service: paid (officer salary).
@@ -632,11 +689,12 @@ Assumptions used throughout (merit scholarships are **tuition-only** — they do
 
 | Option | All-in cost | Years | Degrees awarded |
 |---|---|---|---|
-| 2f. Hobart BA → OCS → MS | ~$208K + $0 grad | 4 + service | BA + post-service MS |
+| 2g. Hobart BA → OCS → MS | ~$208K + $0 grad | 4 + service | BA + post-service MS |
 | 1. WPI | ~$220K | 4 | BS Engineering |
-| 2e. Hobart BA → Cal State BSME (commute) | ~$226K | 6 | BA Physics + BSME |
+| 2f. Hobart BA → Cal State BSME (commute) | ~$226K | 6 | BA Physics + BSME |
 | 3. UBC | ~$268K (USD) | 4 | BASc Engineering |
-| 2e. Hobart BA → Cal State BSME (on-campus) | ~$266K | 6 | BA Physics + BSME |
+| 2f. Hobart BA → Cal State BSME (on-campus) | ~$266K | 6 | BA Physics + BSME |
+| 2e. Hobart → Syracuse ECS 4+2 | ~$313K | 6 | BA + Syracuse MS (no ABET BS) |
 | 2c. Hobart → WashU 3:3 | ~$320K | 6 | BA + BS + MS Engineering |
 | 2a. Hobart → Columbia 3:2 | ~$322K | 5 | BA + Columbia BS |
 | 2d. Hobart → RPI 3:2 | ~$322K | 5 | BA + RPI BS |
@@ -655,7 +713,7 @@ Assumptions used throughout (merit scholarships are **tuition-only** — they do
 
 - **USNA:** Tuition, R&B, medical all covered. Monthly stipend (~$1,200/mo, increases by year). **Net cost: $0** out-of-pocket. Service obligation: 5 years active + 3 years reserve post-commissioning.
 - **OCS / NUPOC:** Applied after any civilian degree. OCS itself is a 13-week school at Newport, RI. NUPOC offers signing bonuses of $15K–$38K and pay during school. Service obligation 5–8 years depending on community. Doesn't change the cost of the underlying college path — only what happens after.
-- **Post-service MS via GI Bill + Yellow Ribbon (Option 2f mechanism):** $0 tuition at Dartmouth Thayer (uncapped Yellow Ribbon), near-$0 at Cornell, Stanford, and similar. Mechanism detail in `hobart.md` Option 2f.
+- **Post-service MS via GI Bill + Yellow Ribbon (Option 2g mechanism):** $0 tuition at Dartmouth Thayer (uncapped Yellow Ribbon), near-$0 at Cornell, Stanford, and similar. Mechanism detail in `hobart.md` Option 2g.
 
 ---
 
@@ -719,12 +777,12 @@ Which bucket appeals to him? The answer significantly narrows the entry-path dec
 
 - **Technical / nuclear** → NUPOC is the primary path; USNA works if he also wants the Academy experience.
 - **Operational line** → OCS or USNA; engineering degree not required.
-- **Engineering duty** → OCS with ABET BS (CEC direct accession); **Option 2e qualifies only after completing the state-school BSME, not after the Hobart physics BA alone.**
+- **Engineering duty** → OCS with ABET BS (CEC direct accession); **Option 2f qualifies only after completing the state-school BSME, not after the Hobart physics BA alone.**
 - **SpecOps / combat** → any entry path; physical performance dominates.
 
 ### 6.1. Can military service pay for a BS or MS in engineering afterward? Yes — three mechanisms.
 
-This is directly relevant to the decision because it meaningfully changes the effective cost math for Option 2e (Hobart BA → State School BSME), Option 1 (WPI), and Option 3 (UBC), and is relevant for anyone who enters the service without the degree they ultimately want.
+This is directly relevant to the decision because it meaningfully changes the effective cost math for Option 2f (Hobart BA → State School BSME), Option 1 (WPI), and Option 3 (UBC), and is relevant for anyone who enters the service without the degree they ultimately want.
 
 #### (i) Post-9/11 GI Bill (Chapter 33) — the primary benefit
 
@@ -783,11 +841,11 @@ Rough estimates of tuition-only value if Jack completes 3+ years of active duty 
 | Primary path | Stand-alone all-in cost | With military service + GI Bill grad school after |
 |---|---|---|
 | Option 1 (WPI) | ~$220K | Can add Dartmouth/Cornell/Stanford MS for ~$0 post-service. Strong cost efficiency. |
-| Option 2f (Hobart BA → OCS / NUPOC, skip the state-school BSME) | ~$208K (Hobart BA only) | Can add **Dartmouth Thayer MS for ~$0** post-service. End state: Physics BA + Navy nuclear service + Dartmouth MEng. |
+| Option 2g (Hobart BA → OCS / NUPOC, skip the state-school BSME) | ~$208K (Hobart BA only) | Can add **Dartmouth Thayer MS for ~$0** post-service. End state: Physics BA + Navy nuclear service + Dartmouth MEng. |
 | Option 3 (UBC) | ~$268K (USD) | Same — post-service MS at Dartmouth/Cornell possible. Upgrades the US-brand-recognition problem of the UBC undergrad. |
 | Options 2a/2b (Hobart → Ivy) | ~$322K–$334K | Less value-add since Ivy BS is already in hand; still available if he wants a further MS. |
 
-**Key insight:** the military path is not just "how Jack pays for his first degree" — it's also a **structured path to an elite engineering MS at near-zero tuition after service.** This is particularly powerful for Options 1 and 2f, where the undergrad credential is less prestigious (or less expensive) than an Ivy BS and can be topped with a Dartmouth/Cornell/Stanford MS for effectively free.
+**Key insight:** the military path is not just "how Jack pays for his first degree" — it's also a **structured path to an elite engineering MS at near-zero tuition after service.** This is particularly powerful for Options 1 and 2g, where the undergrad credential is less prestigious (or less expensive) than an Ivy BS and can be topped with a Dartmouth/Cornell/Stanford MS for effectively free.
 
 ### 6a. USNA (US Naval Academy) — apply this summer
 
@@ -877,9 +935,9 @@ Relevant as an **end-state officer pipeline** regardless of which civilian colle
 - **Service obligation:** 5–8 years depending on community.
 - Must qualify for **secret clearance** (top secret for Submarine and Naval Reactors).
 
-#### Why this changes the calculus on Option 2e
+#### Why this changes the calculus on Option 2f
 
-If Jack ends up with only a Hobart Applied Physics BA (because the 3:2 didn't work out and he decided not to spend 2 more years chasing an ABET BSME at a state school), **NUPOC is a legitimate elite officer pipeline** that doesn't require an engineering BS. That turns Option 2e from "failed engineering path" into "physics undergrad → nuclear Navy officer" — making the state-school BSME leg optional rather than required.
+If Jack ends up with only a Hobart Applied Physics BA (because the 3:2 didn't work out and he decided not to spend 2 more years chasing an ABET BSME at a state school), **NUPOC is a legitimate elite officer pipeline** that doesn't require an engineering BS. That turns Option 2f from "failed engineering path" into "physics undergrad → nuclear Navy officer" — making the state-school BSME leg optional rather than required.
 
 ### 6c. ROTC — considered and excluded
 
@@ -927,15 +985,15 @@ Apply to Dartmouth 2:1:1:1 sophomore year as a reach. Low downside (cheap to app
 
 Apply to USNA summer/fall of freshman year. Accepts ~8% of applicants plus the nomination hurdle, but zero out-of-pocket cost (tuition + R&B + medical + monthly stipend) and BS in engineering. Parallel track — doesn't foreclose the 3:2 portfolio if rejected. **Important caveat:** USNA does not accept transfer credit; if admitted after Hobart freshman year, Jack restarts as a plebe (Class of 2031 instead of 2030).
 
-### Post-grad OCS as the Hobart-BA pivot (Option 2f)
+### Post-grad OCS as the Hobart-BA pivot (Option 2g)
 
-If the dual-degree forks fail (Columbia / Dartmouth / WashU / RPI all reject) and Jack still wants an elite engineering credential, **post-grad OCS + GI Bill + Yellow Ribbon** is materially better than the Cal State BSME (Option 2e) for the final credential. Mechanism: Hobart BA (~$208K all-in) → 3–5 years of commissioned service → tuition-free MS at Dartmouth Thayer (uncapped Yellow Ribbon), Cornell, or Stanford. End state: Hobart BA + Navy/military service + elite engineering MS for the same $208K out-of-pocket as Option 2f (instead of $266K for 2e + a Cal State BSME). The trade is the service commitment itself, not the credential quality. Only the right play if Jack is independently drawn to military service. Full mechanism in [`hobart.md`](./hobart.md#how-option-2f-pays-for-the-engineering-credential); role-type detail in [`military.md`](./military.md).
+If the dual-degree forks fail (Columbia / Dartmouth / WashU / RPI all reject) and Jack still wants an elite engineering credential, **post-grad OCS + GI Bill + Yellow Ribbon** is materially better than the Cal State BSME (Option 2f) for the final credential. Mechanism: Hobart BA (~$208K all-in) → 3–5 years of commissioned service → tuition-free MS at Dartmouth Thayer (uncapped Yellow Ribbon), Cornell, or Stanford. End state: Hobart BA + Navy/military service + elite engineering MS for the same $208K out-of-pocket as Option 2g (instead of $266K for 2f + a Cal State BSME). The trade is the service commitment itself, not the credential quality. Only the right play if Jack is independently drawn to military service. Full mechanism in [`hobart.md`](./hobart.md#how-option-2g-pays-for-the-engineering-credential); role-type detail in [`military.md`](./military.md).
 
 ### Pivot rules
 
 - **GPA checkpoint end of sophomore year:** if cumulative < 3.25, have a serious conversation about direct transfer to an engineering school vs. another year of Hobart tuition.
 - **Dartmouth 2:1:1:1 if pursued:** if visibly struggling by end of fall term at Dartmouth, talk to the Dual-Degree director immediately. Early pivot = more options intact.
-- **If all 3:2 partners reject:** three forks. (a) Direct transfer Hobart → SDSU as a CA resident — cheapest at ~$214K all-in over 5 years, but no Hobart BA. (b) Finish Hobart BA + Cal State BSME (Option 2e, ~$266K / 6 yrs) — keeps the BA but adds ~$52K. (c) Finish Hobart BA + post-grad OCS + tuition-free MS (Option 2f, ~$208K + service) — cheapest *and* highest-credential, but requires the service commitment. Pick based on whether NUPOC / OCS is independently attractive.
+- **If all 3:2 / 3:3 partners reject:** four forks. (a) Direct transfer Hobart → SDSU as a CA resident — cheapest at ~$214K all-in over 5 years, but no Hobart BA. (b) Finish Hobart BA + Cal State BSME (Option 2f, ~$266K / 6 yrs) — keeps the BA but adds ~$52K. (c) Finish Hobart BA + post-grad OCS + tuition-free MS (Option 2g, ~$208K + service) — cheapest *and* highest-credential, but requires the service commitment. (d) Finish Hobart BA + Syracuse ECS 4+2 MS (Option 2e, ~$313K / 6 yrs) — keeps things civilian and near-automatic at 3.2 GPA, but delivers an MS without an ABET BS, which is a weaker credential profile than (a) or (b). Ranking by credential quality: (c) > (b) ≈ (a) > (d). Pick (a) or (b) for ABET BS cleanliness, (c) if military service is independently attractive, (d) only if both (a)/(b) also fall through.
 
 ---
 

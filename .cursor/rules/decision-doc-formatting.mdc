@@ -53,24 +53,25 @@ The current numbering is:
 | 2b | Hobart → Dartmouth (2:1:1:1) |
 | 2c | Hobart → WashU (3:3) |
 | 2d | Hobart → RPI (3:2) |
-| 2e | Hobart BA → State School BSME |
-| 2f | Hobart BA → OCS → MS (via GI Bill + Yellow Ribbon) |
+| 2e | Hobart → Syracuse ECS (4+2) |
+| 2f | Hobart BA → State School BSME |
+| 2g | Hobart BA → OCS → MS (via GI Bill + Yellow Ribbon) |
 | 3 | UBC |
 
-All six Hobart-starting paths are grouped under option #2 (2a–2f) since they share the same first 1–4 years at Hobart and differ only in the post-Hobart leg. 2f specifically is the military-service path (OCS → 3–5 yrs service → tuition-free MS at Dartmouth Thayer / Cornell / Stanford) — it lives alongside 2a–2e because the shape is the same (Hobart start, post-Hobart leg determines the credential and the cost). UBC is option #3 since it's the only non-Hobart, non-WPI path.
+All seven Hobart-starting paths are grouped under option #2 (2a–2g) since they share the same first 1–4 years at Hobart and differ only in the post-Hobart leg. **Structural grouping:** 2a/2b/2c/2d are the dual-degree paths where Jack transfers out of Hobart after Y3 (2b after Y2); 2e/2f/2g all share the same "4 years at Hobart + separate graduate leg" shape. 2e is the Syracuse ECS 4+2 direct-admission pathway (Hobart BA → Syracuse MS, 3.2 GPA gate, announced March 2026) and delivers an MS without an ABET BS — a weaker credential profile than the other Hobart forks, kept as a backup-to-the-backup. 2g specifically is the military-service path (OCS → 3–5 yrs service → tuition-free MS at Dartmouth Thayer / Cornell / Stanford) — it lives alongside 2a–2f because the shape is the same (Hobart start, post-Hobart leg determines the credential and the cost). UBC is option #3 since it's the only non-Hobart, non-WPI path.
 
-Option 2f detail lives in `hobart.md`, not `README.md`. The `README.md` military section should NOT re-explain GI Bill / Yellow Ribbon mechanics — link to `hobart.md#the-other-hobart-forks` instead. Single source of truth for the mechanism is the "How Option 2f pays for the engineering credential" subsection in `hobart.md`.
+Option 2g detail lives in `hobart.md`, not `README.md`. The `README.md` military section should NOT re-explain GI Bill / Yellow Ribbon mechanics — link to `hobart.md#the-other-hobart-forks` instead. Single source of truth for the mechanism is the "How Option 2g pays for the engineering credential" subsection in `hobart.md`.
 
 ## 6. Military detail lives in `military.md`, not `README.md`
 
-`README.md`'s Military option section is deliberately kept short: USNA wildcard (with the transfer-credit plebe-restart disclaimer), post-grad OCS, and pointers to `military.md` + `hobart.md` Option 2f. It should NOT contain:
+`README.md`'s Military option section is deliberately kept short: USNA wildcard (with the transfer-credit plebe-restart disclaimer), post-grad OCS, and pointers to `military.md` + `hobart.md` Option 2g. It should NOT contain:
 
 - The full four-bucket role-type table (technical/nuclear, operational line, engineering duty, SpecOps).
 - The step-by-step entry path breakdown for NUPOC, OCS designators, Army Direct Commissioning.
 - The per-primary-path interaction table.
 - The practical recommendation bullet list.
 
-All of that lives in `military.md`. If the reader needs it, they follow the link. This mirrors the `hobart.md` / Option 2f split: the decision doc stays focused on the 3-way starting-school choice and its immediate implications; follow-on detail lives in topic-specific files.
+All of that lives in `military.md`. If the reader needs it, they follow the link. This mirrors the `hobart.md` / Option 2g split: the decision doc stays focused on the 3-way starting-school choice and its immediate implications; follow-on detail lives in topic-specific files.
 
 When referencing options in prose, use these numbers. Do not renumber without explicit instruction.
 
@@ -90,6 +91,7 @@ The cost model is **tuition + on-campus room & board**, rounded to the nearest ~
 - **Dartmouth:** ~$68K tuition + ~$21K R&B = **~$89K/yr all-in**. No need-based aid assumed.
 - **WashU 3:3 graduate years:** ~$34.5K net tuition (50% automatic Graduate Affiliation Scholarship) + ~$20K R&B = **~$54.5K/yr all-in**.
 - **RPI:** ~$65K tuition + ~$18K R&B = **~$83K/yr all-in**. Full sticker.
+- **Syracuse ECS 4+2 graduate years:** ~$36K tuition (no partner-school discount published; 2025–26 rate $2,015/credit × 18 credits) + ~$16K R&B = **~$52K/yr all-in**.
 - **UBC (international, USD):** ~$56K tuition + ~$11K on-campus residence + All Access Dining = **~$67K/yr all-in (USD)**.
 - **SDSU / Cal States (CA resident, on-campus):** ~$9K tuition + ~$20K R&B = **~$29K/yr all-in**. If Jack commutes from home, path is ~$30–40K cheaper over 2 Cal State years. WSU is out-of-state (~$30K/yr tuition) and dropped from the primary cost model.
 - **USNA (if the wildcard hits):** all-inclusive — tuition + R&B + medical + monthly stipend = **$0 out-of-pocket** for a 5-year active-duty commitment post-grad.
@@ -103,8 +105,9 @@ The cost model is **tuition + on-campus room & board**, rounded to the nearest ~
 | 2b | Hobart → Dartmouth (2:1:1:1) | **~$334K** | 5 |
 | 2c | Hobart → WashU (3:3) | **~$320K** | 6 |
 | 2d | Hobart → RPI (3:2) | **~$322K** | 5 |
-| 2e | Hobart BA → Cal State BSME | **~$266K** (on-campus CSU) | 6 |
-| 2f | Hobart BA → OCS → MS | **~$208K undergrad + $0 grad** | 4 + service |
+| 2e | Hobart → Syracuse ECS (4+2) | **~$313K** | 6 |
+| 2f | Hobart BA → Cal State BSME | **~$266K** (on-campus CSU) | 6 |
+| 2g | Hobart BA → OCS → MS | **~$208K undergrad + $0 grad** | 4 + service |
 | 3 | UBC | **~$268K (USD)** | 4 |
 
 ## 5. Rowing eligibility facts (don't invent or drift)

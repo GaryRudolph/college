@@ -32,7 +32,7 @@ The real decision is **where Jack shows up as a freshman.** Everything else — 
    - **Curriculum:** Engineering from day one (BASc); limited humanities / writing requirements. Similar fit to WPI on curriculum style.
    - **Trade:** Jack's own assessment is that walking on is uncertain (LW roster ~4 slots). Realistic base case: no rowing at UBC. Treat as "engineering + lifestyle, rowing optional."
 
-**A military option can attach to any of the three paths** — applying to USNA this summer as a wildcard, or post-grad OCS/NUPOC after any of them. It doesn't compete with the starting-school choice, so the 3-way framing stands. See [Military option](#military-option) below for the short version, or [`military.md`](./military.md) for role types, entry paths, and the GI Bill + Yellow Ribbon cost math (Option 2f is the specific Hobart + OCS instance).
+**A military option can attach to any of the three paths** — applying to USNA this summer as a wildcard, or post-grad OCS/NUPOC after any of them. It doesn't compete with the starting-school choice, so the 3-way framing stands. See [Military option](#military-option) below for the short version, or [`military.md`](./military.md) for role types, entry paths, and the GI Bill + Yellow Ribbon cost math (Option 2g is the specific Hobart + OCS instance).
 
 ### Which fits which priority
 
@@ -53,7 +53,7 @@ The real decision is **where Jack shows up as a freshman.** Everything else — 
 
 ## Option set
 
-Primary paths under consideration. Options 2a–2f all start at Hobart and differ at the junior-year fork; see [`hobart.md`](./hobart.md) for detail.
+Primary paths under consideration. Options 2a–2g all start at Hobart and differ at the junior-year fork; see [`hobart.md`](./hobart.md) for detail.
 
 
 | #   | Option                            | One-line description                                                          |
@@ -63,8 +63,9 @@ Primary paths under consideration. Options 2a–2f all start at Hobart and diffe
 | 2b  | **Hobart → Dartmouth (2:1:1:1)**  | Hobart → Dartmouth Y3 → Hobart Y4 → Dartmouth Y5 BE; apply sophomore year     |
 | 2c  | **Hobart → WashU (3:3)**          | Hobart BA + WashU BS + MS; apply junior year                                  |
 | 2d  | **Hobart → RPI (3:2)**            | Hobart BA + RPI BS; apply junior year                                         |
-| 2e  | **Hobart BA → State School**      | Hobart BA in physics, then apply to a Cal State for BS                        |
-| 2f  | **Hobart BA → OCS → MS**          | Hobart BA → commission via OCS → free MS at Dartmouth / Cornell via GI Bill   |
+| 2e  | **Hobart → Syracuse (4+2)**       | Hobart BA (4 yrs) + Syracuse ECS MS (2 yrs); apply senior year at 3.2 GPA     |
+| 2f  | **Hobart BA → State School**      | Hobart BA in physics, then apply to a Cal State for BS                        |
+| 2g  | **Hobart BA → OCS → MS**          | Hobart BA → commission via OCS → free MS at Dartmouth / Cornell via GI Bill   |
 | 3   | **UBC**                           | 4-year BASc Engineering in Canada                                             |
 
 
@@ -86,8 +87,9 @@ Rating scale: **Excellent / Strong / Solid / Modest / Weak**. Risk is rated as *
 | **2b. Hobart → Dartmouth (2:1:1:1)** | **Excellent.**<br>Ivy League. #51 ranked engineering.                                                                 | **Elite but limited: 1 yr of Dartmouth LW.**<br>2 Hobart IRA + 1 Dartmouth LW (Y3) + optional 1 Hobart openweight (Y4); Y5 Ivy-ineligible as grad. [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing)                                                                   | **~$334K / 5 yrs.**<br>BA + Dartmouth BE.      | **High.**<br>~3.30 GPA gate, sophomore-year fork, competitive review.              |
 | **2c. Hobart → WashU (3:3)**         | **Strong.**<br>#42 ranked engineering.                                                                                | **Nationally competitive club.**<br>3 Hobart IRA + 1 WashU ACRA (ACRA's 4-in-5 clock is binding). WashU M4+ 2024 ACRA national champion, M2- 2025 bronze — top ACRA programs (UVA, UCLA, Purdue) rival DIII varsity. [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing) | **~$320K / 6 yrs.**<br>BA + BS + MS.           | **Low.**<br>~90% admit at 3.25 GPA with prereqs done — near-automatic.             |
 | **2d. Hobart → RPI (3:2)**           | **Strong.**<br>#35 ranked engineering.                                                                                | **Strong. Ends at Hobart.**<br>3 Hobart IRA + rec-level RPI crew (no ACRA/IRA footprint). [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing)                                                                                                                            | **~$322K / 5 yrs.**<br>BA + RPI BS.            | **Low.**<br>Near-automatic at ~3.00 GPA.                                           |
-| **2e. Hobart BA → State School**     | **Solid.**<br>Engineering from a Cal State.                                                                           | **Strong. Ends at Hobart.**<br>4 Hobart IRA + club-level Cal State. [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing)                                                                                                                                                  | **~$266K / 6 yrs.**<br>BA + CSU BS.          | **Low–Moderate.**<br>CSU typically needs 2.7 GPA and prereqs done.                 |
-| **2f. Hobart BA → OCS → MS**         | **Solid to Elite.**<br>Hobart BA solid; tuition-free MS at Dartmouth Thayer / Cornell / Stanford via GI Bill + Yellow Ribbon post-service lands the credential elite.                                                                            | **Strong. Ends at Hobart.**<br>4 Hobart IRA + no college rowing after. [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing)                                                                                                                                                       | **~$208K undergrad + $0 grad.**<br>BA + elite MS after service. | **Moderate.**<br>OCS selection competitive but viable; 3–5 yr service commitment is the real cost. |
+| **2e. Hobart → Syracuse (4+2)**      | **Modest.**<br>Syracuse ECS ~#70 engineering. **No ABET BS — MS only**, which is a weak credential profile for early-career engineering roles and PE licensure.                                                                                 | **Strong. Ends at Hobart.**<br>4 Hobart IRA + no rowing at Syracuse (heavyweight-only program; grad-student eligibility exhausted under IRA 4-in-5 clock). [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing)                                                               | **~$313K / 6 yrs.**<br>BA + Syracuse MS (no BS). | **Low.**<br>Near-automatic at 3.2 GPA + faculty rec; bridge course covers foundations. |
+| **2f. Hobart BA → State School**     | **Solid.**<br>Engineering from a Cal State.                                                                           | **Strong. Ends at Hobart.**<br>4 Hobart IRA + club-level Cal State. [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing)                                                                                                                                                  | **~$266K / 6 yrs.**<br>BA + CSU BS.          | **Low–Moderate.**<br>CSU typically needs 2.7 GPA and prereqs done.                 |
+| **2g. Hobart BA → OCS → MS**         | **Solid to Elite.**<br>Hobart BA solid; tuition-free MS at Dartmouth Thayer / Cornell / Stanford via GI Bill + Yellow Ribbon post-service lands the credential elite.                                                                            | **Strong. Ends at Hobart.**<br>4 Hobart IRA + no college rowing after. [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing)                                                                                                                                                       | **~$208K undergrad + $0 grad.**<br>BA + elite MS after service. | **Moderate.**<br>OCS selection competitive but viable; 3–5 yr service commitment is the real cost. |
 | **3. UBC**                           | **Strong. Solid in US hiring contexts.**<br>QS #25 globally, #2 in Canada. Lower brand recognition with US employers. | **Elite — walk-on risk.**<br>Elite program, but Jack not confident he'd make the team; 4 LW slots. Base case: no rowing at UBC. [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing)                                                                                      | **~$268K (USD) / 4 yrs.**<br>BASc Engineering. | **Low.**                                                                        |
 
 
@@ -107,6 +109,7 @@ Costs are **tuition + on-campus room & board**, simplified to the nearest ~$K. B
 | Dartmouth | ~$68K | ~$21K | **~$89K** |
 | WashU grad years (3:3) | ~$34.5K (50% Graduate Affiliation Scholarship) | ~$20K | **~$54.5K** |
 | RPI | ~$65K | ~$18K | **~$83K** |
+| Syracuse ECS grad years (4+2) | ~$36K (no partner-school discount published) | ~$16K | **~$52K** |
 | UBC (international, USD) | ~$56K | ~$11K | **~$67K** |
 | SDSU / Cal State (CA resident, on-campus) | ~$9K | ~$20K | **~$29K** |
 
@@ -140,7 +143,7 @@ There are military options, and they attach to any of the primary paths rather t
 - **USNA this summer (wildcard that preempts everything above).** If Jack secures a Congressional nomination and gets admitted, USNA changes the game — **tuition, room & board, and medical all covered, plus a monthly stipend** (effectively $0 out-of-pocket), ABET engineering BS, DI lightweight rowing at Eastern Sprints, 5-year service commitment. **Important disclaimer: USNA does not accept transfer credit.** If admitted after his Hobart freshman year, Jack **restarts as a plebe** and graduates Class of 2031 instead of 2030. Admit rate ~8% plus the nomination hurdle, so low-probability, but if it lands it preempts the 3-way decision. Worth applying in parallel; rejection doesn't close any door.
 - **OCS after graduation (if military service becomes an aspiration).** Any bachelor's degree qualifies for unrestricted-line OCS (SWO, aviation, NFO, intel, supply). An ABET engineering BS additionally qualifies for engineering-designator OCS (EDO, CEC). This route is available after any primary path — no decision needed now, no action during college.
 
-**For role-type detail, NUPOC (junior/senior year Navy nuclear), the full entry-path breakdown, and per-primary-path interaction table, see [`military.md`](./military.md).** For the specific Hobart BA → OCS → tuition-free MS cost mechanics (GI Bill + Yellow Ribbon), see [Option 2f in `hobart.md`](./hobart.md#the-other-hobart-forks).
+**For role-type detail, NUPOC (junior/senior year Navy nuclear), the full entry-path breakdown, and per-primary-path interaction table, see [`military.md`](./military.md).** For the specific Hobart BA → OCS → tuition-free MS cost mechanics (GI Bill + Yellow Ribbon), see [Option 2g in `hobart.md`](./hobart.md#the-other-hobart-forks).
 
 ---
 
