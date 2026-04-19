@@ -1,0 +1,92 @@
+---
+description: Formatting conventions for decision.md and background.md in this college-decision project
+globs: *.md
+alwaysApply: true
+---
+
+# College Decision Doc Formatting Rules
+
+These rules apply to `decision.md` and `background.md`. Gary has asked for these **repeatedly** — treat them as hard requirements, not style preferences.
+
+## 1. Table cells with ratings/amounts MUST have `<br>` after the bolded lead
+
+Every cell in the main comparison table's **Engineering Reputation**, **Rowing Culture Fit**, **Tuition Cost**, and **Risk** columns must follow this pattern (the column header is `Tuition Cost`, not `Cost`):
+
+```
+**<Rating or amount>.**<br><supporting detail>
+```
+
+### Examples
+
+GOOD:
+
+```
+| **1. WPI** | **Strong.**<br>#64 ranked engineering. ABET BS from day one. |
+```
+
+BAD (no line break — the rating runs into the supporting text):
+
+```
+| **1. WPI** | **Strong.** #64 ranked engineering. ABET BS from day one. |
+```
+
+**When you edit any cell in these four columns — including a tiny edit — re-verify the `<br>` is still there afterward.** Do not strip it. Do not "clean up" the table to remove `<br>` tags. Gary has asked three separate times to fix this after regressions; please don't make him ask a fourth.
+
+### Mechanical check — RUN THIS after every table edit
+
+After any edit that touches the comparison table, run:
+
+```
+./scripts/check-table-format.sh decision.md
+```
+
+It exits 0 on success and prints the exact offending row + column on failure. A pre-commit hook at `.git/hooks/pre-commit` runs the same check on staged changes, so a bad commit gets blocked automatically — but running it inline catches regressions before they compound into a multi-edit mess. **Counting `<br>` tags with `grep -c` is NOT sufficient** and has produced false "all good" reports in the past; always use the validator script.
+
+## 2. Option numbering is fixed — don't re-invent it
+
+The current numbering is:
+
+| # | Option |
+|---|---|
+| 1 | WPI |
+| 2a | Hobart → Columbia (3:2) |
+| 2b | Hobart → Dartmouth (2:1:1:1) |
+| 2c | Hobart → WashU (3:3) |
+| 2d | Hobart → RPI (3:2) |
+| 2e | Hobart BA → State School BSME |
+| 3 | UBC |
+
+All five Hobart-starting paths are grouped under option #2 (2a–2e) since they share the same first 1–3 years at Hobart and differ only in the post-Hobart leg. UBC is option #3 since it's the only non-Hobart, non-WPI path.
+
+When referencing options in prose, use these numbers. Do not renumber without explicit instruction.
+
+## 3. No strikethrough on tilde-prefixed cost estimates
+
+Single tilde (`~$120K`) = "approximately." Double tilde (`~~$120K~~`) renders as ~~strikethrough~~ in GitHub/Cursor markdown. Never use `~~` for cost estimates.
+
+## 4. Cost baseline facts (update together if any of these change)
+
+- **Hobart:** 50% merit scholarship → ~$34K/yr net tuition. **Needs offer-letter confirmation.**
+- **WPI:** $27K/yr merit scholarship → ~$36K/yr net tuition.
+- **Ivy (Columbia / Dartmouth):** full sticker, ~$70K/yr. No need-based aid assumed.
+- **WashU 3:3 graduate years:** 50% automatic Graduate Affiliation Scholarship → ~$34.5K/yr net.
+- **RPI, UBC:** full sticker.
+- **SDSU / Cal States:** **Jack is a California resident** → ~$9K/yr (in-state tuition + campus fees). WSU is out-of-state and dropped from the primary cost model.
+
+## 5. Rowing eligibility facts (don't invent or drift)
+
+All three rowing-governing bodies Jack interacts with enforce a **4-seasons-in-5-calendar-years** clock from initial full-time collegiate enrollment. This caps total competitive rowing at 4 seasons on every rowing-fit path.
+
+- **IRA** (governs Hobart / Columbia / Dartmouth men's LW) adopts NCAA rules as baseline: 4 seasons in 5 years, freshman participation counts as a season used.
+- **Ivy League conference policy** (overlays IRA at Columbia and Dartmouth, NOT Hobart): **no grad-student varsity athletes, no redshirts.** A one-time COVID waiver in 2021–22 was explicitly not renewed.
+- **ACRA** (governs WashU club rowing, NOT IRA) has its OWN written 4-in-5 clock (2025 Regatta Packet, Athlete Eligibility Rule #2): "four years of eligibility, which must be completed during the first 10 semesters or 15 quarters after the student is enrolled in a collegiate institution." ACRA Rule #2 explicitly states prior competition at any institution counts: "Competing for an institution in any one event within the academic year is enough to constitute one year of eligibility." ACRA does allow grad-student racing (Rules #1 exception and #5) but only within that 4-in-5 window.
+
+### Practical results per path (do NOT drift from these):
+
+- **Columbia 3:2 (Option 2a):** 3 Hobart IRA + 1 Columbia LW (Y4). Y5 Ivy-ineligible as grad. **4 total seasons, 1 at Ivy LW.**
+- **Dartmouth 2:1:1:1 (Option 2b):** 2 Hobart + 1 Dartmouth LW (Y3) + optional 1 Hobart openweight (Y4). Y5 Ivy-ineligible as grad. **3–4 total seasons, 1 at Ivy LW.**
+- **WashU 3:3 (Option 2c):** 3 Hobart IRA + 1 WashU ACRA (Y4 only — Jack's 4th and final ACRA season). Y5–Y6 as grad are eligibility-exhausted under ACRA's 4-in-5 clock. **4 total seasons, 1 at nationally competitive ACRA club.** NOT 6 seasons — the earlier model was wrong; ACRA's written rule prevents it.
+- **WPI (Option 1):** 4 DIII NEWMAC seasons, no constraint.
+- **UBC (Option 3):** U Sports 5-year eligibility, but walk-on risk means practical rowing outcome is uncertain.
+
+**The key takeaway the docs must preserve:** all three rowing-fit options (2a, 2b, 2c) deliver the same total 4 competitive seasons. They differ on peak level (Ivy LW vs. ACRA club), credential (Ivy BS/BE vs. WashU BS+MS), cost, and admit risk — not on total years of rowing. Never revert to framing WashU 3:3 as "6 years of rowing" or "3 extra years after Hobart."

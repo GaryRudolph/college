@@ -200,7 +200,8 @@ Dartmouth's quarter system (10-week terms) with six ENGS courses in year 3 is de
   - Men's Novice 4+: B Final
   - Men's 2x: E Final
 - Competes at **Head of the Charles, Head of the Rock, Head of the Hooch** — legitimate national-level racing calendar.
-- **Caveat:** No lightweight category at ACRA; openweight club racing only. Jack would be stepping down from IRA-system Hobart racing to national-level club racing. Not a lightweight destination, but not a rowing dead end either.
+- **Caveat 1 (category):** No lightweight category at ACRA; openweight club racing only. Jack would be stepping down from IRA-system Hobart racing to national-level club racing. Not a lightweight destination, but not a rowing dead end either.
+- **Caveat 2 (eligibility — critical):** ACRA enforces its own 4-seasons-in-5-years clock counting prior intercollegiate competition (ACRA 2025 Regatta Packet, Eligibility Rule #2). Jack's 3 Hobart IRA seasons burn 3 of 4 ACRA seasons. He has **1 ACRA season of eligibility remaining when he arrives at WashU** — Y4 only. Y5–Y6 at WashU as a grad student are eligibility-exhausted. See the dedicated eligibility section below for the full rule analysis.
 
 #### Open item on WashU
 
@@ -333,7 +334,7 @@ Cornell Engineering is **gated on specific prereqs** — missing any one (Calc I
 
 ### 3h. SDSU (San Diego State University) — last-resort state school for BSME
 
-- **Role in Jack's plan:** Post-Hobart transfer for ABET BSME. Relevant for Option 3 (Hobart BA → State School BSME).
+- **Role in Jack's plan:** Post-Hobart transfer for ABET BSME. Relevant for Option 2e (Hobart BA → State School BSME).
 
 #### SDSU ME — admission requirements (for major change/transfer)
 
@@ -352,33 +353,31 @@ To transfer into Mechanical Engineering major at SDSU (from another major, inclu
 
 #### SDSU cost
 
-- CA resident tuition: ~$8K/year.
-- **Non-resident tuition: ~$20K/year** (Jack is not currently a CA resident).
-- Establishing CA residency during year 1 at SDSU is possible but complicated; typically requires 366+ days of physical presence plus intent evidence.
-- Two-year stay post-Hobart: ~$40K non-resident; ~$16K resident if residency established for year 2.
+- **Jack is a California resident.**
+- CSU systemwide resident tuition (2025–26): $6,450/year.
+- SDSU mandatory campus fees add ~$2.3K/year → **~$8.7K–$9K/year all-in**.
+- **Two-year stay post-Hobart: ~$18K total.** Dramatically cheaper than any out-of-state path.
+- No residency establishment risk — Jack already qualifies for in-state tuition day 1.
 
 #### SDSU rowing
 
 - Club crew only. Not relevant for elite rowing ambitions.
 
+#### Other Cal State BSME options to consider
+
+Any ABET-accredited CSU BSME program can substitute for SDSU at similar in-state pricing (~$9K/yr). Candidates worth a look if SDSU's transfer window or prereq path is awkward:
+
+- **Cal Poly SLO** — BSME is highly impacted; transfer admission is very competitive, but the program is the strongest engineering brand in the CSU system.
+- **San José State (SJSU)** — well-regarded BSME, Silicon Valley location, reasonable transfer paths.
+- **CSU Long Beach, CSU Fullerton, Sacramento State** — all offer ABET BSME at CSU in-state pricing.
+
+Transfer prereq requirements vary by campus. SDSU's requirements (Calculus I–III, linear algebra, ODEs, PHYS 195/196, Chem, and **Statics**) are a reasonable benchmark.
+
 ---
 
-### 3i. WSU (Washington State University) — alternative last-resort
+### 3i. WSU (Washington State University) — not cost-competitive for CA residents
 
-- **Role in Jack's plan:** Alternative post-Hobart transfer to ABET BSME.
-
-#### WSU ME — transfer pathway
-
-- WSU accepts transfer credit from AP, IB, CLEP, associate degrees, Running Start.
-- **Admission to WSU and to the ME major are separate processes** — contact the department for major-specific prerequisites.
-- Required prereqs: calculus (I–III), linear algebra, differential equations, chemistry, physics, statics, mechanics of materials, dynamics, CAD/graphics, programming.
-- **2.6 GPA minimum** in prerequisite courses; minimum C grade in each.
-- Programs available at Pullman, Vancouver, Tri-Cities, Everett campuses.
-
-#### WSU cost
-
-- Non-resident tuition: ~$30K/year.
-- Two-year stay: ~$60K.
+Previously considered as an alternative BSME transfer destination. **Dropped from the primary cost model** because Jack is a California resident and WSU non-resident tuition (~$30K/yr) is dominated by any Cal State at in-state pricing (~$9K/yr). WSU stays on the list only as a geographic-preference wildcard (Pullman/Pacific Northwest) if that preference is strong enough to pay a ~$40K premium over SDSU for two years.
 
 ---
 
@@ -390,7 +389,7 @@ Jack wants to be in a **competitive rowing program with a real rowing culture** 
 
 **Important caveat for lightweights:** "B/C boat at a serious program is fine" only works when the program has enough LW depth that Jack can reasonably land in a race-participating boat at his weight class, **and** when he's likely to make the team in the first place. That's true at the Ivy LW programs (Columbia, Dartmouth) and to a lesser degree at nationally competitive ACRA clubs (WashU). **It is not true at UBC**, where the more fundamental concern is that **Jack himself is not confident he can walk on** — UBC rowing is a recruited-varsity program with a competitive walk-on process. Even if he walked on, the program carries only 4 LW roster slots, further constraining outcomes.
 
-Lightweight-category context for reference: dedicated lightweight racing exists only in the **US IRA system**. Not in Canadian university rowing. Not in ACRA club regular-season racing. Not at DIII programs. It's a strong plus at the top of the stack (Option 1) and not the sole filter, but a program's LW roster depth is a hard filter.
+Lightweight-category context for reference: dedicated lightweight racing exists only in the **US IRA system**. Not in Canadian university rowing. Not in ACRA club regular-season racing. Not at DIII programs. It's a strong plus at the top of the stack (Options 2a and 2b, the Ivy paths) and not the sole filter, but a program's LW roster depth is a hard filter.
 
 ### Competition-level comparison
 
@@ -446,7 +445,7 @@ Sources: IRA Eligibility & Operating Bylaws (irarowing.com, 2020 rev.); Cornell 
 
 #### Consequence: what each path actually delivers for rowing
 
-**Option 1a: Hobart → Columbia (3:2)**
+**Option 2a: Hobart → Columbia (3:2)**
 
 | Year | School | Rowing | IRA seasons used | Rule determining outcome |
 |---|---|---|---|---|
@@ -459,7 +458,7 @@ Sources: IRA Eligibility & Operating Bylaws (irarowing.com, 2020 rev.); Cornell 
 - **Prior plan of "redshirt Y4, race Y5" does not work.** The Ivy League does not allow redshirts, and the Ivy conference policy bars grad-student varsity competition at Y5. (IRA alone would permit the redshirt plan — it's the Ivy overlay that blocks it.)
 - **Result: 1 year of Columbia LW racing (Y4). 4 total seasons of competitive rowing (3 Hobart IRA + 1 Columbia LW).**
 
-**Option 1b: Hobart → Dartmouth (2:1:1:1)**
+**Option 2b: Hobart → Dartmouth (2:1:1:1)**
 
 | Year | School | Rowing | IRA seasons used | Rule determining outcome |
 |---|---|---|---|---|
@@ -472,26 +471,56 @@ Sources: IRA Eligibility & Operating Bylaws (irarowing.com, 2020 rev.); Cornell 
 - **Y4 dilemma:** Jack can row openweight at Hobart for a 4th season, but this burns his final IRA eligibility year, and it's openweight (no LW category at Hobart). Alternatively he sits Y4 out and finishes Y5 without rowing either way.
 - **Result: 1 year of Dartmouth LW racing (Y3). 3–4 total seasons of competitive rowing depending on Y4 decision.**
 
-**Option 2a: Hobart → WashU (3:3)**
+**Option 2c: Hobart → WashU (3:3)**
 
-- Years 1–3 at Hobart use 3 of 4 IRA seasons.
-- Years 4–6 at WashU are **club rowing (ACRA)**. ACRA is not governed by IRA — club programs set their own eligibility standards, typically tied to enrollment as a student.
-- **Result: 3 seasons at Hobart + up to 3 seasons at WashU ACRA = 6 total seasons of competitive rowing.** This is the most of any path, including the two Ivy paths.
+ACRA is not governed by IRA or NCAA, but it has its own written eligibility rules that are more restrictive than sometimes assumed. From the **ACRA 2025 Regatta Packet, Athlete Eligibility section:**
 
-**Option 4: WPI**
+- **Rule #1:** "All participants must be full-time **undergraduate students**... making normal progress toward his/her **first degree.**"
+  - **Exception:** "A student-athlete who has received a Baccalaureate or equivalent degree, and who is enrolled in graduate or professional school... **may participate in ACRA, provided the student-athlete has athletic eligibility remaining, and such participation occurs within the time period set forth in number 2 below.**"
+- **Rule #2:** "An ACRA competitor has **four years of eligibility, which must be completed during the first 10 semesters or 15 quarters** after the student is enrolled in a collegiate institution... **Competing for an institution in any one event within the academic year is enough to constitute one year of eligibility.**"
+- **Rule #5:** "A student-athlete who is enrolled in a graduate or professional school of the college or university may participate, provided he/she has eligibility remaining and is **within five calendar years of initial full-time collegiate enrollment.**"
+
+**Applied to Jack's Hobart → WashU path:**
+
+| Year | School | Rowing | ACRA seasons used | ACRA clock year |
+|---|---|---|---|---|
+| 1 | Hobart (IRA) | Freshman season | 1 of 4 | 1 of 5 |
+| 2 | Hobart (IRA) | Varsity | 2 of 4 | 2 of 5 |
+| 3 | Hobart (IRA) | Varsity | 3 of 4 | 3 of 5 |
+| 4 | WashU (ACRA) | **WashU ACRA — senior undergrad, uses 4th season** | 4 of 4 | 4 of 5 |
+| 5 | WashU (grad) | **Ineligible — 0 seasons remaining** | — | 5 of 5 |
+| 6 | WashU (grad) | **Ineligible — outside 5-year clock** | — | out |
+
+- Prior IRA competition at Hobart counts against the ACRA clock under Rule #2's plain language ("competing for an institution" = one season used).
+- The grad-student exception (Rules #1/#5) requires *both* eligibility remaining *and* within the 5-year window. Jack has neither by Y5.
+- **Result: 3 seasons at Hobart + 1 season at WashU (Y4) = 4 total seasons of competitive rowing.** This is **the same total as the Ivy paths (2a, 2b), not 6.**
+
+**This corrects the earlier model in this doc that assumed 3 additional ACRA years at WashU.** ACRA's own written bylaws prevent that. What distinguishes the WashU path from the Ivy paths is not *more years of rowing* but: cheaper cost, lower admit risk, adds an MS degree, and Y4 is at a nationally competitive ACRA club (2025 Men's 2- bronze) rather than an elite Ivy LW program.
+
+**Open question for the WashU coach conversation:** whether ACRA enforces Rule #2 strictly against transfers with prior IRA competition, or whether there is a school-by-school practice where coaches petition the ACRA eligibility committee (Bob Jaugstetter, Kyle Dowd) for prior-competition exceptions. The written rule is explicit; whether any case-by-case leniency exists is worth asking. If the rule is enforced as written, the WashU path gives 1 year of WashU racing, not 3.
+
+**Option 1: WPI**
 
 - NCAA DIII program in the NEWMAC conference (not IRA for the varsity heavyweight/lightweight championships Jack would target, though WPI does enter Dad Vail and similar regattas). 4 seasons in 5 years under NCAA rules. With a 4-year BS, he uses all 4 naturally. No eligibility constraints.
 
-**Option 6: UBC (U Sports, not NCAA/IRA)**
+**Option 3: UBC (U Sports, not NCAA/IRA)**
 
 - U Sports allows **5 years of eligibility** — more generous than NCAA/IRA.
 - Not a constraint if he makes the team. But see primary concern: walk-on risk and 4 LW roster slots.
 
-#### The key correction to the prior plan
+#### The key corrections to the prior plan
+
+**Correction 1: Ivy paths deliver 1 year of Ivy LW racing, not 2.**
 
 The old plan assumed Jack could redshirt Y4 at Columbia and race both Y4 and Y5 as part of the 3:2 experience. **This is not possible** — not because of IRA (IRA alone would allow it), but because of **Ivy League conference policy**: no redshirts, and Y5 is graduate standing (ineligible for Ivy varsity). The same constraint applies to Dartmouth's Y5. Both Ivy paths deliver **one year of elite Ivy LW racing**, not two.
 
-This does not invalidate the Ivy paths — 1 year at an elite program is still a real rowing experience and the engineering credential carries regardless. But it weakens the "elite rowing throughout" framing, and it makes **WashU 3:3 the path with the most years of competitive rowing post-Hobart**, a fact worth weighing against the Ivy credential premium.
+**Correction 2: WashU 3:3 delivers 1 year of ACRA racing, not 3.**
+
+The old plan assumed ACRA club rowing had informal or enrollment-based eligibility and that Jack could row all 3 grad years at WashU. **The ACRA 2025 Regatta Packet eligibility rules are explicit:** 4 seasons in 5 calendar years from initial full-time enrollment, with "competing for an institution in any one event within the academic year" constituting a used season. Prior IRA competition at Hobart counts. Jack burns 3 of 4 ACRA seasons at Hobart, uses the 4th at WashU in Y4, and is eligibility-exhausted by Y5.
+
+**Combined result: all three rowing-fit options (2a, 2b, 2c) deliver 4 total competitive seasons.** What differs is peak level of the final season (Ivy LW vs. ACRA club), credential earned (Ivy BS/BE vs. WashU BS+MS), cost (~$242K vs. ~$205K), and admit risk (3.50/~3.30 gate vs. ~3.25 near-automatic). None of them is "sustained elite rowing across 5–6 years" — the 4-in-5 eligibility clock binds in all cases.
+
+This does not invalidate any of these paths. Each still provides a real, multi-year competitive rowing experience and a strong engineering credential. But it means the **choice between Ivy paths and WashU 3:3 is not "elite 1-year experience vs. 3 extra years of rowing."** It's a straightforward tradeoff: Ivy credential + higher admit risk + higher cost vs. WashU BS+MS + near-automatic admit + lower cost. Rowing is not a meaningful tiebreaker between them at the total-seasons level.
 
 ### UBC eligibility (U Sports)
 
@@ -507,56 +536,57 @@ This does not invalidate the Ivy paths — 1 year at an elite program is still a
 Assumptions used throughout:
 - **Hobart:** 50% merit scholarship → **~$34,207/yr net tuition** (from $68,414 sticker).
 - **WPI:** $27,000/yr merit scholarship already awarded → **~$36,046/yr net tuition** (from $63,046 sticker).
-- **Columbia, Dartmouth, RPI, WashU, UBC, SDSU, WSU:** full sticker (no aid assumed).
+- **Columbia, Dartmouth, RPI, WashU, UBC:** full sticker (no aid assumed).
+- **SDSU (and other Cal States):** **Jack is a California resident** → in-state CSU tuition + SDSU campus fees ≈ **~$9K/yr all-in** (2025–26). WSU is non-resident (~$30K/yr) and is no longer the baseline comparison.
 - **WashU graduate tuition** is reduced by the automatic 50% Graduate Affiliation Scholarship that comes with the 3:3 Dual Degree structure (this is a structural feature of the program, not a need-based award).
 
-### Option 4: WPI (4 years)
+### Option 1: WPI (4 years)
 
 - Net tuition: $36,046/yr × 4 = **~$144K**
 
-### Option 1: Hobart → Columbia 3:2 (5 years)
+### Option 2a: Hobart → Columbia 3:2 (5 years)
 
 - Hobart (3 years): $34,207 × 3 = ~$103K
 - Columbia (2 years): $70,170 × 2 = ~$140K
 - **Total tuition: ~$243K** (rounded ~$242K in summary tables)
 
-### Option 1 (alt): Hobart → Dartmouth 2:1:1:1 (5 years)
+### Option 2b: Hobart → Dartmouth 2:1:1:1 (5 years)
 
 - Hobart (3 years total across years 1, 2, 4): $34,207 × 3 = ~$103K
 - Dartmouth (2 years total across years 3, 5): ~$70K × 2 = ~$140K (Dartmouth undergrad tuition comparable to Columbia)
 - **Total tuition: ~$242K**
 
-### Option 2: Hobart → WashU 3:3 (6 years)
+### Option 2c: Hobart → WashU 3:3 (6 years)
 
 - Hobart (3 years): $34,207 × 3 = ~$103K
 - WashU graduate tuition $69,190 × 50% auto-discount × 3 years = ~$103K
 - **Total tuition: ~$205K**
 - Delivers **BA + BS + MS** in 6 years.
 
-### Option 2 (alt): Hobart → RPI 3:2 (5 years)
+### Option 2d: Hobart → RPI 3:2 (5 years)
 
 - Hobart (3 years): $34,207 × 3 = ~$103K
 - RPI (2 years): ~$67K × 2 = ~$134K
 - **Total tuition: ~$236K**
 
-### Option 3: Hobart BA → State School BSME (Hobart Applied Physics + SDSU/WSU BSME)
+### Option 2e: Hobart BA → State School BSME (Hobart Applied Physics + Cal State BSME)
+
+**Jack is a California resident**, so Cal State BSME tuition is at in-state rates (~$9K/yr including mandatory campus fees at SDSU). WSU is out-of-state for a California resident and is not competitive on cost (~$30K/yr non-resident), so it's dropped from the primary cost model below. Any Cal State with an ABET BSME and the right prereq path (SDSU, Cal Poly SLO if admissions permit, SJSU, CSU Long Beach, etc.) can substitute for SDSU at similar in-state pricing.
 
 **With full Hobart BA (6 years):**
 - Hobart (4 years): $34,207 × 4 = ~$137K
-- SDSU non-resident (2 years): ~$20K × 2 = ~$40K → **Total ~$177K**
-- OR WSU non-resident (2 years): ~$30K × 2 = ~$60K → **Total ~$197K**
+- SDSU resident (2 years): ~$9K × 2 = ~$18K → **Total ~$155K** (rounded ~$154K in summary table)
 
 **Leaving Hobart after year 3 without BA (5 years):**
 - Hobart (3 years): ~$103K
-- SDSU 2 years: ~$40K → **Total ~$142K**
-- OR WSU 2 years: ~$60K → **Total ~$163K**
+- SDSU resident (2 years): ~$18K → **Total ~$121K** (rounded ~$120K in summary table)
 
-### Option 5: WPI → Ivy transfer
+### Add-on to Option 1: WPI → Ivy transfer (highly competitive long shot)
 
 - If transfer lands (at end of year 1 or year 2): WPI $36K × 1–2 + Ivy $70K × 2–3 = **~$212K–$282K**
-- If transfer fails: stays at WPI → same as Option 4 (~$144K)
+- If transfer fails: stays at WPI → same as Option 1 (~$144K)
 
-### Option 6: UBC (4 years, international)
+### Option 3: UBC (4 years, international)
 
 - International engineering tuition: CAD $66,200/year → ~USD $48,300/year at $0.73
 - **4-year total tuition: ~$193K USD**
@@ -566,16 +596,14 @@ Assumptions used throughout:
 
 | Option | Total tuition | Years | Degrees awarded |
 |---|---|---|---|
-| 3. Hobart (3yr, no BA) → SDSU | ~$142K | 5 | BSME |
-| 4. WPI outright | ~$144K | 4 | BS Engineering |
-| 3. Hobart (3yr, no BA) → WSU | ~$163K | 5 | BSME |
-| 3. Hobart Applied Physics (4yr BA) → SDSU | ~$177K | 6 | BA Physics + BSME |
-| 6. UBC | ~$193K | 4 | BASc Engineering |
-| 3. Hobart Applied Physics (4yr BA) → WSU | ~$197K | 6 | BA Physics + BSME |
-| 2. Hobart → WashU 3:3 | ~$205K | 6 | BA + BS + MS Engineering |
-| 5. WPI → Ivy (if transfer works) | ~$212K–$282K | 4 | BS Engineering (Ivy) |
-| 2. Hobart → RPI 3:2 | ~$236K | 5 | BA + BS Engineering |
-| 1. Hobart → Columbia 3:2 or Dartmouth 2:1:1:1 | ~$242K | 5 | BA + BS/BE Engineering (Ivy) |
+| 2e. Hobart (3yr, no BA) → SDSU (CA resident) | ~$120K | 5 | BSME |
+| 1. WPI | ~$144K | 4 | BS Engineering |
+| 2e. Hobart Applied Physics (4yr BA) → SDSU (CA resident) | ~$154K | 6 | BA Physics + BSME |
+| 3. UBC | ~$193K | 4 | BASc Engineering |
+| 2c. Hobart → WashU 3:3 | ~$205K | 6 | BA + BS + MS Engineering |
+| Add-on. WPI → Ivy (if transfer works) | ~$212K–$282K | 4 | BS Engineering (Ivy) |
+| 2d. Hobart → RPI 3:2 | ~$236K | 5 | BA + BS Engineering |
+| 2a. Hobart → Columbia 3:2 or 2b. Hobart → Dartmouth 2:1:1:1 | ~$242K | 5 | BA + BS/BE Engineering (Ivy) |
 
 ### Military options cost
 
@@ -645,12 +673,12 @@ Which bucket appeals to him? The answer significantly narrows the entry-path dec
 
 - **Technical / nuclear** → NUPOC is the primary path; USNA works if he also wants the Academy experience.
 - **Operational line** → OCS or USNA; engineering degree not required.
-- **Engineering duty** → OCS with ABET BS (CEC direct accession); **Option 3 qualifies only after completing the state-school BSME, not after the Hobart physics BA alone.**
+- **Engineering duty** → OCS with ABET BS (CEC direct accession); **Option 2e qualifies only after completing the state-school BSME, not after the Hobart physics BA alone.**
 - **SpecOps / combat** → any entry path; physical performance dominates.
 
 ### 6.1. Can military service pay for a BS or MS in engineering afterward? Yes — three mechanisms.
 
-This is directly relevant to the decision because it meaningfully changes the effective cost math for Option 3 (Hobart BA → State School BSME), Option 4 (WPI), and Option 6 (UBC), and is relevant for anyone who enters the service without the degree they ultimately want.
+This is directly relevant to the decision because it meaningfully changes the effective cost math for Option 2e (Hobart BA → State School BSME), Option 1 (WPI), and Option 3 (UBC), and is relevant for anyone who enters the service without the degree they ultimately want.
 
 #### (i) Post-9/11 GI Bill (Chapter 33) — the primary benefit
 
@@ -708,12 +736,12 @@ Rough estimates of tuition-only value if Jack completes 3+ years of active duty 
 
 | Primary path | Stand-alone tuition | With military service + GI Bill grad school after |
 |---|---|---|
-| Option 3 (Hobart BA → NUPOC, skip the state-school BSME) | ~$142K + physics BA | Can add **Dartmouth Thayer MS for ~$0** post-service. End state: Physics BA + Navy nuclear service + Dartmouth MEng. |
-| Option 4 (WPI) | ~$144K | Can add Dartmouth/Cornell/Stanford MS for ~$0 post-service. Strong cost efficiency. |
-| Option 6 (UBC) | ~$193K | Same — post-service MS at Dartmouth/Cornell possible. Upgrades the US-brand-recognition problem of the UBC undergrad. |
-| Option 1 (Hobart → Ivy) | ~$242K | Less value-add since Ivy BS is already in hand; still available if he wants a further MS. |
+| Option 1 (WPI) | ~$144K | Can add Dartmouth/Cornell/Stanford MS for ~$0 post-service. Strong cost efficiency. |
+| Option 2e (Hobart BA → NUPOC, skip the state-school BSME) | ~$137K (Hobart BA only) | Can add **Dartmouth Thayer MS for ~$0** post-service. End state: Physics BA + Navy nuclear service + Dartmouth MEng. |
+| Option 3 (UBC) | ~$193K | Same — post-service MS at Dartmouth/Cornell possible. Upgrades the US-brand-recognition problem of the UBC undergrad. |
+| Options 2a/2b (Hobart → Ivy) | ~$242K | Less value-add since Ivy BS is already in hand; still available if he wants a further MS. |
 
-**Key insight:** the military path is not just "how Jack pays for his first degree" — it's also a **structured path to an elite engineering MS at near-zero tuition after service.** This is particularly powerful for Option 3, Option 4, and Option 6, where the undergrad credential is less prestigious but can be topped with a Dartmouth/Cornell/Stanford MS for effectively free.
+**Key insight:** the military path is not just "how Jack pays for his first degree" — it's also a **structured path to an elite engineering MS at near-zero tuition after service.** This is particularly powerful for Options 1, 4, and 5, where the undergrad credential is less prestigious (or less expensive) than an Ivy BS and can be topped with a Dartmouth/Cornell/Stanford MS for effectively free.
 
 ### 6a. USNA (US Naval Academy) — apply this summer
 
@@ -803,9 +831,9 @@ Relevant as an **end-state officer pipeline** regardless of which civilian colle
 - **Service obligation:** 5–8 years depending on community.
 - Must qualify for **secret clearance** (top secret for Submarine and Naval Reactors).
 
-#### Why this changes the calculus on Option 3
+#### Why this changes the calculus on Option 2e
 
-If Jack ends up with only a Hobart Applied Physics BA (because the 3:2 didn't work out and he decided not to spend 2 more years chasing an ABET BSME at a state school), **NUPOC is a legitimate elite officer pipeline** that doesn't require an engineering BS. That turns Option 3 from "failed engineering path" into "physics undergrad → nuclear Navy officer" — making the state-school BSME leg optional rather than required.
+If Jack ends up with only a Hobart Applied Physics BA (because the 3:2 didn't work out and he decided not to spend 2 more years chasing an ABET BSME at a state school), **NUPOC is a legitimate elite officer pipeline** that doesn't require an engineering BS. That turns Option 2e from "failed engineering path" into "physics undergrad → nuclear Navy officer" — making the state-school BSME leg optional rather than required.
 
 ### 6c. ROTC — considered and excluded
 
@@ -857,7 +885,7 @@ Apply to USNA summer/fall of freshman year. Accepts ~8% of applicants plus the n
 
 - **GPA checkpoint end of sophomore year:** if cumulative < 3.25, have a serious conversation about direct transfer to an engineering school vs. another year of Hobart tuition.
 - **Dartmouth 2:1:1:1 if pursued:** if visibly struggling by end of fall term at Dartmouth, talk to the Dual-Degree director immediately. Early pivot = more options intact.
-- **If all 3:2 partners reject:** the rational move is direct transfer from Hobart to SDSU (non-resident initially) rather than finishing a Hobart BA purely for completion's sake. Finishing the Hobart BA adds ~$34K (one additional year at 50% scholarship) for a credential he'll barely use once an ABET BSME is on his resume. **Unless NUPOC is the target**, in which case completing the physics BA makes sense.
+- **If all 3:2 partners reject:** the rational move is direct transfer from Hobart to SDSU (California resident, ~$9K/yr) rather than finishing a Hobart BA purely for completion's sake. Finishing the Hobart BA adds ~$34K (one additional year at 50% scholarship) for a credential he'll barely use once an ABET BSME is on his resume. **Unless NUPOC is the target**, in which case completing the physics BA makes sense.
 
 ---
 
