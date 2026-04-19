@@ -1,6 +1,6 @@
 # If Hobart: the junior-year fork
 
-*Follow-on to [`decision.md`](./decision.md). Read this only if the starting-school choice is Hobart — otherwise the content here doesn't apply. For the full research base, see [`background.md`](./background.md).*
+*Follow-on to [`README.md`](./README.md). Read this only if the starting-school choice is Hobart — otherwise the content here doesn't apply. For the full research base, see [`background.md`](./background.md).*
 
 ---
 

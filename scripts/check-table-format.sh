@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Validates the main comparison table in decision.md.
+# Validates the main comparison table in README.md (formerly decision.md).
 #
 # Rule (from .cursor/rules/decision-doc-formatting.mdc):
 #   Every cell in the Engineering Reputation, Rowing Culture Fit, Cost,
@@ -12,7 +12,7 @@
 
 set -uo pipefail
 
-FILE="${1:-decision.md}"
+FILE="${1:-README.md}"
 
 if [[ ! -f "$FILE" ]]; then
   echo "check-table-format: file not found: $FILE" >&2

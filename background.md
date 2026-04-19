@@ -1,6 +1,6 @@
 # Background — Jack's College Decision
 
-*Longform reference document. All specifics pulled from the two prior research handoffs (`handoffs/college_decision_handoff.md` and `handoffs/jack_engineering_pathway_handoff.md`) plus additional research on the military-option wildcard and state-school engineering transfer pathways. Companion to `decision.md`, which contains the framing and recommendation.*
+*Longform reference document. All specifics pulled from the two prior research handoffs (`handoffs/college_decision_handoff.md` and `handoffs/jack_engineering_pathway_handoff.md`) plus additional research on the military-option wildcard and state-school engineering transfer pathways. Companion to `README.md`, which contains the framing and recommendation.*
 
 *Research date: April 2026. Rankings, costs, and rowing results should be re-verified before any commitment.*
 
@@ -63,7 +63,7 @@ AP Physics 1 and Physics 2 are **algebra-based** and do **not** satisfy Columbia
 
 - Tuition: $68,414/yr (2025–26)
 - Room & board: $18,668/yr (not used in this analysis — tuition-only comparison)
-- **Merit scholarship assumption: 50% off tuition** → **~$34,207/yr net tuition.** This is the working assumption used throughout this document and `decision.md`.
+- **Merit scholarship assumption: 50% off tuition** → **~$34,207/yr net tuition.** This is the working assumption used throughout this document and `README.md`.
 - AP credit: Hobart grants credit for AP scores of 4 or 5, maximum 7 course units total.
 
 #### 3:2 liaison at Hobart

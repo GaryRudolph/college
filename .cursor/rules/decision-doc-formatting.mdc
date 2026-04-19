@@ -1,12 +1,12 @@
 ---
-description: Formatting conventions for decision.md and background.md in this college-decision project
+description: Formatting conventions for README.md and background.md in this college-decision project
 globs: *.md
 alwaysApply: true
 ---
 
 # College Decision Doc Formatting Rules
 
-These rules apply to `decision.md` and `background.md`. Gary has asked for these **repeatedly** — treat them as hard requirements, not style preferences.
+These rules apply to `README.md` (the primary decision doc — was named `decision.md` before being renamed) and `background.md`. Gary has asked for these **repeatedly** — treat them as hard requirements, not style preferences.
 
 ## 1. Table cells with ratings/amounts MUST have `<br>` after the bolded lead
 
@@ -37,7 +37,7 @@ BAD (no line break — the rating runs into the supporting text):
 After any edit that touches the comparison table, run:
 
 ```
-./scripts/check-table-format.sh decision.md
+./scripts/check-table-format.sh README.md
 ```
 
 It exits 0 on success and prints the exact offending row + column on failure. A pre-commit hook at `.git/hooks/pre-commit` runs the same check on staged changes, so a bad commit gets blocked automatically — but running it inline catches regressions before they compound into a multi-edit mess. **Counting `<br>` tags with `grep -c` is NOT sufficient** and has produced false "all good" reports in the past; always use the validator script.
@@ -59,11 +59,11 @@ The current numbering is:
 
 All six Hobart-starting paths are grouped under option #2 (2a–2f) since they share the same first 1–4 years at Hobart and differ only in the post-Hobart leg. 2f specifically is the military-service path (OCS → 3–5 yrs service → tuition-free MS at Dartmouth Thayer / Cornell / Stanford) — it lives alongside 2a–2e because the shape is the same (Hobart start, post-Hobart leg determines the credential and the cost). UBC is option #3 since it's the only non-Hobart, non-WPI path.
 
-Option 2f detail lives in `hobart.md`, not `decision.md`. The `decision.md` military section should NOT re-explain GI Bill / Yellow Ribbon mechanics — link to `hobart.md#the-other-hobart-forks` instead. Single source of truth for the mechanism is the "How Option 2f pays for the engineering credential" subsection in `hobart.md`.
+Option 2f detail lives in `hobart.md`, not `README.md`. The `README.md` military section should NOT re-explain GI Bill / Yellow Ribbon mechanics — link to `hobart.md#the-other-hobart-forks` instead. Single source of truth for the mechanism is the "How Option 2f pays for the engineering credential" subsection in `hobart.md`.
 
-## 6. Military detail lives in `military.md`, not `decision.md`
+## 6. Military detail lives in `military.md`, not `README.md`
 
-`decision.md`'s Military option section is deliberately kept short: USNA wildcard (with the transfer-credit plebe-restart disclaimer), post-grad OCS, and pointers to `military.md` + `hobart.md` Option 2f. It should NOT contain:
+`README.md`'s Military option section is deliberately kept short: USNA wildcard (with the transfer-credit plebe-restart disclaimer), post-grad OCS, and pointers to `military.md` + `hobart.md` Option 2f. It should NOT contain:
 
 - The full four-bucket role-type table (technical/nuclear, operational line, engineering duty, SpecOps).
 - The step-by-step entry path breakdown for NUPOC, OCS designators, Army Direct Commissioning.

@@ -1,6 +1,6 @@
 # Military option — full detail
 
-*Follow-on to [`decision.md`](./decision.md). Read this if a military path is under serious consideration; the short version lives in the Military option section of `decision.md`. For the specific Hobart BA → OCS → elite MS cost mechanics (GI Bill + Yellow Ribbon), see [Option 2f in `hobart.md`](./hobart.md#the-other-hobart-forks) — the GI Bill / Yellow Ribbon breakdown is single-sourced there.*
+*Follow-on to [`README.md`](./README.md). Read this if a military path is under serious consideration; the short version lives in the Military option section of `README.md`. For the specific Hobart BA → OCS → elite MS cost mechanics (GI Bill + Yellow Ribbon), see [Option 2f in `hobart.md`](./hobart.md#the-other-hobart-forks) — the GI Bill / Yellow Ribbon breakdown is single-sourced there.*
 
 The military option is deliberately separate from the primary comparison because **it can attach to any of the primary paths** rather than competing with them. But before evaluating entry paths, there's a prior question: **what does Jack want out of military service?** The answer shapes which entry path to pursue and which service branch makes sense.
 
