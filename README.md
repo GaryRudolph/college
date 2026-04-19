@@ -19,14 +19,17 @@ The real decision is **where Jack shows up as a freshman.** Everything else — 
 1. **WPI** — Strong engineering, low risk, mid-competitive DIII rowing. Simple: focus on education and rowing.
    - **Cost:** ~$220K all-in (cheapest path)
    - **Years:** 4
+   - **Curriculum:** Engineering from day one; project-based, minimal writing load. Best fit for Jack's stated preference against writing-heavy coursework.
    - **Trade:** rowing peaks at mid-high pack DIII
 2. **Hobart** — Solid IRA-system rowing with a path to **both** elite rowing (only 1 year at Columbia or Dartmouth LW) **and/or** solid-to-elite engineering (Columbia, Dartmouth, WashU BS+MS, RPI, or Cal State). Multiple fallbacks at the junior-year fork — see [`hobart.md`](./hobart.md) for the per-option detail.
    - **Cost:** ~$266K–$334K depending on fork
    - **Years:** 5–6 depending on fork
+   - **Curriculum:** Liberal-arts BA for the first 2–3 years (Hobart's core requires humanities breadth + writing-intensive courses) before engineering coursework begins at the partner school. This is the biggest mismatch with Jack's preference — the BA *is* the first half of the degree, not an add-on.
    - **Trade:** GPA gate sophomore/junior year; worst case (every dual-degree fork fails) is Hobart BA + Cal State BSME at ~$266K / 6 yrs — still a viable landing spot
 3. **UBC** — Solid engineering (QS #25 globally, #2 in Canada), elite Canadian varsity rowing **if** he makes the team, and an amazing lifestyle / location.
    - **Cost:** ~$268K (USD)
    - **Years:** 4
+   - **Curriculum:** Engineering from day one (BASc); limited humanities / writing requirements. Similar fit to WPI on curriculum style.
    - **Trade:** Jack's own assessment is that walking on is uncertain (LW roster ~4 slots). Realistic base case: no rowing at UBC. Treat as "engineering + lifestyle, rowing optional."
 
 **A military option can attach to any of the three paths** — applying to USNA this summer as a wildcard, or post-grad OCS/NUPOC after any of them. It doesn't compete with the starting-school choice, so the 3-way framing stands. See [Military option](#military-option) below for the short version, or [`military.md`](./military.md) for role types, entry paths, and the GI Bill + Yellow Ribbon cost math (Option 2f is the specific Hobart + OCS instance).
