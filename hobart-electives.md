@@ -1,6 +1,6 @@
 # HWS Goal Courses + Free Electives — Full Menu with Easy-A Sentiment
 
-Companion reference to [`course-plans.md`](./course-plans.md). The core document picks one recommended course per live goal; this file contains the full menu (every reasonable low-writing option), the RateMyProfessors / forum sentiment per course, and alternate paths if Jack wants to swap any of the recommendations.
+Companion reference to [`hobart-plan.md`](./hobart-plan.md). The core document picks one recommended course per live goal; this file contains the full menu (every reasonable low-writing option), the RateMyProfessors / forum sentiment per course, and alternate paths if Jack wants to swap any of the recommendations.
 
 ## How HWS aspirational goals work
 

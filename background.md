@@ -110,8 +110,8 @@ Professor Donald Spector, Physics, `spector@hws.edu`. He coordinates all four 3:
 | Calc II | Calc BC (5) | Covered |
 | Calc III (multivariable) | None | **Yes** |
 | Calc IV / Diff Eq | None | **Yes** |
-| Physics I (calc-based) | Physics C Mech (pending) | Pending score |
-| Physics II (calc-based) | Physics C E&M (pending) | Pending score |
+| Physics I (calc-based) | Physics C Mech (assumed 5 — May 2026) | Covered (pending confirmation) |
+| Physics II (calc-based) | Physics C E&M (assumed 5 — May 2026) | Covered (pending confirmation) |
 | General Chemistry | None | **Yes** |
 | Computer Science | CS A (4) | Covered |
 | Economics | Macro (3) — below credit threshold | **Yes** |
@@ -1052,7 +1052,7 @@ If the dual-degree forks fail (Columbia / Dartmouth / WashU / RPI all reject) an
 
 ## 9. Open items to confirm
 
-- [ ] **AP Physics C scores** — pending; critical for 3:2 prereq load.
+- [ ] **AP Physics C scores** — sat May 13–14, 2026; plan assumes 5/5 (scores post mid-July 2026). Revisit if either comes back below 4 — mainly affects WPI (Physics 1+2 not on WPI's chart, so Y1 would need PH 1110/PH 1120 inserted).
 - [ ] **Hobart–WashU agreement structure** — 3:3 (BS+MS) or is a 3:2 (BS-only) option available?
 - [ ] **Hobart's grade transfer policy** for Dartmouth/partner-school coursework (affects fallback applications).
 - [ ] **Dartmouth 2:1:1:1 credit transfer back to Hobart** — sufficient to enable BA completion in senior year?

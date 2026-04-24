@@ -157,7 +157,13 @@ There are military options, and they attach to any of the primary paths rather t
 
 Jack has stated a preference against writing-heavy coursework. Engineering curricula are STEM-dense and don't vary much across programs; the dimension that *does* vary is the **non-STEM load** — especially at Hobart, where it also differs meaningfully between the 2a Columbia and 2b Dartmouth forks. This section breaks down the curriculum picture per path so the style dimension is factored in alongside cost, rowing, and risk.
 
-**For the full term-by-term course progression at each school (WPI, Hobart → Columbia 3:2, Hobart → Dartmouth 2:1:1:1, Hobart → WashU 3:3) with AP credits applied and low-writing elective picks per path, see [`course-plans.md`](./course-plans.md).**
+**For the full term-by-term course progression with AP credits applied and low-writing elective picks per path, see:**
+
+- **[`ap-credits.md`](./ap-credits.md)** — Jack's completed AP scores, May 2026 exam schedule, per-school credit mapping, place-out summary per school, Dartmouth FAQ.
+- **[`wpi-plan.md`](./wpi-plan.md)** — Option 1 (WPI) 4-year term-by-term plan.
+- **[`hobart-plan.md`](./hobart-plan.md)** — Hobart dual-degree paths (2a Columbia 3:2, 2b Dartmouth 2:1:1:1, 2c WashU 3:3) with a path-agnostic Hobart Y1–Y2 core.
+- **[`hobart-electives.md`](./hobart-electives.md)** — HWS goal-course and free-elective menu with RMP sentiment.
+- **[`hobart-questions.md`](./hobart-questions.md)** — consolidated list of open Hobart-path questions grouped by contact (Spector, registrar, financial aid, partner-school coordinators, coaches) with priority + revisit-date schedule.
 
 ### WPI (Option 1) — Engineering from day 1
 
@@ -171,7 +177,7 @@ Per the [HWS catalogue](https://www.hws.edu/catalogue/curriculum.aspx):
 
 - **32 courses total** — 4/semester × 8 semesters.
 - **First-Year Seminar (FYS)** — 1 writing-intensive course, mandatory, pass with C−. This is the only strictly writing-heavy requirement.
-- **Physics BA major — 12 courses** (5 required physics: PHYS 150, 160, 270, 285, 383 + Calc I & II + 5 electives including capstone). Jack's AP scores (Calc AB, BC, CS A, + pending Physics C Mech/E&M) should wipe out 4–5 of those, leaving ~8 physics-major courses at Hobart.
+- **Physics BA major — 12 courses** (5 required physics: PHYS 150, 160, 270, 285, 383 + Calc I & II + 5 electives including capstone). Jack's AP scores (Calc AB, BC, CS A + Physics C Mech/E&M assumed 5/5 on May 2026 exams) should wipe out 4–5 of those, leaving ~8 physics-major courses at Hobart.
 - **8 Educational Goals** — 2 integrated (critical thinking, communication) taught across the curriculum + 6 aspirational (quantitative reasoning, scientific inquiry, artistic process, social inequalities, cultural difference, ethical judgment). The physics major covers the first 2 automatically. The remaining 4 require **≥5 distinct courses total**, with broad course-choice latitude — there is no Columbia-Core-style prescribed sequence.
 
 **3:2 Columbia (2a) vs. 2:1:1:1 Dartmouth (2b) — the non-STEM load at Hobart differs:**
@@ -195,7 +201,7 @@ Both paths put Jack at Hobart for **3 total years ≈ 24 enrolled courses** (2a:
 
 *Items to confirm with Prof. Donald Spector (HWS engineering liaison):*
 
-1. **AP credit mapping** — that all 5 AP scores (Calc AB, Calc BC, Physics C Mech, Physics C E&M, CS A) wipe out specific major/prereq courses (MATH 130, 131, PHYS 150, 160, an intro CS requirement), not just generic HWS credit.
+1. **AP credit mapping** — walk through Jack's completed + pending AP exams (see [`ap-credits.md`](./ap-credits.md)) with Spector post-July 2026, specifically on (a) whether AP Physics C (assumed 5/5 on May 2026 exams) buys exemption from PHYS 150/160 (not just credit), (b) Calc BC → MATH 131 count, and (c) the HWS 7-course AP cap with Jack's potential pile of 14 credits.
 2. **Dartmouth Y3 course transfer attributes** — that non-engineering courses taken at Dartmouth in Y3 carry HWS aspirational-goal attributes back onto the HWS transcript.
 
 See [`hobart.md`](./hobart.md) for the full per-option detail, including how this interacts with the 2e Syracuse and 2g OCS forks (where Jack is at Hobart for all 4 years, so the full ~5 aspirational-goal course slate lands at Hobart).
