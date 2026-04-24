@@ -67,7 +67,7 @@ AP Physics 1 and Physics 2 are **algebra-based** and do **not** satisfy Columbia
 
 - Tuition: $68,414/yr (2025–26)
 - Room & board: $18,668/yr (not used in this analysis — tuition-only comparison)
-- **Merit scholarship assumption: 50% off tuition** → **~$34,207/yr net tuition.** This is the working assumption used throughout this document and `README.md`.
+- **Merit scholarship: $41,000/yr** (~60% off the $68,414 sticker) → **~$27,414/yr net tuition**. Working assumption throughout this document and `README.md`. **Applies only in years Jack is enrolled at Hobart** — the award comes off Hobart's tuition bill, it doesn't follow him to a 3:2 / 3:3 partner school. So it counts 3 years for 2a/2c/2d, 3 years for 2b (Y1/Y2/Y4 at Hobart; Y3/Y5 at Dartmouth), and 4 years for 2e/2f/2g. **Renewal terms still need offer-letter confirmation** — specifically the GPA minimum, semester cap, and how a formal leave of absence for the Dartmouth Y3 interacts with renewal (relevant only for Option 2b).
 - AP credit: Hobart grants credit for AP scores of 4 or 5, maximum 7 course units total.
 
 #### 3:2 liaison at Hobart
@@ -191,7 +191,7 @@ Dartmouth's quarter system (10-week terms) with six ENGS courses in year 3 is de
 
 - Automatic **Graduate Affiliation Scholarship**: flat **50% tuition discount** for all 3 years at WashU (structural feature of the program, not need-based).
 - At 2026-27 rates ($69,190/year graduate tuition), that's **~$34,500/year post-discount × 3 years ≈ $103,500** at WashU.
-- Combined with 3 years at Hobart (50% scholarship, ~$103K tuition / ~$156K all-in), the WashU 3:3 path delivers BA + BS + MS for **~$205K total tuition / ~$320K all-in (with R&B) over 6 years** — the best cost-per-degree on the board, and roughly the same total all-in cost as Columbia 3:2 despite adding a master's degree.
+- Combined with 3 years at Hobart ($41K/yr scholarship, ~$82K tuition / ~$138K all-in), the WashU 3:3 path delivers BA + BS + MS for **~$186K total tuition / ~$302K all-in (with R&B) over 6 years** — the best cost-per-degree on the board, and roughly the same total all-in cost as Columbia 3:2 despite adding a master's degree.
 
 #### WashU rowing
 
@@ -422,12 +422,12 @@ Unlike the existing 3:2 (Columbia, RPI) or 3:3 (WashU) partnerships, the Syracus
 - **Housing and food (Syracuse Graduate COA):** ~$16,338/yr.
 - **All-in per year (tuition + R&B):** ~$52,600/yr.
 - **2-year MS all-in:** ~$105K.
-- **Combined 6-year total (Option 2e):** Hobart 4 yrs at ~$52K = ~$208K + Syracuse 2 yrs at ~$52.6K = ~$105K → **~$313K all-in.**
+- **Combined 6-year total (Option 2e):** Hobart 4 yrs at ~$46K (post-scholarship) = ~$184K + Syracuse 2 yrs at ~$52.6K = ~$105K → **~$289K all-in.**
 - **No published partner-school scholarship or tuition discount.** The Syracuse announcement emphasizes "streamlined pathway" but makes no commitment on financial aid. This is an open item to confirm — even a 25% discount would improve the cost competitiveness materially.
 
 #### Why Syracuse 4+2 is dominated by existing options
 
-- **Dominated by WashU 3:3 (Option 2c) on every axis:** same 6-year timeline, same near-automatic admit (marginally easier at 3.2 GPA vs. 3.25), similar cost (~$320K vs. ~$313K), but WashU delivers a BA + ABET BS + MS (vs. 2e's BA + MS) and has a stronger engineering reputation (~#42 vs. ~#70) and a nationally competitive ACRA rowing season in Y4.
+- **Dominated by WashU 3:3 (Option 2c) on credential, ranking, and rowing:** same 6-year timeline, same near-automatic admit (marginally easier at 3.2 GPA vs. 3.25), and 2e is now *~$13K cheaper* than 2c (~$289K vs. ~$302K) thanks to the extra year of Hobart scholarship — but WashU delivers a BA + ABET BS + MS (vs. 2e's BA + MS, no BS), has a stronger engineering reputation (~#42 vs. ~#70), and adds a nationally competitive ACRA rowing season in Y4. The ~$13K cost edge doesn't buy back the missing ABET BS or the extra year of rowing.
 - **Weaker credential profile than Cal State BSME (Option 2f):** 2f gives an ABET-accredited BSME, which is the baseline credential for engineering employment and PE licensure. Syracuse's MS-without-BS is structurally worse for early-career engineering roles.
 - **Only advantage:** marginally easier GPA gate (3.2 vs. WashU 3.25) and stays on the East Coast. Not enough to make it a primary target.
 
@@ -577,7 +577,7 @@ The old plan assumed Jack could redshirt Y4 at Columbia and race both Y4 and Y5 
 
 The old plan assumed ACRA club rowing had informal or enrollment-based eligibility and that Jack could row all 3 grad years at WashU. **The ACRA 2025 Regatta Packet eligibility rules are explicit:** 4 seasons in 5 calendar years from initial full-time enrollment, with "competing for an institution in any one event within the academic year" constituting a used season. Prior IRA competition at Hobart counts. Jack burns 3 of 4 ACRA seasons at Hobart, uses the 4th at WashU in Y4, and is eligibility-exhausted by Y5.
 
-**Combined result: all three rowing-fit options (2a, 2b, 2c) deliver 4 total competitive seasons.** What differs is peak level of the final season (Ivy LW vs. ACRA club), credential earned (Ivy BS/BE vs. WashU BS+MS), all-in cost (~$322K Columbia / ~$334K Dartmouth / ~$320K WashU — roughly comparable; WashU adds an MS for ~$0 net), and admit risk (3.50/~3.30 gate vs. ~3.25 near-automatic). None of them is "sustained elite rowing across 5–6 years" — the 4-in-5 eligibility clock binds in all cases.
+**Combined result: all three rowing-fit options (2a, 2b, 2c) deliver 4 total competitive seasons.** What differs is peak level of the final season (Ivy LW vs. ACRA club), credential earned (Ivy BS/BE vs. WashU BS+MS), all-in cost (~$304K Columbia / ~$275K Dartmouth / ~$302K WashU — Dartmouth is now the *cheapest* of the three because only 1 of its 2 Dartmouth years is billed at Dartmouth tuition; the Y3 exchange keeps Hobart's scholarship applied), and admit risk (3.50/~3.30 gate vs. ~3.25 near-automatic). None of them is "sustained elite rowing across 5–6 years" — the 4-in-5 eligibility clock binds in all cases.
 
 This does not invalidate any of these paths. Each still provides a real, multi-year competitive rowing experience and a strong engineering credential. But it means the **choice between Ivy paths and WashU 3:3 is not "elite 1-year experience vs. 3 extra years of rowing."** It's a straightforward tradeoff: Ivy credential + higher admit risk + higher cost vs. WashU BS+MS + near-automatic admit + lower cost. Rowing is not a meaningful tiebreaker between them at the total-seasons level.
 
@@ -600,7 +600,7 @@ Assumptions used throughout (merit scholarships are **tuition-only** — they do
 
 | School | Tuition (net) | R&B (on-campus) | All-in / yr | Notes |
 |---|---|---|---|---|
-| Hobart | ~$34,207 (50% merit on $68,414) | ~$18,210 (standard room + Finger Lakes meal plan) | **~$52K** | **50% merit needs offer-letter confirmation.** Hobart standard room $9,642 + Finger Lakes meal $8,568. Cheaper meal plan options bring R&B down by $5–7K. |
+| Hobart | ~$27,414 ($41,000/yr merit on $68,414 ≈ 60% off) | ~$18,210 (standard room + Finger Lakes meal plan) | **~$46K** | **Scholarship renewal terms need offer-letter confirmation** (GPA minimum, semester cap, and leave-of-absence treatment for Option 2b's Dartmouth Y3). Hobart standard room $9,642 + Finger Lakes meal $8,568. Cheaper meal plan options bring R&B down by $5–7K. |
 | WPI | ~$36,046 ($27K merit on $63,046) | ~$18,900 (housing $10,200 + food $8,700) | **~$55K** | Per WPI's published 2025–26 first-year COA. |
 | Columbia | ~$70,170 (full sticker) | ~$13,222 (upperclass on-campus + meal plan) | **~$83K** | Columbia first-year R&B is $11,900; upperclass $13,222. Used upperclass as the conservative case. No need-based aid assumed. |
 | Dartmouth | ~$68,000 (full sticker) | ~$20,670 (housing $12,579 + food $8,091, all 3 quarters) | **~$89K** | Dartmouth quarter system; full-year R&B is $20,670 across 3 terms. No need-based aid assumed. |
@@ -618,62 +618,72 @@ Assumptions used throughout (merit scholarships are **tuition-only** — they do
 
 ### Option 2a: Hobart → Columbia 3:2 (5 years)
 
-- Hobart (3 years): $52K × 3 = ~$156K
+- Hobart (3 years): $46K × 3 = ~$138K
 - Columbia (2 years): $83K × 2 = ~$166K
-- **Total all-in: ~$322K**
+- **Total all-in: ~$304K**
 
 ### Option 2b: Hobart → Dartmouth 2:1:1:1 (5 years)
 
-- Hobart (3 years total — Y1, Y2, Y4): $52K × 3 = ~$156K
-- Dartmouth (2 years total — Y3, Y5): $89K × 2 = ~$178K
-- **Total all-in: ~$334K**
-- Slightly more expensive than Columbia 3:2 because Dartmouth's R&B sticker is higher (~$21K vs. Columbia's ~$13K); their tuition is roughly equal.
+**Key tuition structure** (confirmed from Dartmouth Thayer's Partner School Dual-Degree page, [thayer.dartmouth.edu/undergraduate/dual](https://thayer.dartmouth.edu/undergraduate/dual)): during the **first** year at Dartmouth (Y3 for HWS), students remain registered at their home institution and pay home-institution tuition — structurally an exchange/study-abroad year. Only the **BE year** (Y5) is billed as a Dartmouth student. The Dartmouth page is explicit on both halves:
+
+> First year: "Students applying for the first year of the Dual-Degree Program should consult with their home institution's registrar regarding tuition... During the first year, eligible Dual-Degree students receive financial aid through their home institutions."
+>
+> BE year: "Dual-Degree students returning for the BE year are considered Dartmouth students and pay tuition and fees to Thayer School of Engineering."
+
+Housing: Y3 is on-campus in Dartmouth undergraduate housing (so Dartmouth R&B applies); Y5 is off-campus in Hanover at the student's own arrangement.
+
+- Hobart (3 years total — Y1, Y2, Y4): $46K × 3 = ~$138K (Hobart tuition post-scholarship + Hobart R&B)
+- Dartmouth Y3 as Hobart-registered exchange student: ~$27K Hobart tuition (scholarship applies) + ~$21K Dartmouth on-campus R&B = ~$48K
+- Dartmouth Y5 as full Dartmouth BE student: ~$68K tuition + ~$21K off-campus R&B = ~$89K
+- **Total all-in: ~$275K**
+- **Cheaper than Columbia 3:2 (~$304K) despite the higher sticker at Dartmouth**, because only 1 of the 2 Dartmouth years is billed at Dartmouth tuition — the exchange-year structure routes Y3 through Hobart's scholarship-discounted tuition. Columbia 3:2 has no equivalent arrangement: both Columbia years are billed as full Columbia tuition.
+- *Scholarship renewal caveat:* this assumes Hobart treats the Dartmouth Y3 as an approved exchange/leave and continues the merit scholarship for Y4 when Jack returns. **Confirm with Hobart financial aid before relying on the 2b number.**
 
 ### Option 2c: Hobart → WashU 3:3 (6 years)
 
-- Hobart (3 years): $52K × 3 = ~$156K
+- Hobart (3 years): $46K × 3 = ~$138K
 - WashU grad (3 years, with 50% GAS): $54.5K × 3 = ~$163.5K
-- **Total all-in: ~$320K**
+- **Total all-in: ~$302K**
 - Delivers **BA + BS + MS** in 6 years. Roughly the same total cost as Columbia 3:2 despite adding an extra year and a master's degree, because WashU's per-year cost is materially lower.
 
 ### Option 2d: Hobart → RPI 3:2 (5 years)
 
-- Hobart (3 years): $52K × 3 = ~$156K
+- Hobart (3 years): $46K × 3 = ~$138K
 - RPI (2 years): $83K × 2 = ~$166K
-- **Total all-in: ~$322K**
+- **Total all-in: ~$304K**
 
 ### Option 2e: Hobart → Syracuse ECS 4+2 (6 years)
 
-- Hobart BA (4 years): $52K × 4 = ~$208K
+- Hobart BA (4 years): $46K × 4 = ~$184K
 - Syracuse MS (2 years, on-campus, no partner-school discount published): ~$52.6K × 2 = ~$105K
-- **Total all-in: ~$313K** for a Hobart BA + Syracuse MS. **No ABET BS.**
-- *Scholarship sensitivity:* if Syracuse were to offer a 25% partner-school tuition discount (not currently published but worth asking about), the 2-year grad portion drops to ~$87K and total falls to ~$295K. Still dominated by WashU 3:3 on credential.
+- **Total all-in: ~$289K** for a Hobart BA + Syracuse MS. **No ABET BS.**
+- *Scholarship sensitivity:* if Syracuse were to offer a 25% partner-school tuition discount (not currently published but worth asking about), the 2-year grad portion drops to ~$87K and total falls to ~$271K. Still dominated by WashU 3:3 on credential.
 
 ### Option 2f: Hobart BA → State School BSME (Hobart Applied Physics + Cal State BSME)
 
 **Jack is a California resident**, so Cal State BSME tuition is at in-state rates. Any Cal State with an ABET BSME and the right prereq path (SDSU, Cal Poly SLO if admissions permit, SJSU, CSU Long Beach, etc.) can substitute for SDSU at similar in-state pricing.
 
 **With full Hobart BA, 6 years (on-campus CSU):**
-- Hobart (4 years): $52K × 4 = ~$208K
+- Hobart (4 years): $46K × 4 = ~$184K
 - SDSU on-campus (2 years): $29K × 2 = ~$58K
-- **Total all-in: ~$266K**
+- **Total all-in: ~$242K**
 
 **With full Hobart BA, 6 years (commuting CSU from home):**
-- Hobart (4 years): ~$208K
+- Hobart (4 years): ~$184K
 - SDSU commuting (2 years, tuition only ~$9K): ~$18K
-- **Total all-in: ~$226K** — roughly $40K cheaper if Jack lives at home for the Cal State portion.
+- **Total all-in: ~$202K** — roughly $40K cheaper if Jack lives at home for the Cal State portion.
 
 **Leaving Hobart after year 3 without BA, 5 years (on-campus CSU):**
-- Hobart (3 years): ~$156K
+- Hobart (3 years): ~$138K
 - SDSU on-campus (2 years): ~$58K
-- **Total all-in: ~$214K** — sacrifices the Hobart BA to save ~$50K.
+- **Total all-in: ~$196K** — sacrifices the Hobart BA to save ~$46K.
 
 ### Option 2g: Hobart BA → OCS → post-service MS
 
-- Hobart BA (4 years): $52K × 4 = **~$208K out-of-pocket**
+- Hobart BA (4 years): $46K × 4 = **~$184K out-of-pocket**
 - Military service: paid (officer salary).
 - Post-service MS at Dartmouth Thayer / Cornell / Stanford via GI Bill + Yellow Ribbon: **$0 tuition** (housing allowance + books stipend on top).
-- **Total all-in: ~$208K** for a Hobart BA + elite engineering MS. Service commitment (3–5 yrs) is the real cost, not the dollar number.
+- **Total all-in: ~$184K** for a Hobart BA + elite engineering MS. Service commitment (3–5 yrs) is the real cost, not the dollar number.
 
 ### Add-on to Option 1: WPI → Ivy transfer (highly competitive long shot)
 
@@ -689,16 +699,16 @@ Assumptions used throughout (merit scholarships are **tuition-only** — they do
 
 | Option | All-in cost | Years | Degrees awarded |
 |---|---|---|---|
-| 2g. Hobart BA → OCS → MS | ~$208K + $0 grad | 4 + service | BA + post-service MS |
+| 2g. Hobart BA → OCS → MS | ~$184K + $0 grad | 4 + service | BA + post-service MS |
+| 2f. Hobart BA → Cal State BSME (commute) | ~$202K | 6 | BA Physics + BSME |
 | 1. WPI | ~$220K | 4 | BS Engineering |
-| 2f. Hobart BA → Cal State BSME (commute) | ~$226K | 6 | BA Physics + BSME |
+| 2f. Hobart BA → Cal State BSME (on-campus) | ~$242K | 6 | BA Physics + BSME |
 | 3. UBC | ~$268K (USD) | 4 | BASc Engineering |
-| 2f. Hobart BA → Cal State BSME (on-campus) | ~$266K | 6 | BA Physics + BSME |
-| 2e. Hobart → Syracuse ECS 4+2 | ~$313K | 6 | BA + Syracuse MS (no ABET BS) |
-| 2c. Hobart → WashU 3:3 | ~$320K | 6 | BA + BS + MS Engineering |
-| 2a. Hobart → Columbia 3:2 | ~$322K | 5 | BA + Columbia BS |
-| 2d. Hobart → RPI 3:2 | ~$322K | 5 | BA + RPI BS |
-| 2b. Hobart → Dartmouth 2:1:1:1 | ~$334K | 5 | BA + Dartmouth BE |
+| 2b. Hobart → Dartmouth 2:1:1:1 | ~$275K | 5 | BA + Dartmouth BE |
+| 2e. Hobart → Syracuse ECS 4+2 | ~$289K | 6 | BA + Syracuse MS (no ABET BS) |
+| 2c. Hobart → WashU 3:3 | ~$302K | 6 | BA + BS + MS Engineering |
+| 2a. Hobart → Columbia 3:2 | ~$304K | 5 | BA + Columbia BS |
+| 2d. Hobart → RPI 3:2 | ~$304K | 5 | BA + RPI BS |
 | Add-on. WPI → Ivy (if transfer works) | ~$300K–$370K | 4 | BS Engineering (Ivy) |
 
 ### What's excluded from these numbers (and why it doesn't change the ranking)
@@ -841,9 +851,9 @@ Rough estimates of tuition-only value if Jack completes 3+ years of active duty 
 | Primary path | Stand-alone all-in cost | With military service + GI Bill grad school after |
 |---|---|---|
 | Option 1 (WPI) | ~$220K | Can add Dartmouth/Cornell/Stanford MS for ~$0 post-service. Strong cost efficiency. |
-| Option 2g (Hobart BA → OCS / NUPOC, skip the state-school BSME) | ~$208K (Hobart BA only) | Can add **Dartmouth Thayer MS for ~$0** post-service. End state: Physics BA + Navy nuclear service + Dartmouth MEng. |
+| Option 2g (Hobart BA → OCS / NUPOC, skip the state-school BSME) | ~$184K (Hobart BA only) | Can add **Dartmouth Thayer MS for ~$0** post-service. End state: Physics BA + Navy nuclear service + Dartmouth MEng. |
 | Option 3 (UBC) | ~$268K (USD) | Same — post-service MS at Dartmouth/Cornell possible. Upgrades the US-brand-recognition problem of the UBC undergrad. |
-| Options 2a/2b (Hobart → Ivy) | ~$322K–$334K | Less value-add since Ivy BS is already in hand; still available if he wants a further MS. |
+| Options 2a/2b (Hobart → Ivy) | ~$275K (2b) / ~$304K (2a) | Less value-add since Ivy BS is already in hand; still available if he wants a further MS. |
 
 **Key insight:** the military path is not just "how Jack pays for his first degree" — it's also a **structured path to an elite engineering MS at near-zero tuition after service.** This is particularly powerful for Options 1 and 2g, where the undergrad credential is less prestigious (or less expensive) than an Ivy BS and can be topped with a Dartmouth/Cornell/Stanford MS for effectively free.
 
@@ -987,13 +997,13 @@ Apply to USNA summer/fall of freshman year. Accepts ~8% of applicants plus the n
 
 ### Post-grad OCS as the Hobart-BA pivot (Option 2g)
 
-If the dual-degree forks fail (Columbia / Dartmouth / WashU / RPI all reject) and Jack still wants an elite engineering credential, **post-grad OCS + GI Bill + Yellow Ribbon** is materially better than the Cal State BSME (Option 2f) for the final credential. Mechanism: Hobart BA (~$208K all-in) → 3–5 years of commissioned service → tuition-free MS at Dartmouth Thayer (uncapped Yellow Ribbon), Cornell, or Stanford. End state: Hobart BA + Navy/military service + elite engineering MS for the same $208K out-of-pocket as Option 2g (instead of $266K for 2f + a Cal State BSME). The trade is the service commitment itself, not the credential quality. Only the right play if Jack is independently drawn to military service. Full mechanism in [`hobart.md`](./hobart.md#how-option-2g-pays-for-the-engineering-credential); role-type detail in [`military.md`](./military.md).
+If the dual-degree forks fail (Columbia / Dartmouth / WashU / RPI all reject) and Jack still wants an elite engineering credential, **post-grad OCS + GI Bill + Yellow Ribbon** is materially better than the Cal State BSME (Option 2f) for the final credential. Mechanism: Hobart BA (~$184K all-in) → 3–5 years of commissioned service → tuition-free MS at Dartmouth Thayer (uncapped Yellow Ribbon), Cornell, or Stanford. End state: Hobart BA + Navy/military service + elite engineering MS for the same $184K out-of-pocket as Option 2g (instead of $242K for 2f + a Cal State BSME). The trade is the service commitment itself, not the credential quality. Only the right play if Jack is independently drawn to military service. Full mechanism in [`hobart.md`](./hobart.md#how-option-2g-pays-for-the-engineering-credential); role-type detail in [`military.md`](./military.md).
 
 ### Pivot rules
 
 - **GPA checkpoint end of sophomore year:** if cumulative < 3.25, have a serious conversation about direct transfer to an engineering school vs. another year of Hobart tuition.
 - **Dartmouth 2:1:1:1 if pursued:** if visibly struggling by end of fall term at Dartmouth, talk to the Dual-Degree director immediately. Early pivot = more options intact.
-- **If all 3:2 / 3:3 partners reject:** four forks. (a) Direct transfer Hobart → SDSU as a CA resident — cheapest at ~$214K all-in over 5 years, but no Hobart BA. (b) Finish Hobart BA + Cal State BSME (Option 2f, ~$266K / 6 yrs) — keeps the BA but adds ~$52K. (c) Finish Hobart BA + post-grad OCS + tuition-free MS (Option 2g, ~$208K + service) — cheapest *and* highest-credential, but requires the service commitment. (d) Finish Hobart BA + Syracuse ECS 4+2 MS (Option 2e, ~$313K / 6 yrs) — keeps things civilian and near-automatic at 3.2 GPA, but delivers an MS without an ABET BS, which is a weaker credential profile than (a) or (b). Ranking by credential quality: (c) > (b) ≈ (a) > (d). Pick (a) or (b) for ABET BS cleanliness, (c) if military service is independently attractive, (d) only if both (a)/(b) also fall through.
+- **If all 3:2 / 3:3 partners reject:** four forks. (a) Direct transfer Hobart → SDSU as a CA resident — cheapest at ~$196K all-in over 5 years, but no Hobart BA. (b) Finish Hobart BA + Cal State BSME (Option 2f, ~$242K / 6 yrs) — keeps the BA but adds ~$46K. (c) Finish Hobart BA + post-grad OCS + tuition-free MS (Option 2g, ~$184K + service) — cheapest *and* highest-credential, but requires the service commitment. (d) Finish Hobart BA + Syracuse ECS 4+2 MS (Option 2e, ~$289K / 6 yrs) — keeps things civilian and near-automatic at 3.2 GPA, but delivers an MS without an ABET BS, which is a weaker credential profile than (a) or (b). Ranking by credential quality: (c) > (b) ≈ (a) > (d). Pick (a) or (b) for ABET BS cleanliness, (c) if military service is independently attractive, (d) only if both (a)/(b) also fall through.
 
 ---
 
