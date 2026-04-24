@@ -49,6 +49,8 @@ AP Physics 1 and Physics 2 are **algebra-based** and do **not** satisfy Columbia
 
 ## 3. The schools — full profiles
 
+> **Reframing note (April 2026):** This section is the **historical research base** and is preserved as written. The active option set has since narrowed: §3d (WashU McKelvey via 3:3) and §3e (RPI via 3:2) are now parked as unconfirmed HWS partnerships — neither shows up on HWS's 2024–25 Joint Degree Programs catalogue page or on the partner schools' published affiliate lists. They live, with reactivation checklists, in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md) until Prof. Spector confirms or denies them ([`hobart-questions.md` §1.9](./hobart-questions.md#1-prof-donald-spector--hws-engineering-liaison)). §3j (Syracuse 4+2) has been **promoted from "backup-to-the-backup" to a third primary dual-degree / direct-graduate-admission path** alongside Columbia 2a and Dartmouth 2b. Decision-grade summaries live in [`README.md`](./README.md) and [`hobart.md`](./hobart.md); the prose below each affected subsection (3d, 3e, 3j) has been re-headed to flag this status, but the underlying research is otherwise unedited.
+
 ### 3a. Hobart and William Smith Colleges (HWS)
 
 - **Location:** Geneva, NY
@@ -178,7 +180,9 @@ Dartmouth's quarter system (10-week terms) with six ENGS courses in year 3 is de
 
 ### 3d. WashU McKelvey (via 3:3)
 
-- **Role in Jack's plan:** Fallback partner for 3:3 Dual Degree. **This is the strongest fallback option.**
+> **⚠ Status (April 2026): parked as unconfirmed HWS partnership.** HWS's 2024–25 catalogue Joint Degree Programs page lists only Columbia and Dartmouth; WashU McKelvey's affiliate list does not include HWS. The deep research below pre-dates that finding — kept here as the historical research base, but the active option set has dropped 2c. Decision-grade summary + reactivation checklist live in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md). The canonical Spector confirm question is [`hobart-questions.md` §1.9](./hobart-questions.md#1-prof-donald-spector--hws-engineering-liaison).
+
+- **Role in Jack's plan (if confirmed):** Fallback partner for 3:3 Dual Degree. **This was modeled as the strongest fallback option** before partnership-status review demoted it.
 - **Degree outcome:** BA from Hobart + **BS + MS** in engineering from WashU McKelvey. Six total years.
 
 #### WashU 3:3 admission
@@ -219,7 +223,9 @@ Dartmouth's quarter system (10-week terms) with six ENGS courses in year 3 is de
 
 ### 3e. RPI (via 3:2)
 
-- **Role in Jack's plan:** Fallback partner for 3:2. High-probability admit for prepared students.
+> **⚠ Status (April 2026): parked as unconfirmed HWS partnership.** HWS's 2024–25 catalogue Joint Degree Programs page lists only Columbia and Dartmouth; RPI's known 3+2 partner list does not surface HWS. Deep research below pre-dates that finding. Decision-grade summary + reactivation checklist live in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).
+
+- **Role in Jack's plan (if confirmed):** Fallback partner for 3:2. High-probability admit for prepared students.
 - **Degree outcome:** BA from Hobart + BS in engineering from RPI.
 
 #### RPI 3:2 admission
@@ -390,10 +396,10 @@ Previously considered as an alternative BSME transfer destination. **Dropped fro
 
 ---
 
-### 3j. Syracuse University (via 4+2 pathway) — new partnership, MS-only
+### 3j. Syracuse University (via 4+2 pathway) — confirmed partnership, MS-only
 
 - **Location:** Syracuse, NY (~1 hr from Hobart)
-- **Role in Jack's plan:** Backup-to-the-backup for the Hobart path if both WashU 3:3 and Cal State BSME fall through. Not a primary target.
+- **Role in Jack's plan:** **Third primary dual-degree / direct-admission path** (alongside Columbia 2a and Dartmouth 2b) after WashU 3:3 (2c) and RPI 3:2 (2d) were demoted to unconfirmed-partnership status (see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md)). Syracuse is the **only confirmed graduate-engineering pathway** with a published HWS partnership.
 
 #### Syracuse 4+2 partnership — structure
 
@@ -425,18 +431,15 @@ Unlike the existing 3:2 (Columbia, RPI) or 3:3 (WashU) partnerships, the Syracus
 - **Combined 6-year total (Option 2e):** Hobart 4 yrs at ~$46K (post-scholarship) = ~$184K + Syracuse 2 yrs at ~$52.6K = ~$105K → **~$289K all-in.**
 - **No published partner-school scholarship or tuition discount.** The Syracuse announcement emphasizes "streamlined pathway" but makes no commitment on financial aid. This is an open item to confirm — even a 25% discount would improve the cost competitiveness materially.
 
-#### Why Syracuse 4+2 is dominated by existing options
+#### Strengths and weaknesses of Syracuse 4+2 vs. the Ivy paths
 
-- **Dominated by WashU 3:3 (Option 2c) on credential, ranking, and rowing:** same 6-year timeline, same near-automatic admit (marginally easier at 3.2 GPA vs. 3.25), and 2e is now *~$13K cheaper* than 2c (~$289K vs. ~$302K) thanks to the extra year of Hobart scholarship — but WashU delivers a BA + ABET BS + MS (vs. 2e's BA + MS, no BS), has a stronger engineering reputation (~#42 vs. ~#70), and adds a nationally competitive ACRA rowing season in Y4. The ~$13K cost edge doesn't buy back the missing ABET BS or the extra year of rowing.
-- **Weaker credential profile than Cal State BSME (Option 2f):** 2f gives an ABET-accredited BSME, which is the baseline credential for engineering employment and PE licensure. Syracuse's MS-without-BS is structurally worse for early-career engineering roles.
-- **Only advantage:** marginally easier GPA gate (3.2 vs. WashU 3.25) and stays on the East Coast. Not enough to make it a primary target.
+- **vs. Columbia 3:2 / Dartmouth 2:1:1:1 (the two Ivy paths):** materially lower admit risk (3.2 GPA vs. 3.50 / ~3.30 with competitive review). 2e arrives at 6 years instead of 5. Credential profile is weaker (Syracuse #70 + MS-only vs. Ivy ABET BS/BE), and rowing ends at Hobart Y4 (no Ivy LW year).
+- **vs. Cal State BSME (Option 2f):** 2f delivers an ABET-accredited BSME, which is the baseline credential for engineering employment and PE licensure. Syracuse's MS-without-BS is structurally worse for early-career engineering roles. Tradeoff: 2e is a stronger graduate brand (Syracuse vs. CSU), 2f is the stronger employability credential.
+- **vs. Option 2g (OCS → post-service MS):** structurally similar end-state (BA + MS) without military service, but at higher out-of-pocket cost (~$289K vs. ~$184K) and weaker grad-program ranking (Syracuse #70 vs. Dartmouth Thayer / Cornell / Stanford via GI Bill + Yellow Ribbon).
 
-#### When Option 2e would actually matter
+**Critical gap to confirm:** the Syracuse pathway accepts BAs in *science or mathematics*. Hobart's physics BA qualifies, but a bridge course is required for non-engineering BAs — confirm whether the bridge is waived for a strong physics-major applicant or if it adds a term to the MS. Also confirm whether any partner-school tuition discount exists (none currently published; even a 25% discount would shift the cost calculus meaningfully).
 
-- **WashU rejects AND Cal State BSME rejects** — unlikely combination given WashU's 3.25 near-automatic admit and CSU's 2.7 admit floor.
-- **Or:** Jack specifically wants to stay in upstate NY for family/lifestyle reasons and values MS-only credential enough to accept the BS-less profile.
-
-In practice, 2e serves as a **floor-level fallback** that keeps a direct graduate-engineering pathway alive if the two stronger Hobart fallbacks (2c, 2f) both fail. It should not be the primary target.
+**Decision-grade analysis:** for the partnership-vs-open-market-MEng comparison (when 2e is the right primary target vs. when it's dominated by Cornell MEng / Dartmouth Thayer MEng / BU / Northeastern at similar cost), see [`hobart-syracuse.md`](./hobart-syracuse.md).
 
 ---
 
@@ -577,7 +580,7 @@ The old plan assumed Jack could redshirt Y4 at Columbia and race both Y4 and Y5 
 
 The old plan assumed ACRA club rowing had informal or enrollment-based eligibility and that Jack could row all 3 grad years at WashU. **The ACRA 2025 Regatta Packet eligibility rules are explicit:** 4 seasons in 5 calendar years from initial full-time enrollment, with "competing for an institution in any one event within the academic year" constituting a used season. Prior IRA competition at Hobart counts. Jack burns 3 of 4 ACRA seasons at Hobart, uses the 4th at WashU in Y4, and is eligibility-exhausted by Y5.
 
-**Combined result: all three rowing-fit options (2a, 2b, 2c) deliver 4 total competitive seasons.** What differs is peak level of the final season (Ivy LW vs. ACRA club), credential earned (Ivy BS/BE vs. WashU BS+MS), all-in cost (~$304K Columbia / ~$275K Dartmouth / ~$302K WashU — Dartmouth is now the *cheapest* of the three because only 1 of its 2 Dartmouth years is billed at Dartmouth tuition; the Y3 exchange keeps Hobart's scholarship applied), and admit risk (3.50/~3.30 gate vs. ~3.25 near-automatic). None of them is "sustained elite rowing across 5–6 years" — the 4-in-5 eligibility clock binds in all cases.
+**Combined result: the two active rowing-fit options (2a Columbia, 2b Dartmouth) each deliver 4 total competitive seasons.** What differs is peak level of the final season (Columbia LW vs. Dartmouth LW), credential earned (Columbia SEAS BS vs. Dartmouth Thayer BE), all-in cost (~$304K Columbia / ~$275K Dartmouth — Dartmouth is *cheaper* because only 1 of its 2 Dartmouth years is billed at Dartmouth tuition; the Y3 exchange keeps Hobart's scholarship applied), and admit risk (3.50 vs. ~3.30 gate, both competitive transfer reviews). Neither is "sustained elite rowing across 5–6 years" — the 4-in-5 eligibility clock binds in both cases. The previously-tracked WashU 3:3 (2c) third rowing-fit option is now parked as an unconfirmed HWS partnership; if Spector reactivates it (see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md)), the same eligibility analysis applies — it would still be a 4-total-season path with 1 ACRA year at WashU.
 
 This does not invalidate any of these paths. Each still provides a real, multi-year competitive rowing experience and a strong engineering credential. But it means the **choice between Ivy paths and WashU 3:3 is not "elite 1-year experience vs. 3 extra years of rowing."** It's a straightforward tradeoff: Ivy credential + higher admit risk + higher cost vs. WashU BS+MS + near-automatic admit + lower cost. Rowing is not a meaningful tiebreaker between them at the total-seasons level.
 
@@ -639,14 +642,18 @@ Housing: Y3 is on-campus in Dartmouth undergraduate housing (so Dartmouth R&B ap
 - **Cheaper than Columbia 3:2 (~$304K) despite the higher sticker at Dartmouth**, because only 1 of the 2 Dartmouth years is billed at Dartmouth tuition — the exchange-year structure routes Y3 through Hobart's scholarship-discounted tuition. Columbia 3:2 has no equivalent arrangement: both Columbia years are billed as full Columbia tuition.
 - *Scholarship renewal caveat:* this assumes Hobart treats the Dartmouth Y3 as an approved exchange/leave and continues the merit scholarship for Y4 when Jack returns. **Confirm with Hobart financial aid before relying on the 2b number.**
 
-### Option 2c: Hobart → WashU 3:3 (6 years)
+### Option 2c: Hobart → WashU 3:3 (6 years) — *parked, unconfirmed partnership*
+
+> **⚠ Parked April 2026** as unconfirmed HWS partnership — see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md). Cost line below is the historical model; only relevant if Spector reactivates the path.
 
 - Hobart (3 years): $46K × 3 = ~$138K
 - WashU grad (3 years, with 50% GAS): $54.5K × 3 = ~$163.5K
 - **Total all-in: ~$302K**
-- Delivers **BA + BS + MS** in 6 years. Roughly the same total cost as Columbia 3:2 despite adding an extra year and a master's degree, because WashU's per-year cost is materially lower.
+- Would deliver **BA + BS + MS** in 6 years. Roughly the same total cost as Columbia 3:2 despite adding an extra year and a master's degree, because WashU's per-year cost is materially lower.
 
-### Option 2d: Hobart → RPI 3:2 (5 years)
+### Option 2d: Hobart → RPI 3:2 (5 years) — *parked, unconfirmed partnership*
+
+> **⚠ Parked April 2026** as unconfirmed HWS partnership — see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md). Cost line below is the historical model; only relevant if Spector reactivates the path.
 
 - Hobart (3 years): $46K × 3 = ~$138K
 - RPI (2 years): $83K × 2 = ~$166K
@@ -657,7 +664,7 @@ Housing: Y3 is on-campus in Dartmouth undergraduate housing (so Dartmouth R&B ap
 - Hobart BA (4 years): $46K × 4 = ~$184K
 - Syracuse MS (2 years, on-campus, no partner-school discount published): ~$52.6K × 2 = ~$105K
 - **Total all-in: ~$289K** for a Hobart BA + Syracuse MS. **No ABET BS.**
-- *Scholarship sensitivity:* if Syracuse were to offer a 25% partner-school tuition discount (not currently published but worth asking about), the 2-year grad portion drops to ~$87K and total falls to ~$271K. Still dominated by WashU 3:3 on credential.
+- *Scholarship sensitivity:* if Syracuse were to offer a 25% partner-school tuition discount (not currently published but worth asking about), the 2-year grad portion drops to ~$87K and total falls to ~$271K.
 
 ### Option 2f: Hobart BA → State School BSME (Hobart Applied Physics + Cal State BSME)
 
@@ -706,9 +713,9 @@ Housing: Y3 is on-campus in Dartmouth undergraduate housing (so Dartmouth R&B ap
 | 3. UBC | ~$268K (USD) | 4 | BASc Engineering |
 | 2b. Hobart → Dartmouth 2:1:1:1 | ~$275K | 5 | BA + Dartmouth BE |
 | 2e. Hobart → Syracuse ECS 4+2 | ~$289K | 6 | BA + Syracuse MS (no ABET BS) |
-| 2c. Hobart → WashU 3:3 | ~$302K | 6 | BA + BS + MS Engineering |
+| 2c. Hobart → WashU 3:3 *(parked, unconfirmed)* | ~$302K | 6 | BA + BS + MS Engineering |
 | 2a. Hobart → Columbia 3:2 | ~$304K | 5 | BA + Columbia BS |
-| 2d. Hobart → RPI 3:2 | ~$304K | 5 | BA + RPI BS |
+| 2d. Hobart → RPI 3:2 *(parked, unconfirmed)* | ~$304K | 5 | BA + RPI BS |
 | Add-on. WPI → Ivy (if transfer works) | ~$300K–$370K | 4 | BS Engineering (Ivy) |
 
 ### What's excluded from these numbers (and why it doesn't change the ranking)

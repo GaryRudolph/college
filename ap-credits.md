@@ -46,7 +46,6 @@ If the scores come back lower, the plan needs to be revisited. **Contingency sum
   - **WPI** — Physics 1 and Physics 2 are **not on WPI's AP chart** ([source](https://www.wpi.edu/offices/registrar/policies-procedures/ap-credit)). Jack arrives with **zero physics credit** — must add PH 1110 (Mechanics) + PH 1120 (E&M) and possibly PH 1121 (Waves/Thermo) to Y1. Biggest single schedule impact across all paths. See [`wpi-plan.md`](./wpi-plan.md) for the fallback layout.
   - **Columbia SEAS** — Physics 1+2 = 3 nontechnical elective pts combined, **no exemption** from PHYS UN1401/UN1402 equivalents ([SEAS AP chart p. 27, 2025–26 Planning Guide](https://www.cc-seas.columbia.edu/sites/dsa/files/handbooks/Academic_Planning_Guide_2025-2026_8.14.2025.pdf)). Moot for Combined Plan (HWS's PHYS 150/160 satisfies the prereq).
   - **Dartmouth** — Physics 1+2 **not on Dartmouth's chart** ([source](https://www.dartmouth.edu/reg/enrollment/credit_on_entrance_exemption_charts.html)). Moot for 2:1:1:1 (HWS PHYS 150/160 covers Thayer prereqs).
-  - **WashU McKelvey** — Physics 1 → PHYSICS 1013 (3 cr elective, algebra track); Physics 2 → PHYSICS 1014 (3 cr elective, algebra track). *Does not waive calc-based PHYSICS 1740/1742.* Moot for 3:3 (HWS PHYS 150/160 articulates).
 
 **Action in mid-July 2026** when scores post: if Physics C both ≥ 4, no change to plan. Otherwise, re-open the WPI term table and the HWS Y1 physics question (does Jack still take PHYS 150/160 or does he defer the whole physics sequence).
 
@@ -54,21 +53,21 @@ If the scores come back lower, the plan needs to be revisited. **Contingency sum
 
 ## Per-school mapping
 
-Physics C Mech + E&M assumed 5 (per [working assumption](#working-assumption--physics-c-both-score-5-in-may-2026) above). Microeconomics remains pending (impact is smaller — affects 1 elective slot at WPI / Dartmouth at most).
+Physics C Mech + E&M assumed 5 (per [working assumption](#working-assumption--physics-c-both-score-5-in-may-2026) above). Microeconomics remains pending (impact is smaller — affects 1 elective slot at WPI / Dartmouth at most). For the parked WashU 3:3 mapping (currently unconfirmed HWS partner), see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).
 
-| Exam (score)                   | HWS                                                      | WPI                              | Columbia SEAS                                        | Dartmouth                                   | WashU McKelvey                                  |
-| ------------------------------ | -------------------------------------------------------- | -------------------------------- | ---------------------------------------------------- | ------------------------------------------- | ----------------------------------------------- |
-| Calc AB (5)                    | MATH 130 (subsumed by BC)                                | MA 1021 (subsumed by BC)         | Subsumed by BC                                       | Subsumed by BC                              | Subsumed by BC                                  |
-| Calc BC (5)                    | 2 cr → MATH 131 (see confirm item 2)                     | MA 1021 + 1022 + 1023 (3 cr)     | 6 pts, conditional on APMA E2000 ≥ C                 | Math 3 + Math 8 credit; placement Math 9/11 | MATH 1510 + 1520 (6 cr); placed into MATH 2130  |
-| Physics 1 (5)                  | 2 cr at Dept. discretion — subsumed by Physics C         | **Not on WPI chart — 0 credit**  | 3 pts combined w/ P2, **no exemption**               | **Not on Dartmouth chart — 0**              | PHYSICS 1013 (3 cr elective, algebra-based)     |
-| Physics 2 (5)                  | 2 cr at Dept. discretion — subsumed by Physics C         | **Not on WPI chart — 0 credit**  | (combined w/ P1 above)                               | **Not on Dartmouth chart — 0**              | PHYSICS 1014 (3 cr elective, algebra-based)     |
-| **Physics C: Mech (assumed 5)** | 1 cr at Dept. discretion; likely → PHYS 150            | PH 1110 (3 cr)                   | 3 pts, no exemption                                  | Physics 3 credit                            | PHYSICS 1740 + 1741 (4 cr, calc-based)          |
-| **Physics C: E&M (assumed 5)**  | 1 cr at Dept. discretion; likely → PHYS 160            | PH 1120 (3 cr)                   | 3 pts (6 combined max w/ Mech)                       | Physics 4 credit                            | PHYSICS 1742 + 1743 (4 cr, calc-based)          |
-| CS A (4)                       | CPSC 124                                                 | CS 1000                          | Exemption from COMS W1004                            | Computer Science 1 credit                   | CSE 1301 (3 cr elective)                        |
-| CS Principles (4)              | 2 cr general elective (likely not stacked w/ CS A)       | **Not on WPI chart — 0**         | **Not on SEAS chart — 0**                            | **Not on Dartmouth chart — 0**              | CSE 0013 (3 cr elective)                        |
-| **Microeconomics (pending, May 2026)** | **If 4+:** 1 cr general elective                   | **If 4+:** ECON 1110 (3 cr)      | **If 4+:** likely 3 pts nontech elective (verify)    | **If 5:** Economics 1 credit + placement into intermediate | **If 5:** ECON 1997 (3 cr elective; contingent on ECON 4001 ≥ B); **4 or less:** 0 |
-| Macroeconomics (3)             | **0 — below 4 floor**                                    | **0 — below 4 floor**            | **0 — below 4 floor**                                | **0 — Dartmouth only grants Micro**         | **0 — below 5 floor**                           |
-| US History (4)                 | 2 cr general elective                                    | HI 1000 (3 cr)                   | 3 pts nontechnical elective (no exemption)           | **Not on Dartmouth chart — 0**              | HISTORY 1996 (3 cr elective — no H/SS credit at McKelvey) |
+| Exam (score)                   | HWS                                                      | WPI                              | Columbia SEAS                                        | Dartmouth                                   |
+| ------------------------------ | -------------------------------------------------------- | -------------------------------- | ---------------------------------------------------- | ------------------------------------------- |
+| Calc AB (5)                    | MATH 130 (subsumed by BC)                                | MA 1021 (subsumed by BC)         | Subsumed by BC                                       | Subsumed by BC                              |
+| Calc BC (5)                    | 2 cr → MATH 131 (see confirm item 2)                     | MA 1021 + 1022 + 1023 (3 cr)     | 6 pts, conditional on APMA E2000 ≥ C                 | Math 3 + Math 8 credit; placement Math 9/11 |
+| Physics 1 (5)                  | 2 cr at Dept. discretion — subsumed by Physics C         | **Not on WPI chart — 0 credit**  | 3 pts combined w/ P2, **no exemption**               | **Not on Dartmouth chart — 0**              |
+| Physics 2 (5)                  | 2 cr at Dept. discretion — subsumed by Physics C         | **Not on WPI chart — 0 credit**  | (combined w/ P1 above)                               | **Not on Dartmouth chart — 0**              |
+| **Physics C: Mech (assumed 5)** | 1 cr at Dept. discretion; likely → PHYS 150            | PH 1110 (3 cr)                   | 3 pts, no exemption                                  | Physics 3 credit                            |
+| **Physics C: E&M (assumed 5)**  | 1 cr at Dept. discretion; likely → PHYS 160            | PH 1120 (3 cr)                   | 3 pts (6 combined max w/ Mech)                       | Physics 4 credit                            |
+| CS A (4)                       | CPSC 124                                                 | CS 1000                          | Exemption from COMS W1004                            | Computer Science 1 credit                   |
+| CS Principles (4)              | 2 cr general elective (likely not stacked w/ CS A)       | **Not on WPI chart — 0**         | **Not on SEAS chart — 0**                            | **Not on Dartmouth chart — 0**              |
+| **Microeconomics (pending, May 2026)** | **If 4+:** 1 cr general elective                   | **If 4+:** ECON 1110 (3 cr)      | **If 4+:** likely 3 pts nontech elective (verify)    | **If 5:** Economics 1 credit + placement into intermediate |
+| Macroeconomics (3)             | **0 — below 4 floor**                                    | **0 — below 4 floor**            | **0 — below 4 floor**                                | **0 — Dartmouth only grants Micro**         |
+| US History (4)                 | 2 cr general elective                                    | HI 1000 (3 cr)                   | 3 pts nontechnical elective (no exemption)           | **Not on Dartmouth chart — 0**              |
 
 ---
 
@@ -120,9 +119,9 @@ For each school where he might enroll, here is the concrete "courses skipped" su
 
 **Moot.** Same mechanism. HWS PHYS 150 + 160 articulate to Thayer's physics prereq; HWS MATH 232 + 204 + 237 articulate to Thayer's math prereq. *And* Dartmouth policy explicitly says **AP credits on entrance do NOT count toward the 35-credit graduation minimum** — so even though Physics C (5/5) produces "Physics 3 credit / Physics 4 credit" on Jack's Dartmouth record, that credit is for placement only, not to shrink his Dartmouth course count.
 
-### WashU McKelvey (3:3 — Path 2c)
+### Syracuse ECS (4+2 — Path 2e)
 
-**Moot.** HWS courses articulate to McKelvey via the 3:3 agreement. WashU caps AP at 15 general-elective credit units anyway (and awards no humanities/social-science credit for AP), so Jack's AP pile would get trimmed even if it weren't moot.
+**Moot — graduate program.** Syracuse direct-admission begins after Jack's conferred Hobart BA, with a bridge course covering any foundational gaps for the chosen MS field. AP credit doesn't apply at the graduate level.
 
 ---
 

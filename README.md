@@ -21,7 +21,7 @@ The real decision is **where Jack shows up as a freshman.** Everything else — 
    - **Years:** 4
    - **Curriculum:** Engineering from day one; project-based, minimal writing load. Best fit for Jack's stated preference against writing-heavy coursework.
    - **Trade:** rowing peaks at mid-high pack DIII
-2. **Hobart** — Solid IRA-system rowing with a path to **both** elite rowing (only 1 year at Columbia or Dartmouth LW) **and/or** solid-to-elite engineering (Columbia, Dartmouth, WashU BS+MS, RPI, or Cal State). Multiple fallbacks at the junior-year fork — see [`hobart.md`](./hobart.md) for the per-option detail.
+2. **Hobart** — Solid IRA-system rowing with a path to **both** elite rowing (only 1 year at Columbia or Dartmouth LW) **and/or** solid-to-elite engineering (Columbia 3:2, Dartmouth 2:1:1:1, Syracuse ECS 4+2 MS, or Cal State BSME). Multiple fallbacks at the junior-year fork — see [`hobart.md`](./hobart.md) for the per-option detail.
    - **Cost:** ~$242K–$304K depending on fork (with $41K/yr merit scholarship applied for the years registered at Hobart — includes Option 2b's Y3 at Dartmouth, which is structured as a Hobart-registered exchange year)
    - **Years:** 5–6 depending on fork
    - **Curriculum:** Physics-major-first at Hobart Y1–Y3 (~60–75% STEM by course count; the 2:1:1:1 Dartmouth fork is STEM-heavier than the 3:2 Columbia fork). Only 1 mandatory writing-intensive course (the First-Year Seminar); the rest of the breadth is flexible topic-choice across 6 "aspirational goals." Less of a mismatch with Jack's writing preference than a prescribed-core liberal-arts school would be — see [Curriculum fit](#curriculum-fit) below for the 2a-vs-2b breakdown.
@@ -53,7 +53,7 @@ The real decision is **where Jack shows up as a freshman.** Everything else — 
 
 ## Option set
 
-Primary paths under consideration. Options 2a–2g all start at Hobart and differ at the junior-year fork; see [`hobart.md`](./hobart.md) for detail.
+Primary paths under consideration. Options 2a–2g all start at Hobart and differ at the junior-year fork; see [`hobart.md`](./hobart.md) for detail. Two earlier-tracked Hobart paths (2c WashU 3:3, 2d RPI 3:2) are currently parked as unconfirmed HWS partnerships — research lives in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).
 
 
 | #   | Option                            | One-line description                                                          |
@@ -61,8 +61,6 @@ Primary paths under consideration. Options 2a–2g all start at Hobart and diffe
 | 1   | **WPI**                           | 4-year ABET BS Engineering, done                                              |
 | 2a  | **Hobart → Columbia (3:2)**       | Hobart BA (3 yrs) + Columbia SEAS BS (2 yrs); apply junior year               |
 | 2b  | **Hobart → Dartmouth (2:1:1:1)**  | Hobart → Dartmouth Y3 → Hobart Y4 → Dartmouth Y5 BE; apply sophomore year     |
-| 2c  | **Hobart → WashU (3:3)**          | Hobart BA + WashU BS + MS; apply junior year                                  |
-| 2d  | **Hobart → RPI (3:2)**            | Hobart BA + RPI BS; apply junior year                                         |
 | 2e  | **Hobart → Syracuse (4+2)**       | Hobart BA (4 yrs) + Syracuse ECS MS (2 yrs); apply senior year at 3.2 GPA     |
 | 2f  | **Hobart BA → State School**      | Hobart BA in physics, then apply to a Cal State for BS                        |
 | 2g  | **Hobart BA → OCS → MS**          | Hobart BA → commission via OCS → free MS at Dartmouth / Cornell via GI Bill   |
@@ -85,8 +83,6 @@ Rating scale: **Excellent / Strong / Solid / Modest / Weak**. Risk is rated as *
 | **1. WPI**                           | **Strong.**<br>#64 ranked engineering. Engineering from day one. Project-based curriculum.                            | **Solid, mid-pack DIII.**<br>DIII IRA system (no NEWMAC men's championship); New England regional circuit. Not selected to IRA DIII 2025; finished 2nd in V8 3rd-level final at NIRC. [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing)                                | **~$220K / 4 yrs.**<br>BS Engineering.         | **Very Low.**<br>Engineering from day one.                                         |
 | **2a. Hobart → Columbia (3:2)**      | **Excellent.**<br>Ivy League. #21 ranked engineering.                                                                 | **Elite but limited: 1 yr of Columbia LW.**<br>3 Hobart IRA seasons + 1 Columbia LW (Y4 only; Y5 Ivy-ineligible as grad). [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing)                                                                                            | **~$304K / 5 yrs.**<br>BA + Columbia BS.       | **High.**<br>3.50 GPA gate, junior-year fork, competitive review (not guaranteed). |
 | **2b. Hobart → Dartmouth (2:1:1:1)** | **Excellent.**<br>Ivy League. #51 ranked engineering.                                                                 | **Elite but limited: 1 yr of Dartmouth LW.**<br>2 Hobart IRA + 1 Dartmouth LW (Y3) + optional 1 Hobart openweight (Y4); Y5 Ivy-ineligible as grad. [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing)                                                                   | **~$275K / 5 yrs.**<br>BA + Dartmouth BE. Y3 is a Hobart-registered exchange year on Hobart tuition; only Y5 billed at full Dartmouth.      | **High.**<br>~3.30 GPA gate, sophomore-year fork, competitive review.              |
-| **2c. Hobart → WashU (3:3)**         | **Strong.**<br>#42 ranked engineering.                                                                                | **Nationally competitive club.**<br>3 Hobart IRA + 1 WashU ACRA (ACRA's 4-in-5 clock is binding). WashU M4+ 2024 ACRA national champion, M2- 2025 bronze — top ACRA programs (UVA, UCLA, Purdue) rival DIII varsity. [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing) | **~$302K / 6 yrs.**<br>BA + BS + MS.           | **Low.**<br>~90% admit at 3.25 GPA with prereqs done — near-automatic.             |
-| **2d. Hobart → RPI (3:2)**           | **Strong.**<br>#35 ranked engineering.                                                                                | **Strong. Ends at Hobart.**<br>3 Hobart IRA + rec-level RPI crew (no ACRA/IRA footprint). [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing)                                                                                                                            | **~$304K / 5 yrs.**<br>BA + RPI BS.            | **Low.**<br>Near-automatic at ~3.00 GPA.                                           |
 | **2e. Hobart → Syracuse (4+2)**      | **Modest.**<br>Syracuse ECS ~#70 engineering. **No ABET BS — MS only**, which is a weak credential profile for early-career engineering roles and PE licensure.                                                                                 | **Strong. Ends at Hobart.**<br>4 Hobart IRA + no rowing at Syracuse (heavyweight-only program; grad-student eligibility exhausted under IRA 4-in-5 clock). [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing)                                                               | **~$289K / 6 yrs.**<br>BA + Syracuse MS (no BS). | **Low.**<br>Near-automatic at 3.2 GPA + faculty rec; bridge course covers foundations. |
 | **2f. Hobart BA → State School**     | **Solid.**<br>Engineering from a Cal State.                                                                           | **Strong. Ends at Hobart.**<br>4 Hobart IRA + club-level Cal State. [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing)                                                                                                                                                  | **~$242K / 6 yrs.**<br>BA + CSU BS.          | **Low–Moderate.**<br>CSU typically needs 2.7 GPA and prereqs done.                 |
 | **2g. Hobart BA → OCS → MS**         | **Solid to Elite.**<br>Hobart BA solid; tuition-free MS at Dartmouth Thayer / Cornell / Stanford via GI Bill + Yellow Ribbon post-service lands the credential elite.                                                                            | **Strong. Ends at Hobart.**<br>4 Hobart IRA + no college rowing after. [See below.](#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing)                                                                                                                                                       | **~$184K undergrad + $0 grad.**<br>BA + elite MS after service. | **Moderate.**<br>OCS selection competitive but viable; 3–5 yr service commitment is the real cost. |
@@ -107,15 +103,15 @@ Costs are **tuition + on-campus room & board**, simplified to the nearest ~$K. B
 | WPI | ~$36K ($27K merit awarded) | ~$19K | **~$55K** |
 | Columbia | ~$70K | ~$13K | **~$83K** |
 | Dartmouth | ~$68K | ~$21K | **~$89K** |
-| WashU grad years (3:3) | ~$34.5K (50% Graduate Affiliation Scholarship) | ~$20K | **~$54.5K** |
-| RPI | ~$65K | ~$18K | **~$83K** |
 | Syracuse ECS grad years (4+2) | ~$36K (no partner-school discount published) | ~$16K | **~$52K** |
 | UBC (international, USD) | ~$56K | ~$11K | **~$67K** |
 | SDSU / Cal State (CA resident, on-campus) | ~$9K | ~$20K | **~$29K** |
 
+For per-year cost lines on the parked WashU 3:3 and RPI 3:2 paths, see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).
+
 **Scholarship application by option — the Hobart $41K/yr merit counts in years Jack is registered as a Hobart student (not necessarily years he's physically at Hobart):**
 
-- **Options 2a, 2c, 2d (3:2 / 3:3):** 3 scholarship years (Y1–Y3 at Hobart). The final 2 (or 3 for WashU) years Jack is registered at the partner school and pays their tuition directly — no Hobart scholarship.
+- **Option 2a (Columbia 3:2):** 3 scholarship years (Y1–Y3 at Hobart). Y4–Y5 Jack is registered at Columbia and pays their tuition directly — no Hobart scholarship.
 - **Option 2b (Dartmouth 2:1:1:1):** **4 scholarship years (Y1, Y2, Y3, Y4).** Per the [Dartmouth Thayer Partner School Dual-Degree page](https://thayer.dartmouth.edu/undergraduate/dual), Y3 at Dartmouth is structured as an exchange year — Jack stays Hobart-registered, consults Hobart's registrar for tuition, and home-institution financial aid "transfers to Dartmouth for the exchange year." Only Y5 (the BE year) is billed at full Dartmouth tuition with no Hobart involvement. Dartmouth's on-campus R&B applies in Y3. *Still to confirm in writing with Hobart financial aid:* that the scholarship renews normally across the Y3 exchange and Y4 return.
 - **Options 2e, 2f, 2g:** 4 full scholarship years at Hobart (Jack is there the whole BA).
 
@@ -123,13 +119,14 @@ Costs are **tuition + on-campus room & board**, simplified to the nearest ~$K. B
 
 ### Critical eligibility note: why the 5- and 6-year paths do NOT mean 5–6 years of racing
 
-Three separate eligibility systems apply across Jack's option set, and **all three cap competition at 4 seasons completed within 5 calendar years of first full-time collegiate enrollment:**
+Two eligibility systems apply across Jack's active option set, and **both cap competition at 4 seasons completed within 5 calendar years of first full-time collegiate enrollment:**
 
-1. **IRA** (governs Hobart, Columbia, Dartmouth men's LW). Adopts IRA rules as baseline: 4 seasons in 5 years, freshman participation counts as a season used.
-2. **Ivy League conference overlay** (Columbia, Dartmouth — NOT Hobart):
+1. **IRA** (governs Hobart, Columbia, Dartmouth men's LW, Syracuse). Adopts IRA rules as baseline: 4 seasons in 5 years, freshman participation counts as a season used.
+2. **Ivy League conference overlay** (Columbia, Dartmouth — NOT Hobart, NOT Syracuse):
   - **Graduate students are ineligible for varsity athletics.** A one-time COVID waiver in 2021–22 was explicitly not renewed. Columbia's 2025–26 LW roster confirms this — no grad students.
   - **No redshirts.** If enrolled during the season, it counts whether he races or not.
-3. **ACRA** (governs WashU, club rowing). Its own written 4-in-5 clock: "four years of eligibility, which must be completed during the first 10 semesters or 15 quarters after the student is enrolled in a collegiate institution." Prior IRA/NCAA seasons at another school **count against the ACRA clock** — ACRA Rule #2 says "competing for an institution in any one event within the academic year is enough to constitute one year of eligibility." ACRA does allow grad students to race *if* they have eligibility remaining and are within the 5-year window (Rule #5), but you can only row for 4 years.
+
+(For the parked WashU 3:3 path, ACRA enforces its own written 4-in-5 clock that also counts prior IRA seasons against it — full analysis in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).)
 
 **Practical implication for each path:**
 
@@ -137,8 +134,8 @@ Three separate eligibility systems apply across Jack's option set, and **all thr
 Hobart Y1–3 burns 3 of 4 IRA seasons. Y4 at Columbia is senior undergrad — eligible. Y5 at Columbia is graduate standing — **Ivy-ineligible**, and Ivies don't allow redshirting Y4 to preserve for Y5.
 - **Dartmouth 2:1:1:1 — 1 year of Dartmouth LW racing (Y3).**  
 Hobart Y1–2 burns 2 seasons. Y3 at Dartmouth as junior undergrad — eligible. Y4 back at Hobart — eligible, but openweight only. Y5 at Dartmouth is graduate standing — **Ivy-ineligible**.
-- **WashU 3:3 — 1 year of WashU ACRA racing (Y4)**  
-Hobart Y1–3 burns 3 of 4 ACRA seasons. Y4 at WashU uses his 4th and final ACRA season AND is clock year 4 of 5. Y5 at WashU (grad year 1): 0 seasons remaining under ACRA Rule #2, and clock year 5 is the last. Y6 is outside the 5-year clock entirely.
+- **Syracuse 4+2 — 4 Hobart seasons, 0 at Syracuse.**  
+Hobart Y1–4 burns all 4 IRA seasons. Y5–Y6 at Syracuse as a grad student is eligibility-exhausted under the 4-in-5 clock; Syracuse crew is heavyweight-only IRA, so even openweight doesn't apply.
 
 ---
 
@@ -161,9 +158,11 @@ Jack has stated a preference against writing-heavy coursework. Engineering curri
 
 - **[`ap-credits.md`](./ap-credits.md)** — Jack's completed AP scores, May 2026 exam schedule, per-school credit mapping, place-out summary per school, Dartmouth FAQ.
 - **[`wpi-plan.md`](./wpi-plan.md)** — Option 1 (WPI) 4-year term-by-term plan.
-- **[`hobart-plan.md`](./hobart-plan.md)** — Hobart dual-degree paths (2a Columbia 3:2, 2b Dartmouth 2:1:1:1, 2c WashU 3:3) with a path-agnostic Hobart Y1–Y2 core.
+- **[`hobart-plan.md`](./hobart-plan.md)** — Hobart dual-degree paths (2a Columbia 3:2, 2b Dartmouth 2:1:1:1) with a path-agnostic Hobart Y1–Y2 core (also used by 2e/2f/2g for the first 4 years at Hobart).
+- **[`hobart-syracuse.md`](./hobart-syracuse.md)** — Option 2e (Syracuse 4+2) deep-dive: what the partnership uniquely buys vs. an open-market MEng application after a Hobart physics BA, and when 2e is dominated by other targets.
 - **[`hobart-electives.md`](./hobart-electives.md)** — HWS goal-course and free-elective menu with RMP sentiment.
 - **[`hobart-questions.md`](./hobart-questions.md)** — consolidated list of open Hobart-path questions grouped by contact (Spector, registrar, financial aid, partner-school coordinators, coaches) with priority + revisit-date schedule.
+- **[`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md)** — parked deep-dive on WashU 3:3 (2c) and RPI 3:2 (2d), with reactivation checklist if Spector confirms either partnership.
 
 ### WPI (Option 1) — Engineering from day 1
 

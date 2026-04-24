@@ -1,6 +1,6 @@
 # Hobart-path open questions
 
-Consolidated list of every unresolved question across the Hobart paths (Options 2a–2g), grouped by **who can answer it**. Non-Hobart items (WPI, UBC-only, USNA) are out of scope here — those live in [`wpi-plan.md`](./wpi-plan.md) and [`background.md`](./background.md) §9.
+Consolidated list of every unresolved question across the Hobart paths (Options 2a, 2b, 2e, 2f, 2g), grouped by **who can answer it**. Non-Hobart items (WPI, UBC-only, USNA) are out of scope here — those live in [`wpi-plan.md`](./wpi-plan.md) and [`background.md`](./background.md) §9. Questions specific to the parked Hobart paths (2c WashU 3:3, 2d RPI 3:2) live in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md); the only canonical "are these partnerships real?" question lives here as [§1.9](#1-prof-donald-spector--hws-engineering-liaison).
 
 Each entry includes a 1-line "why it matters," the target contact, and a link back to the source doc where the full rationale lives. Priority tags:
 
@@ -18,15 +18,15 @@ Each entry includes a 1-line "why it matters," the target contact, and a link ba
 | Hobart Registrar                            | Transcript, AP posting, goal attributes    | [§2](#2-hobart-registrar) (3 items) |
 | Hobart Financial Aid                        | $41K merit scholarship terms               | [§3](#3-hobart-financial-aid) (3 items) |
 | Dartmouth Thayer Dual-Degree Director       | 2:1:1:1 mechanics (Option 2b)             | [§4](#4-dartmouth-thayer-dual-degree-director) (3 items) |
-| WashU Dual-Degree Coordinator               | 3:3 agreement, scholarships (Option 2c)   | [§5](#5-washu-dual-degree-coordinator) (3 items) |
-| Columbia Combined Plan liaison              | AP honoring, core waivers (Option 2a)     | [§6](#6-columbia-combined-plan-liaison) (2 items) |
-| RPI Admissions                              | Partnership status (Option 2d)             | [§7](#7-rpi-admissions) (1 item) |
-| Hobart Head Rowing Coach (Chris Kerber)     | Y1 seating, 3:2 eligibility handling      | [§8](#8-hobart-head-rowing-coach-chris-kerber) (2 items) |
-| Columbia LW Coach (Nich Lee Parker)         | Y5 grad-eligibility precedent              | [§9](#9-columbia-lw-coach-nich-lee-parker) (1 item) |
-| Dartmouth LW Coach (Trevor Michelson)       | 2:1:1:1 Y3 racing + Y4 plan                | [§10](#10-dartmouth-lw-coach-trevor-michelson) (1 item) |
-| Ivy compliance offices (Columbia, Dartmouth) | Y5 grad-student rowing rule in practice   | [§11](#11-ivy-compliance-offices) (1 item) |
-| Navy recruiter / NUPOC officer              | Post-grad OCS paths (Option 2g)            | [§12](#12-navy-recruiter--nupoc-officer) (2 items) |
-| Jack (family conversation)                  | Personal preference                        | [§13](#13-jack-family-conversation) (1 item) |
+| Columbia Combined Plan liaison              | AP honoring, core waivers (Option 2a)     | [§5](#5-columbia-combined-plan-liaison) (2 items) |
+| Hobart Head Rowing Coach (Chris Kerber)     | Y1 seating, 3:2 eligibility handling      | [§6](#6-hobart-head-rowing-coach-chris-kerber) (2 items) |
+| Columbia LW Coach (Nich Lee Parker)         | Y5 grad-eligibility precedent              | [§7](#7-columbia-lw-coach-nich-lee-parker) (1 item) |
+| Dartmouth LW Coach (Trevor Michelson)       | 2:1:1:1 Y3 racing + Y4 plan                | [§8](#8-dartmouth-lw-coach-trevor-michelson) (1 item) |
+| Ivy compliance offices (Columbia, Dartmouth) | Y5 grad-student rowing rule in practice   | [§9](#9-ivy-compliance-offices) (1 item) |
+| Navy recruiter / NUPOC officer              | Post-grad OCS paths (Option 2g)            | [§10](#10-navy-recruiter--nupoc-officer) (2 items) |
+| Jack (family conversation)                  | Personal preference                        | [§11](#11-jack-family-conversation) (1 item) |
+
+For questions on the parked **WashU 3:3** and **RPI 3:2** paths, see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md). Those questions only become live again if Spector confirms the partnerships exist (see §1.9 below).
 
 ---
 
@@ -44,7 +44,9 @@ Primary HWS contact for every Hobart path. Ideal conversation timing is **post-J
 | 1.6 | **P1** | **FSEM → Columbia University Writing equivalency** via Combined Plan Course Equivalence Form. Path 2a only. If denied, Jack adds WRRH 100 for Columbia. | Adds 1 non-STEM course to Path 2a if denied. |
 | 1.7 | **P1** | **Dartmouth Y3 course transfer attributes.** Do non-engineering Dartmouth Y3 courses carry HWS aspirational-goal attributes back onto the HWS transcript? Path 2b only. | Determines whether 3 of Jack's breadth-goal courses can be taken at Dartmouth instead of Hobart — central to the "STEM-heavier 2b" framing in [`README.md`](./README.md#curriculum-fit). |
 | 1.8 | **P1** | **Term offerings + instructor confirmation** for recommended elective picks: ANTH 110 (Maiale), DAN 110, PHIL 163 (Frost-Arnold), MUS 930 Chorale Y1–Y2, MUS 110 (Lofthouse). Re-verify at each registration window that (a) the course runs the proposed term, (b) the goal attribute is still attached in PeopleSoft, (c) the named instructor is teaching. See [`hobart-plan.md` Items to confirm](./hobart-plan.md#-items-to-confirm-with-prof-spector-before-matriculation). | Term-by-term sequencing is brittle if any of these three gates fails. Fallbacks exist in [`hobart-electives.md`](./hobart-electives.md). |
-| 1.9 | **P0** | **HWS–RPI partnership status.** Is HWS a current articulated RPI 3+2 partner? Not listed in HWS 2024–25 catalogue or RPI's known affiliate list. See [full discussion in `hobart.md` Option 2d](./hobart.md). | If "no," Option 2d collapses from "near-automatic 3.00 GPA admit" to standard transfer — materially different admit risk. |
+| 1.9 | **P0** | **Canonical HWS engineering affiliate list.** Beyond Columbia (3:2) and Dartmouth (2:1:1:1) — and the recently announced Syracuse ECS 4+2 — what other engineering joint-degree partners exist? Specifically, are there current articulated agreements with **WashU McKelvey (3:3)** or **RPI (3:2)**? Both appear in legacy HWS / web mentions but neither is on the 2024–25 catalogue's Joint Degree Programs page. See [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md) for the partnership-status research. | If WashU or RPI are confirmed, two parked dual-degree paths reactivate (with reactivation checklists in the unconfirmed-paths file). If neither, the active set stays at 2a / 2b / 2e + 2f / 2g fallbacks, which is what the README/hobart.md currently model. |
+| 1.10 | **P1** | **Syracuse 4+2 — partnership terms not in the announcement.** (a) Bridge-course scope: single course or full term, and waivable for physics majors with strong PHYS 270 / 285? (b) Partner-school tuition discount published, internal-only, or none? (c) GRE waived as part of the streamlined pathway? (d) Faculty-rec routing — single channel through HWS pre-engineering advisor or open to any letter-writer? See [`hobart-syracuse.md` §Open items](./hobart-syracuse.md#open-items). | Determines whether 2e is actually 2 years or 2.5, and whether the all-in cost is competitive with open-market MEng options at higher-ranked schools (BU, NEU, Cornell MEng). Even a 25% partner-school discount would drop total cost ~$18K. |
+| 1.11 | **P1** | **HWS physics-graduate landing pattern at MEng programs.** Of HWS physics BAs in the past 5 years who pursued an engineering MS, which programs have they been admitted to? Is the Syracuse 4+2 chosen for its certainty/accessibility or for its content fit? | Tells Jack whether 2e is the typical landing spot or whether stronger graduates routinely admit to higher-ranked open-market programs (Cornell MEng, Dartmouth Thayer MEng, BU, Northeastern). Informs whether to treat 2e as primary or as safety. See [`hobart-syracuse.md`](./hobart-syracuse.md). |
 
 ---
 
@@ -82,94 +84,72 @@ Path 2b only. Full mechanics in [`hobart.md` Option 2b](./hobart.md) and [`READM
 
 ---
 
-## 5. WashU Dual-Degree Coordinator
-
-Path 2c only. See [`hobart.md` Option 2c](./hobart.md) and [`background.md` §4](./background.md).
-
-| # | Priority | Question | Why it matters |
-|---|----------|----------|----------------|
-| 5.1 | **P0** | **Structure of the Hobart–WashU agreement** — 3:3 (BS+MS) only, or is a 3:2 (BS-only) option available? General WashU Dual Degree is 3:3; confirm with Hobart liaison first. | A 3:2 BS-only option would change 2c's cost model ($302K → ~$240K) and shorten the path to 5 years. |
-| 5.2 | **P1** | **Partner school tuition discount or scholarship at WashU** — Syracuse ECS (2e) has no published partner discount; is WashU the same, or does Hobart pre-negotiate anything? | Even a 25% WashU-side discount would materially improve 2c's competitiveness. |
-| 5.3 | **P1** | **ACRA Rule #2 enforcement for WashU transfers with prior IRA competition** — is Rule #2 enforced strictly, or does the coach have latitude to petition the ACRA eligibility committee (Bob Jaugstetter / Kyle Dowd)? Best asked directly to the WashU head coach, not the coordinator. See [`background.md`](./background.md) on the open question. | If strict, 2c gives only 1 year of WashU racing (not 3). Large rowing-season delta. |
-
----
-
-## 6. Columbia Combined Plan liaison
+## 5. Columbia Combined Plan liaison
 
 Path 2a only. Coordinate with Spector §1.3 before this conversation.
 
 | # | Priority | Question | Why it matters |
 |---|----------|----------|----------------|
-| 6.1 | **P0** | **Which AP credits does Columbia honor for Combined Plan transfers?** HWS may award the credit but Columbia can decline to honor it. Specifically: BC, CS A, Physics 1/2 or Physics C, US History. | Drops AP-pile value for the 2a path. Items HWS awards but Columbia rejects would need re-taking at Hobart. |
-| 6.2 | **P1** | **Columbia 27-point nontech waiver / reduced humanities core** — do Combined Plan students follow the full Columbia Core or a reduced set? Columbia's nontech share for Combined Plan is well-documented at ~27 points, but specific Econ / University Writing waivers depend on Hobart equivalents. | Determines how many non-STEM slots Jack must absorb at Hobart Y1–Y3 vs. at Columbia Y4–Y5. |
+| 5.1 | **P0** | **Which AP credits does Columbia honor for Combined Plan transfers?** HWS may award the credit but Columbia can decline to honor it. Specifically: BC, CS A, Physics 1/2 or Physics C, US History. | Drops AP-pile value for the 2a path. Items HWS awards but Columbia rejects would need re-taking at Hobart. |
+| 5.2 | **P1** | **Columbia 27-point nontech waiver / reduced humanities core** — do Combined Plan students follow the full Columbia Core or a reduced set? Columbia's nontech share for Combined Plan is well-documented at ~27 points, but specific Econ / University Writing waivers depend on Hobart equivalents. | Determines how many non-STEM slots Jack must absorb at Hobart Y1–Y3 vs. at Columbia Y4–Y5. |
 
 ---
 
-## 7. RPI Admissions
-
-Path 2d only.
+## 6. Hobart Head Rowing Coach (Chris Kerber)
 
 | # | Priority | Question | Why it matters |
 |---|----------|----------|----------------|
-| 7.1 | **P0** | **Is HWS a current articulated RPI 3+2 partner?** RPI's published affiliate list does not appear to include HWS; HWS's catalogue lists Columbia and Dartmouth only. | If "no," Jack applies as a standard competitive transfer (no guaranteed articulation, no "3.00 GPA near-automatic admit"). Materially changes 2d's risk profile — see [`hobart.md` Option 2d](./hobart.md). Also answerable via Spector §1.9. |
+| 6.1 | **P1** | **How do 3:2 / 2:1:1:1 rowers handle eligibility** at Hobart in practice? Any precedent for seating choices, Dad Vail transition, IRA-season bookkeeping across the junior-year move? | Confirms the 4-IRA-seasons assumption across all Hobart paths. |
+| 6.2 | **P1** | **Y4 openweight racing option at Hobart** (for 2b, 2e, 2f, 2g paths where Jack is at Hobart in Y4). Confirm this is a real option and not just a theoretical one. | Drives the "4 of 4 IRA seasons" line in [`README.md` Rowing across options](./README.md) and [`background.md`](./background.md). |
 
 ---
 
-## 8. Hobart Head Rowing Coach (Chris Kerber)
-
-| # | Priority | Question | Why it matters |
-|---|----------|----------|----------------|
-| 8.1 | **P1** | **How do 3:2 / 2:1:1:1 rowers handle eligibility** at Hobart in practice? Any precedent for seating choices, Dad Vail transition, IRA-season bookkeeping across the junior-year move? | Confirms the 4-IRA-seasons assumption across all Hobart paths. |
-| 8.2 | **P1** | **Y4 openweight racing option at Hobart** (for 2b, 2e, 2f, 2g paths where Jack is at Hobart in Y4). Confirm this is a real option and not just a theoretical one. | Drives the "4 of 4 IRA seasons" line in [`README.md` Rowing across options](./README.md) and [`background.md`](./background.md). |
-
----
-
-## 9. Columbia LW Coach (Nich Lee Parker)
+## 7. Columbia LW Coach (Nich Lee Parker)
 
 Path 2a only.
 
 | # | Priority | Question | Why it matters |
 |---|----------|----------|----------------|
-| 9.1 | **P1** | **Y5 graduate-eligibility workarounds for Combined Plan rowers.** Do any 3:2 students get an Ivy compliance waiver for Y5 rowing, or is the undergraduate-only rule absolute in practice? Also: realistic 1-year-at-Columbia LW expectation for an incoming 3:2 transfer. | If precedent exists for Y5 rowing, Path 2a buys 2 years of Ivy LW rather than 1 — materially changes the rowing calculus. See [`background.md`](./background.md) on the open question. |
+| 7.1 | **P1** | **Y5 graduate-eligibility workarounds for Combined Plan rowers.** Do any 3:2 students get an Ivy compliance waiver for Y5 rowing, or is the undergraduate-only rule absolute in practice? Also: realistic 1-year-at-Columbia LW expectation for an incoming 3:2 transfer. | If precedent exists for Y5 rowing, Path 2a buys 2 years of Ivy LW rather than 1 — materially changes the rowing calculus. See [`background.md`](./background.md) on the open question. |
 
 ---
 
-## 10. Dartmouth LW Coach (Trevor Michelson)
+## 8. Dartmouth LW Coach (Trevor Michelson)
 
 Path 2b only.
 
 | # | Priority | Question | Why it matters |
 |---|----------|----------|----------------|
-| 10.1 | **P1** | **Y3 LW racing expectations + what 2:1:1:1 rowers typically do for Y4 and Y5.** Y3 Jack races LW at Dartmouth; Y4 he's back at Hobart (openweight only); Y5 he's a Dartmouth grad student and Ivy-ineligible. Any Y5 exception path? Any Y4 pattern you've seen work? | Confirms the "1 year of Dartmouth LW" model for 2b and pins down the Y4 rowing decision (openweight at Hobart vs. sit out). |
+| 8.1 | **P1** | **Y3 LW racing expectations + what 2:1:1:1 rowers typically do for Y4 and Y5.** Y3 Jack races LW at Dartmouth; Y4 he's back at Hobart (openweight only); Y5 he's a Dartmouth grad student and Ivy-ineligible. Any Y5 exception path? Any Y4 pattern you've seen work? | Confirms the "1 year of Dartmouth LW" model for 2b and pins down the Y4 rowing decision (openweight at Hobart vs. sit out). |
 
 ---
 
-## 11. Ivy compliance offices
+## 9. Ivy compliance offices
 
 Applies to paths 2a and 2b.
 
 | # | Priority | Question | Why it matters |
 |---|----------|----------|----------------|
-| 11.1 | **P2** | **Y5 graduate-student rowing eligibility in practice** — confirm with Columbia and Dartmouth compliance offices whether any 3:2 / 2:1:1:1 rower has ever rowed in Y5 as a graduate student, or whether the undergraduate-only rule is absolute. Pair with §9.1 and §10.1 (coaches will know informally; compliance gives the formal rule). | Drives whether the "1 year of Ivy LW" framing is a hard ceiling or has any precedent-based path to 2 years. See [`background.md` §9](./background.md). |
+| 9.1 | **P2** | **Y5 graduate-student rowing eligibility in practice** — confirm with Columbia and Dartmouth compliance offices whether any 3:2 / 2:1:1:1 rower has ever rowed in Y5 as a graduate student, or whether the undergraduate-only rule is absolute. Pair with §7.1 and §8.1 (coaches will know informally; compliance gives the formal rule). | Drives whether the "1 year of Ivy LW" framing is a hard ceiling or has any precedent-based path to 2 years. See [`background.md` §9](./background.md). |
 
 ---
 
-## 12. Navy recruiter / NUPOC officer
+## 10. Navy recruiter / NUPOC officer
 
 Path 2g (and secondarily 2e/2f if OCS is a post-MS move).
 
 | # | Priority | Question | Why it matters |
 |---|----------|----------|----------------|
-| 12.1 | **P1** | **Yellow Ribbon coverage specifics** at Dartmouth Thayer, Cornell Engineering, WashU McKelvey, Columbia SEAS for graduate engineering — school-level participation caps, grad-student access, benefit amount. See [`background.md` Yellow Ribbon table](./background.md). | Drives the "post-service MS at $0" assumption in Option 2g's ~$184K all-in model. |
-| 12.2 | **P2** | **UBC BASc eligibility for NUPOC** — does a UBC Bachelor of Applied Science count as a "regionally accredited U.S. school" equivalent? (UBC is Option 3, but relevant if NUPOC is the target military track.) | Gate on whether Option 3 + NUPOC is a viable combination. |
+| 10.1 | **P1** | **Yellow Ribbon coverage specifics** at Dartmouth Thayer, Cornell Engineering, WashU McKelvey, Columbia SEAS for graduate engineering — school-level participation caps, grad-student access, benefit amount. See [`background.md` Yellow Ribbon table](./background.md). | Drives the "post-service MS at $0" assumption in Option 2g's ~$184K all-in model. |
+| 10.2 | **P2** | **UBC BASc eligibility for NUPOC** — does a UBC Bachelor of Applied Science count as a "regionally accredited U.S. school" equivalent? (UBC is Option 3, but relevant if NUPOC is the target military track.) | Gate on whether Option 3 + NUPOC is a viable combination. |
 
 ---
 
-## 13. Jack (family conversation)
+## 11. Jack (family conversation)
 
 | # | Priority | Question | Why it matters |
 |---|----------|----------|----------------|
-| 13.1 | **P0** | **Role-type preference in the military** — technical / nuclear (NUPOC, submarine) vs. operational line (surface warfare, aviation) vs. engineering duty vs. SpecOps. Conversation, not research. | Drives whether NUPOC, USNA, or post-grad OCS (Option 2g) is the primary track. Shapes what questions to bring to §12. See [`background.md` §9](./background.md). |
+| 11.1 | **P0** | **Role-type preference in the military** — technical / nuclear (NUPOC, submarine) vs. operational line (surface warfare, aviation) vs. engineering duty vs. SpecOps. Conversation, not research. | Drives whether NUPOC, USNA, or post-grad OCS (Option 2g) is the primary track. Shapes what questions to bring to §10. See [`background.md` §9](./background.md). |
 
 ---
 
@@ -177,14 +157,15 @@ Path 2g (and secondarily 2e/2f if OCS is a post-MS move).
 
 | Window | Actions |
 |--------|---------|
-| **Spring 2026 (now)** | §7.1 RPI partnership (Spector + RPI admissions), §13.1 Jack role-type conversation, §3.1 scholarship offer-letter terms. |
-| **Summer 2026 (pre-enrollment)** | §2.1 registrar grade-transfer policy, §1.6 FSEM equivalency inquiry, §5.1 WashU structure, §8.1 + §8.2 coach conversations. |
+| **Spring 2026 (now)** | §1.9 partnership-list confirmation (Spector — sets whether WashU/RPI reactivate from [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md)), §11.1 Jack role-type conversation, §3.1 scholarship offer-letter terms. |
+| **Summer 2026 (pre-enrollment)** | §2.1 registrar grade-transfer policy, §1.6 FSEM equivalency inquiry, §6.1 + §6.2 coach conversations. |
 | **Mid-July 2026** | Physics C + Micro scores post → schedule Spector meeting covering §1.1, §1.2, §1.3, §1.5. |
 | **August 2026 orientation** | §1.8 term-offering + instructor confirmations for Fall Y1, §2.3 PeopleSoft attribute check. |
 | **Before each registration window (Y1+)** | §1.8 re-verify the *next* two terms' picks. §2.3 attribute recheck. |
-| **Spring Y2 (Feb 1 Dartmouth app)** | §4.1, §4.2, §4.3 Dartmouth coordinator + §10.1 Michelson conversation. |
-| **Spring Y3 (junior-year fork)** | §5.2, §5.3, §6.1, §6.2, §9.1 — only relevant for whichever 3:2 / 3:3 partner Jack commits to. |
-| **Y3–Y4 (if 2g on the table)** | §12.1, §12.2 Navy recruiter conversations. |
+| **Spring Y2 (Feb 1 Dartmouth app)** | §4.1, §4.2, §4.3 Dartmouth coordinator + §8.1 Michelson conversation. |
+| **Spring Y3 (junior-year fork)** | §5.1, §5.2, §7.1 — Columbia-side conversations. Also: GPA check for Syracuse 4+2 (3.2 gate). If GPA ≥ 3.5, broaden to open-market MEng targets per [`hobart-syracuse.md`](./hobart-syracuse.md). |
+| **Fall Y4 (Syracuse 4+2 application window)** | §1.10 partnership-terms confirmation locked-in before deciding 2e vs. open-market MEng applications. Apply to 2–3 stretch open-market MEng programs concurrently per [`hobart-syracuse.md` decision framing](./hobart-syracuse.md#decision-framing). |
+| **Y3–Y4 (if 2g on the table)** | §10.1, §10.2 Navy recruiter conversations. |
 
 ---
 
@@ -213,7 +194,7 @@ Top-3 P0/P1 questions packaged for first contact. Sent before mid-July 2026 with
 > Gary [Last name]
 > (Jack's dad — [phone] / [email])
 
-**Follow-up to schedule** after Spector reply: §1.2 (BC course count), §1.5 (physics-major QR/SInq attributes), §1.6 (FSEM → Columbia Writing equivalency), §1.7 (Dartmouth Y3 transfer attributes), §1.8 (term offerings + instructor verification at registration windows). Best handled in the post–mid-July call once Physics C scores anchor the schedule conversation.
+**Follow-up to schedule** after Spector reply: §1.2 (BC course count), §1.5 (physics-major QR/SInq attributes), §1.6 (FSEM → Columbia Writing equivalency), §1.7 (Dartmouth Y3 transfer attributes), §1.8 (term offerings + instructor verification at registration windows), §1.10 (Syracuse 4+2 partnership terms — bridge scope, tuition discount, GRE waiver), §1.11 (HWS physics-graduate MEng landing pattern). Best handled in the post–mid-July call once Physics C scores anchor the schedule conversation.
 
 ---
 
@@ -222,8 +203,10 @@ Top-3 P0/P1 questions packaged for first contact. Sent before mid-July 2026 with
 Every question above traces back to a source doc — consult these for the full rationale, catalog citations, and decision logic:
 
 - [`README.md`](./README.md) — all-in cost model, curriculum fit, high-level Spector confirm items.
-- [`hobart.md`](./hobart.md) — per-option detail (2a–2g), RPI partnership warning, BA completion mechanism.
+- [`hobart.md`](./hobart.md) — per-option detail (2a, 2b, 2e–2g), BA completion mechanism.
 - [`hobart-plan.md`](./hobart-plan.md) — term-by-term course plan, Spector-before-matriculation confirm list.
 - [`hobart-electives.md`](./hobart-electives.md) — goal-course menu, instructor sentiment, attribute verification.
 - [`ap-credits.md`](./ap-credits.md) — per-school AP mapping, Spector AP confirm list, revisit dates.
+- [`hobart-syracuse.md`](./hobart-syracuse.md) — Option 2e partnership-vs-open-market-MEng analysis; sources §1.10 and §1.11.
+- [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md) — parked WashU 3:3 and RPI 3:2 research; reactivation checklist if §1.9 confirms either.
 - [`background.md`](./background.md) §8–§9 — action items & timeline, full open-items checklist.

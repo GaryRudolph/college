@@ -1,6 +1,6 @@
 # Semester-by-semester course plans — Hobart variants
 
-*Companion to [`README.md`](./README.md) and [`hobart.md`](./hobart.md). This file maps every term from matriculation to graduation for Jack's **three Hobart dual-degree paths** (2a Columbia, 2b Dartmouth, 2c WashU). Representative courses only — specific IDs and term placements are subject to each school's flight plan, advisor approval, and year-specific catalogue updates.*
+*Companion to [`README.md`](./README.md) and [`hobart.md`](./hobart.md). This file maps every term from matriculation to graduation for Jack's **two Hobart dual-degree paths** (2a Columbia, 2b Dartmouth). The Syracuse 4+2 (2e) is graduate-only — Y1–Y4 at Hobart is the [path-agnostic core + a 4th BA-completion year](#hws-y4-senior-year-finish-the-physics-ba), and the Syracuse MS (Y5–Y6) is direct-admission graduate coursework rather than an articulated Hobart-credit-back undergraduate sequence. Representative courses only — specific IDs and term placements are subject to each school's flight plan, advisor approval, and year-specific catalogue updates. WashU 3:3 and RPI 3:2 are currently parked as unconfirmed HWS partnerships — see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).*
 
 **Companion files:**
 
@@ -10,11 +10,11 @@
 
 ---
 
-## The three Hobart paths at a glance
+## The Hobart paths at a glance
 
 ```mermaid
 gantt
-  title Jack's 3 Hobart dual-degree paths — school enrolled + degrees conferred
+  title Jack's Hobart dual-degree + direct-admission paths — school enrolled + degrees conferred
   dateFormat  YYYY
   axisFormat  %Y
   section Hobart-Columbia 3:2
@@ -29,22 +29,22 @@ gantt
   BA physics (HWS)    :milestone, m2b1, after d3, 0d
   Dartmouth Y5        :d4, after d3, 1y
   BE ME (Dartmouth)   :milestone, m2b2, after d4, 0d
-  section Hobart-WashU 3:3
-  HWS Y1-Y3           :u1, 2026, 3y
-  WashU Y4-Y5 (BS)    :u2, after u1, 2y
-  BA physics (HWS)    :milestone, m2c1, 2030, 0d
-  BS ME (WashU)       :milestone, m2c2, after u2, 0d
-  WashU Y6 (MS)       :u3, after u2, 1y
-  MS ME (WashU)       :milestone, m2c3, after u3, 0d
+  section Hobart-Syracuse 4+2
+  HWS Y1-Y4           :s1, 2026, 4y
+  BA physics (HWS)    :milestone, m2e1, after s1, 0d
+  Syracuse MS Y5-Y6   :s2, after s1, 2y
+  MS Eng (Syracuse)   :milestone, m2e2, after s2, 0d
 ```
 
 | Path                           | Years | Total courses (approx)                 | Degree(s) earned                                  |
 | ------------------------------ | ----- | -------------------------------------- | ------------------------------------------------- |
 | 2a. Hobart → Columbia 3:2      | 5     | ~24 HWS + ~20 Columbia                 | BA physics (HWS) + BS ME (Columbia SEAS, ABET)    |
 | 2b. Hobart → Dartmouth 2:1:1:1 | 5     | ~16 HWS + ~18 Dartmouth (3+3 quarters) | BA physics (HWS) + BE ME (Dartmouth Thayer, ABET) |
-| 2c. Hobart → WashU 3:3         | 6     | ~24 HWS + ~24 WashU (BS + MS)          | BA physics (HWS) + BS ME + MS ME (WashU McKelvey) |
+| 2e. Hobart → Syracuse 4+2      | 6     | 32 HWS + ~10 Syracuse grad             | BA physics (HWS) + MS Eng (Syracuse ECS, no ABET BS) |
 
-**Y1 + Fall Y2 are path-agnostic.** Jack does not need to pick a fork before **sophomore February** (the Dartmouth application deadline is Feb 1 of Y2). The Columbia / WashU applications happen in junior year. Until Spring Y2 the three Hobart paths share a single schedule — see the [path-agnostic Hobart Y1–Y2 core](#hobart-y1y2--path-agnostic-core-used-by-2a-2b-2c) below.
+**Y1 + Fall Y2 are path-agnostic.** Jack does not need to pick a fork before **sophomore February** (the Dartmouth application deadline is Feb 1 of Y2). The Columbia application happens in junior year. The Syracuse application happens senior year (Y4) — direct-admission at 3.2 Hobart GPA. Until Spring Y2 all three paths share a single schedule — see the [path-agnostic Hobart Y1–Y2 core](#hobart-y1y2--path-agnostic-core-used-by-2a-and-2b) below.
+
+**Syracuse 4+2 (2e) shares Y1–Y4 with the other 4-yr-at-Hobart paths (2f Cal State, 2g OCS).** The Syracuse / Cal State / OCS-MS years are graduate-level (Syracuse, OCS post-service) or transfer-undergrad (Cal State) and are not articulated Hobart-credit-back sequences — they're separate degree programs that begin after the Hobart BA is conferred. The Syracuse MS coursework is therefore not modeled term-by-term in this file; see [`background.md` §3j](./background.md#3j-syracuse-university-via-42-pathway--confirmed-partnership-ms-only) for the structure.
 
 ---
 
@@ -52,21 +52,21 @@ gantt
 
 Jack completed MAT540 Multivariable Calculus at McCallie with Dr. Shu Sun. **Decision: Jack takes MATH 232 at HWS as planned.**
 
-Why: MAT540 was a McCallie-only course, not dual-enrolled with a partner college. HWS credit-by-exam is limited to AP / CLEP / IB (no CLEP for multivariable), and transfer / DE credit both require an official college transcript which doesn't exist. The only remaining mechanism is **placement without credit**, which doesn't save a course slot (Jack still needs 32 HWS courses to graduate) and creates prereq-review risk at all three dual-degree partners (Columbia Combined Plan, Dartmouth Thayer, WashU McKelvey) — each evaluator would need a custom chair's letter arguing that a non-transcripted course satisfies a Multivariable prereq. Not worth the risk to the dual-degree pipeline.
+Why: MAT540 was a McCallie-only course, not dual-enrolled with a partner college. HWS credit-by-exam is limited to AP / CLEP / IB (no CLEP for multivariable), and transfer / DE credit both require an official college transcript which doesn't exist. The only remaining mechanism is **placement without credit**, which doesn't save a course slot (Jack still needs 32 HWS courses to graduate) and creates prereq-review risk at both dual-degree partners (Columbia Combined Plan, Dartmouth Thayer) — each evaluator would need a custom chair's letter arguing that a non-transcripted course satisfies a Multivariable prereq. Not worth the risk to the dual-degree pipeline.
 
 Net effect: MAT540 gives Jack a running start (he's seen the material and can aim for a clean A in MATH 232 Fall Y1), but does not shift any course slots in the plan.
 
 ---
 
-## Hobart Y1–Y2 — path-agnostic core (used by 2a, 2b, 2c)
+## Hobart Y1–Y2 — path-agnostic core (used by 2a and 2b)
 
-**Single source of truth for Jack's first 4 semesters.** Identical course layout for all three Hobart paths. Optimized for: (a) getting every partner-school STEM prereq into the transcript before Thayer's Feb 1 Y2 deadline, (b) minimum writing load (1 FSEM total, low-writing goal picks everywhere else), (c) maximum easy-A sentiment per [`hobart-electives.md`](./hobart-electives.md), and (d) front-loading 3 aspirational goals so Y3 / Y4 have flexibility.
+**Single source of truth for Jack's first 4 semesters.** Identical course layout for both Hobart dual-degree paths (and matches the Y1–Y2 layout for 2e/2f/2g paths that stay at Hobart 4 years). Optimized for: (a) getting every partner-school STEM prereq into the transcript before Thayer's Feb 1 Y2 deadline, (b) minimum writing load (1 FSEM total, low-writing goal picks everywhere else), (c) maximum easy-A sentiment per [`hobart-electives.md`](./hobart-electives.md), and (d) front-loading 3 aspirational goals so Y3 / Y4 have flexibility.
 
 | Term          | Courses                                                                                                                                                      | Notes                                                                                                                                                                                                                                                                                                                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Fall Y1**   | <ul><li>**FSEM** (writing-intensive First-Year Seminar)</li><li>**PHYS 150** Intro Physics I</li><li>**MATH 232** Multivariable Calc</li><li>**MUS 930 Chorale** (½ cr, Goal #1 — Partial AP)</li></ul> | FYS likely satisfies Columbia's University Writing via Course Equivalence Form. PHYS 150 lab-heavy. Chorale is the 0-writing ensemble re-entry (see [Recommended goal-course picks](#recommended-goal-course-picks--y1y2)). MATH 232 is a re-take of McCallie MAT540 material (see [Non-AP prior learning](#non-ap-prior-learning--mccallie-mat540-multivariable-calculus-dr-shu-sun)). |
 | **Spring Y1** | <ul><li>**PHYS 160** Intro Physics II</li><li>**MATH 204** Linear Algebra</li><li>**CHEM 110** Gen Chem + lab</li><li>**ECON 160** Principles of Economics</li><li>**MUS 930 Chorale** (½ cr add-on, pairs with Fall Y1)</li></ul> | ECON 160 satisfies Columbia's ECON W1105 prereq. Per the HWS Educational Goals database it carries only **Partial Quantitative Reasoning** (already covered by the physics major) — so it functions as a free elective toward the 4 courses/semester, **not** a goal course. The 2nd Chorale semester pairs with Fall Y1 to = 1 Partial-AP course-equivalent (Chorale is ½-credit and co-curricular to the 4 academic courses). Linear Algebra is a Dartmouth must-have. |
-| **Fall Y2**   | <ul><li>**PHYS 270** Modern Physics</li><li>**MATH 237** Diff Eq</li><li>**CPSC 225** Data Structures (post-AP CS)</li><li>**ANTH 110** Intro Cultural Anthropology (Goal #2 — double-count: Substantial SI + Substantial CD)</li></ul> | Diff Eq is Columbia + WashU required. CPSC 225 upgrades Jack's CS footprint for ME software-heavy work. ANTH 110 in 1 course closes 2 of the 4 live goals (SI + CD); target Maiale's section per RMP. |
+| **Fall Y2**   | <ul><li>**PHYS 270** Modern Physics</li><li>**MATH 237** Diff Eq</li><li>**CPSC 225** Data Structures (post-AP CS)</li><li>**ANTH 110** Intro Cultural Anthropology (Goal #2 — double-count: Substantial SI + Substantial CD)</li></ul> | Diff Eq is Columbia required. CPSC 225 upgrades Jack's CS footprint for ME software-heavy work. ANTH 110 in 1 course closes 2 of the 4 live goals (SI + CD); target Maiale's section per RMP. |
 | **Spring Y2** | <ul><li>**PHYS 285** Electromagnetic Theory</li><li>**Physics elective #1**</li><li>**DAN 110** Dances of the African Diaspora (Goal #3 — Substantial AP, 0 writing)</li><li>**Free elective OR 2nd chem**</li></ul> | **⚠ Dartmouth 2b application deadline is Feb 1 of Y2.** Jack decides before this term whether 2b is in play — if yes, ensure the Y1–Y2 transcript has all 7 Thayer prereqs done. DAN 110 closes AP substantively (Fall Y1 ensemble becomes insurance). A second chem course is NOT required for any partner; use slot for ME-useful elective (e.g., CPSC 229 Computer Organization). |
 
 ### Running goal / writing load across Y1–Y2
@@ -80,8 +80,7 @@ Net effect: MAT540 gives Jack a running start (he's seen the material and can ai
 
 1. **Thayer prereq coverage is complete by end of Spring Y2.** Calc III (MATH 232 F1), Linear Algebra (MATH 204 S1), Physics I (PHYS 150 F1), Physics II (PHYS 160 S1), Gen Chem (CHEM 110 S1), CS (AP + CPSC 225 F2), Diff Eq (MATH 237 F2). All 7 Thayer prereqs done before the Feb 1 Y2 application.
 2. **Columbia prereq coverage is also complete.** Same STEM stack plus ECON 160 (covers ECON W1105) in S1.
-3. **WashU prereq coverage is complete + the "1 upper-div physics" lands in Y2.** PHYS 270 F2 or PHYS 285 S2 gives WashU the upper-div physics they want.
-4. **3 of 4 live aspirational goals close by end of Y2**, so Y3 (2a / 2c) or Y4 (2b) only needs to handle the 4th (EJ via PHIL 163) — lots of flexibility.
+3. **3 of 4 live aspirational goals close by end of Y2**, so Y3 (2a) or Y4 (2b) only needs to handle the 4th (EJ via PHIL 163) — lots of flexibility.
 
 ### Recommended goal-course picks — Y1–Y2
 
@@ -97,14 +96,14 @@ Full menu + RMP sentiment in [`hobart-electives.md`](./hobart-electives.md). Sum
 
 ---
 
-## Hobart Y3 — used by 2a and 2c only (2b is at Dartmouth in Y3)
+## Hobart Y3 — used by 2a only (2b is at Dartmouth in Y3)
 
-Path 2a (Columbia) and Path 2c (WashU) both stay at Hobart through Y3 before transferring. Path 2b (Dartmouth) leaves for Dartmouth in Y3 and returns for Y4 — see [Path 2b → HWS Y4](#hws-y4-senior-year-finish-the-physics-ba) below.
+Path 2a (Columbia) stays at Hobart through Y3 before transferring to Columbia. Path 2b (Dartmouth) leaves for Dartmouth in Y3 and returns for Y4 — see [Path 2b → HWS Y4](#hws-y4-senior-year-finish-the-physics-ba) below. The 4-year-at-Hobart paths (2e Syracuse, 2f Cal State, 2g OCS) follow this Y3 layout too, plus the Y4 layout that Path 2b uses on its return.
 
 | Term          | Courses                                                                                                                                                      | Notes                                                                                                                                                                                                                                                                                                                                   |
 | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Fall Y3**   | <ul><li>**PHYS 383** Quantum Mechanics</li><li>**Physics elective #2**</li><li>**PHIL 163** Philosophy of Sport (Goal #4 — Substantial EJ)</li><li>**Free elective**</li></ul> | Finalize BA, apply to Columbia + WashU (both due Feb Y3). Target a Frost-Arnold PHIL 163 section if available (2.3/5 diff RMP). |
-| **Spring Y3** | <ul><li>**PHYS capstone / senior project**</li><li>**Physics elective #3**</li><li>**Goal #5 buffer** (e.g., **MUS 110** Music Theory w/ Lofthouse, or **THTR 160** Stagecraft)</li><li>**Free elective**</li></ul> | Complete HWS physics BA + 5th aspirational goal course. All 4 live goals already closed by end of Fall Y3 (SI+CD via ANTH 110 Y2, AP via DAN 110 Y2, EJ via PHIL 163 Y3); this slot is optional depth / easy-A buffer. Transfer to Columbia / WashU in Fall Y4 (or graduate with BA if everything fell through). |
+| **Fall Y3**   | <ul><li>**PHYS 383** Quantum Mechanics</li><li>**Physics elective #2**</li><li>**PHIL 163** Philosophy of Sport (Goal #4 — Substantial EJ)</li><li>**Free elective**</li></ul> | Finalize BA, apply to Columbia (Feb Y3 deadline). Target a Frost-Arnold PHIL 163 section if available (2.3/5 diff RMP). |
+| **Spring Y3** | <ul><li>**PHYS capstone / senior project**</li><li>**Physics elective #3**</li><li>**Goal #5 buffer** (e.g., **MUS 110** Music Theory w/ Lofthouse, or **THTR 160** Stagecraft)</li><li>**Free elective**</li></ul> | Complete HWS physics BA + 5th aspirational goal course. All 4 live goals already closed by end of Fall Y3 (SI+CD via ANTH 110 Y2, AP via DAN 110 Y2, EJ via PHIL 163 Y3); this slot is optional depth / easy-A buffer. Transfer to Columbia in Fall Y4 (or stay at Hobart for Y4 if Columbia rejects — 4-yr-at-Hobart paths 2e/2f/2g use the same Y3 layout). |
 
 ### Recommended goal-course picks — Y3
 
@@ -131,7 +130,7 @@ AP-specific Spector items (physics exemption, Calc BC count, 7-course AP cap) li
 
 ## Path 2a — Hobart → Columbia SEAS ME BS (3:2, 5 years)
 
-**Y1–Y3 at Hobart:** [path-agnostic Y1–Y2](#hobart-y1y2--path-agnostic-core-used-by-2a-2b-2c) + [Y3 table](#hobart-y3--used-by-2a-and-2c-only-2b-is-at-dartmouth-in-y3) above.
+**Y1–Y3 at Hobart:** [path-agnostic Y1–Y2](#hobart-y1y2--path-agnostic-core-used-by-2a-and-2b) + [Y3 table](#hobart-y3--used-by-2a-only-2b-is-at-dartmouth-in-y3) above.
 
 **Y4–Y5 at Columbia** (standard semesters, 4–5 courses per term, ~9 courses/year, ~18 courses total at Columbia).
 
@@ -169,7 +168,7 @@ Columbia's [approved nontech elective list](https://bulletin.engineering.columbi
 
 ## Path 2b — Hobart → Dartmouth Thayer ME BE (2:1:1:1, 5 years)
 
-**Y1–Y2 at Hobart:** identical to the [path-agnostic Y1–Y2 core](#hobart-y1y2--path-agnostic-core-used-by-2a-2b-2c) above — no duplication here. By end of Spring Y2, Jack has all 7 Thayer prereqs on his transcript (Calc III, Linear Algebra, Diff Eq, Physics I, Physics II, Gen Chem, CS) plus 3 of 4 live goals closed (AP via Chorale, SI+CD via ANTH 110, AP via DAN 110).
+**Y1–Y2 at Hobart:** identical to the [path-agnostic Y1–Y2 core](#hobart-y1y2--path-agnostic-core-used-by-2a-and-2b) above — no duplication here. By end of Spring Y2, Jack has all 7 Thayer prereqs on his transcript (Calc III, Linear Algebra, Diff Eq, Physics I, Physics II, Gen Chem, CS) plus 3 of 4 live goals closed (AP via Chorale, SI+CD via ANTH 110, AP via DAN 110).
 
 **Application timing:** **Feb 1 of Y2 is the hard Dartmouth application deadline.** Decision by ~April. Jack submits during Spring Y2 while finishing PHYS 285 + DAN 110.
 
@@ -233,70 +232,16 @@ See also the [Dartmouth FAQ in `ap-credits.md`](./ap-credits.md#faq-for-the-hoba
 
 ---
 
-## Path 2c — Hobart → WashU McKelvey 3:3 (6 years)
-
-**⚠ HWS–WashU partnership status unclear — verify before relying on 2c.** HWS's 2024–25 catalogue ([`hws.edu/catalogue/curriculum.aspx`](https://hws.edu/catalogue/curriculum.aspx), *Joint Degree Programs → Engineering*) lists only Columbia and Dartmouth as engineering joint-degree partners. WashU McKelvey's current [affiliate list](https://engineering.wustl.edu/academics/dual-degree-program/affiliated-schools.html) does **not** include HWS (Hamilton College, a different Upstate NY LAC, is listed; HWS is not). An older HWS library archive document references a historical HWS→WashU 3-2 program, suggesting a relationship that has since lapsed. **Confirm affiliate status with Prof. Spector and WashU McKelvey admissions.** If HWS is not currently a WashU affiliate, the guaranteed 3.25-GPA admit, 50% Graduate Affiliation Scholarship, and articulated 3-3 BS+MS structure all fall away — Jack would apply as a standard transfer (no automatic admit, no tuition discount), which materially changes 2c's cost and admit-risk profile and would cascade into `README.md`, `background.md`, `hobart.md`, and `ba-completion.md`.
-
-**⚠ Credential clarification needed:** McKelvey's [dual-degree admissions page](https://engineering.washu.edu/academics/dual-degree-program/index.html) describes "three years at WashU with 50% tuition" but does not clearly delineate whether the three years deliver a BS + MS (what `background.md` and `README.md` assume) or something else. **Confirm with McKelvey admissions** whether:
-
-- Y4 = BS junior year, Y5 = BS senior year, Y6 = MS year (conventional 3:3 framing), OR
-- Y4–Y6 are all undergrad junior/senior/senior (giving only the BS), with MS as a separate add-on.
-
-This plan assumes the first interpretation (BS + MS in 3 years).
-
-**Y1–Y3 at Hobart:** [path-agnostic Y1–Y2](#hobart-y1y2--path-agnostic-core-used-by-2a-2b-2c) + [Y3 table](#hobart-y3--used-by-2a-and-2c-only-2b-is-at-dartmouth-in-y3) above. WashU's prereqs align well — Calc through multivariable + Diff Eq, Linear Algebra (recommended), Physics 1–2 + **1 upper-division physics** (ME-specific), Gen Chem + lab, CS, 15 SH humanities / social science.
-
-**⚠ One WashU-specific addition:** ME-specific "1 semester upper-division physics beyond the required year sequence." Jack's HWS physics major includes PHYS 270 (Modern Physics) and PHYS 285 (E&M Theory) which should satisfy this; confirm with WashU evaluator.
-
-### WashU Y4 (undergrad junior year)
-
-| Term          | Representative courses | Bucket         | Notes                                                                |
-| ------------- | ---------------------- | -------------- | -------------------------------------------------------------------- |
-| **Fall Y4**   | <ul><li>**MEMS 2500** Dynamics</li><li>**MEMS 2610** Mechanical Components</li><li>**ESE 3260** Linear Systems</li><li>**1 HUM elective**</li><li>**WashU rowing** (final ACRA season, co-curricular)</li></ul> | 3 STEM · 1 HUM | ACRA season Y4 = Jack's 4th and final (see README eligibility note). |
-| **Spring Y4** | <ul><li>**MEMS 3411** Thermodynamics</li><li>**MEMS 3420** Fluids</li><li>**MEMS 3610** Mech Components Lab</li><li>**1 HUM elective**</li></ul> | 3 STEM · 1 HUM | |
-
-### WashU Y5 (undergrad senior year)
-
-| Term          | Representative courses | Bucket          | Notes                   |
-| ------------- | ---------------------- | --------------- | ----------------------- |
-| **Fall Y5**   | <ul><li>**MEMS 4500** Heat Transfer</li><li>**MEMS 4510** Senior Design I</li><li>**ME elective #1**</li><li>**1 HUM elective**</li></ul> | 3 STEM · 1 HUM | BS conferred end of Y5. |
-| **Spring Y5** | <ul><li>**MEMS 4511** Senior Design II (capstone)</li><li>**ME elective #2**</li><li>**ME elective #3**</li><li>**1 free elective**</li></ul> | 3 STEM · 1 Free | |
-
-### WashU Y6 (MS year)
-
-MS track options: coursework-only (10 courses / 30 credits) or thesis (24 credits + thesis). The 3:3 structure typically fits into coursework-only across 2 semesters.
-
-| Term          | Representative courses | Bucket        | Notes                                 |
-| ------------- | ---------------------- | ------------- | ------------------------------------- |
-| **Fall Y6**   | <ul><li>**MEMS 5XXX** Advanced Mechanics</li><li>**MEMS 5XXX** Advanced Fluid Mechanics</li><li>**MS elective #1**</li><li>**MS elective #2**</li><li>**MS elective #3**</li></ul> | 5 STEM (grad) | Pure engineering. No HUM requirement. |
-| **Spring Y6** | <ul><li>**MEMS 5XXX** Advanced Heat Transfer</li><li>**MS elective #4**</li><li>**MS elective #5**</li><li>**MS elective #6**</li><li>**MS thesis or capstone**</li></ul> | 5 STEM (grad) | MS conferred end of Y6. |
-
-### WashU elective picks (low-writing)
-
-- **Humanities (15 SH at WashU Y4–Y5):** History of Science, History of Technology, Engineering Ethics (often offered by McKelvey — likely problem-set / case-study format, not prose-heavy), Economics Principles. Avoid literature/philosophy seminars.
-- **ME electives** (undergrad and grad): MEMS 4410 Vibrations, MEMS 4420 Robotics, MEMS 4500 Control Systems, MEMS 4700 Automotive Engineering — all problem-set / lab / project.
-- **MS electives:** most McKelvey grad ME courses are lecture + problem-set + small project. Pick based on career interest (energy systems, robotics, aerospace, biomech) rather than writing-load (all are low-writing).
-
-### ⚠ Items to confirm with WashU
-
-1. **3:3 credential mechanics** — BS + MS confirmed? Or something else?
-2. **HWS physics major → WashU upper-division-physics requirement** — confirm PHYS 270 + PHYS 285 from HWS satisfy WashU's "1 upper-div physics beyond year sequence."
-3. **15 SH humanities distribution at WashU** — does the HWS BA credit transfer toward this count, reducing how much Jack takes at WashU?
-4. **Graduate Affiliation Scholarship 50% discount renewal** — verify it applies to all 3 years at WashU (Y4 + Y5 undergrad + Y6 MS), not just the MS year. `background.md` assumes all 3.
-
----
-
 ## Consolidated low-writing elective picks (Hobart paths)
 
-Summary table across the 3 Hobart dual-degree paths, grouped by school. For the WPI-side picks, see [`wpi-plan.md`](./wpi-plan.md#wpi-electives--low-writing-picks).
+Summary table across the 2 Hobart dual-degree paths, grouped by school. For the WPI-side picks, see [`wpi-plan.md`](./wpi-plan.md#wpi-electives--low-writing-picks). For the parked WashU 3:3 elective picks, see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).
 
 | School                            | Where the slack is                                  | Top picks (low writing, high STEM-adjacency)                                                                                                                                                                                      |
 | --------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **HWS** (all 3 Hobart paths)      | 5 aspirational goal courses + free electives        | **ANTH 110** (Substantial SI + CD double-count) · **DAN 110** (Substantial AP + CD double-count) · **PHIL 163 Philosophy of Sport** (Substantial EJ) · Music ensembles (Partial AP, 0 writing) · ECON 160 and MUS 110 as free-elective fillers (neither carries a live-goal attribute) — see [recommended goal-course picks](#recommended-goal-course-picks--y1y2) and [`hobart-electives.md`](./hobart-electives.md) for the full menu + RMP sentiment |
+| **HWS** (all Hobart paths)        | 5 aspirational goal courses + free electives        | **ANTH 110** (Substantial SI + CD double-count) · **DAN 110** (Substantial AP + CD double-count) · **PHIL 163 Philosophy of Sport** (Substantial EJ) · Music ensembles (Partial AP, 0 writing) · ECON 160 and MUS 110 as free-elective fillers (neither carries a live-goal attribute) — see [recommended goal-course picks](#recommended-goal-course-picks--y1y2) and [`hobart-electives.md`](./hobart-electives.md) for the full menu + RMP sentiment |
 | **Columbia Y4–Y5**                | ~4 nontech electives (if not waived) + ME electives | ECON W3211 / W3213 · HIST W3930 History of Tech · MUSI V3321 Music Theory · PSYC W1010 Cog Sci · **avoid Core courses**                                                                                                           |
 | **Dartmouth Y3 non-ENGS**         | 3 courses                                           | MATH 23 Diff Eq II · MATH 20 Probability · PHYS 50 Theoretical Methods · ECON 1 / 10 · COSC 30 (all pure STEM, no writing)                                                                                                        |
 | **Dartmouth Y5 BE concentration** | 3–4 ME concentration electives                      | ENGS 71 Structural Analysis · ENGS 76 Machine Eng · ENGS 75 Product Design · ENGS 168 Optimization                                                                                                                                |
-| **WashU**                         | 15 SH humanities + ME electives + MS electives      | History of Sci/Tech · Engineering Ethics · ECON 1011 · MEMS 4420 Robotics · grad MEMS electives (all problem-set)                                                                                                                 |
 
 **Writing-heavy courses Jack should actively avoid** (where optional):
 
@@ -309,7 +254,7 @@ Summary table across the 3 Hobart dual-degree paths, grouped by school. For the 
 
 ## How to use this document
 
-1. **Read your path's section.** Each path section (2a / 2b / 2c) references the shared Hobart Y1–Y2 core instead of duplicating, so start there if you want the first two years.
+1. **Read your path's section.** Each path section (2a / 2b) references the shared Hobart Y1–Y2 core instead of duplicating, so start there if you want the first two years.
 2. **Flag the ⚠ items** — they're the real questions to ask admitted-student advisers / Prof. Spector before matriculation. AP-specific items live in [`ap-credits.md`](./ap-credits.md).
 3. **Adjust electives to taste.** The specific course IDs are representative; schools update flight plans and course catalogs annually. The *bucket structure* (how many STEM / HUM / free slots per semester) is the stable part.
 4. **Re-review in mid-July 2026** once Physics C (Mech + E&M) and Microeconomics scores from May 2026 post. The plan assumes Physics C 5/5 — if that holds, the main remaining conversation is with Prof. Spector about whether AP Physics (1+2 and/or C) buys exemption from PHYS 150/160. If he accepts it, Jack's Y1 gets 2 courses lighter and the rest of the plan decompresses accordingly. If Physics C underperforms, consult [`ap-credits.md`](./ap-credits.md#working-assumption--physics-c-both-score-5-in-may-2026) and [`wpi-plan.md`](./wpi-plan.md) for contingency adjustments.
