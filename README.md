@@ -24,7 +24,7 @@ The real decision is **where Jack shows up as a freshman.** Everything else — 
 2. **Hobart** — Solid IRA-system rowing with a path to **both** elite rowing (only 1 year at Columbia or Dartmouth LW) **and/or** solid-to-elite engineering (Columbia, Dartmouth, WashU BS+MS, RPI, or Cal State). Multiple fallbacks at the junior-year fork — see [`hobart.md`](./hobart.md) for the per-option detail.
    - **Cost:** ~$242K–$304K depending on fork (with $41K/yr merit scholarship applied for the years registered at Hobart — includes Option 2b's Y3 at Dartmouth, which is structured as a Hobart-registered exchange year)
    - **Years:** 5–6 depending on fork
-   - **Curriculum:** Liberal-arts BA for the first 2–3 years (Hobart's core requires humanities breadth + writing-intensive courses) before engineering coursework begins at the partner school. This is the biggest mismatch with Jack's preference — the BA *is* the first half of the degree, not an add-on.
+   - **Curriculum:** Physics-major-first at Hobart Y1–Y3 (~60–75% STEM by course count; the 2:1:1:1 Dartmouth fork is STEM-heavier than the 3:2 Columbia fork). Only 1 mandatory writing-intensive course (the First-Year Seminar); the rest of the breadth is flexible topic-choice across 6 "aspirational goals." Less of a mismatch with Jack's writing preference than a prescribed-core liberal-arts school would be — see [Curriculum fit](#curriculum-fit) below for the 2a-vs-2b breakdown.
    - **Trade:** GPA gate sophomore/junior year; worst case (every dual-degree fork fails) is Hobart BA + Cal State BSME at ~$242K / 6 yrs — still a viable landing spot
 3. **UBC** — Solid engineering (QS #25 globally, #2 in Canada), elite Canadian varsity rowing **if** he makes the team, and an amazing lifestyle / location.
    - **Cost:** ~$268K (USD)
@@ -150,6 +150,60 @@ There are military options, and they attach to any of the primary paths rather t
 - **OCS after graduation (if military service becomes an aspiration).** Any bachelor's degree qualifies for unrestricted-line OCS (SWO, aviation, NFO, intel, supply). An ABET engineering BS additionally qualifies for engineering-designator OCS (EDO, CEC). This route is available after any primary path — no decision needed now, no action during college.
 
 **For role-type detail, NUPOC (junior/senior year Navy nuclear), the full entry-path breakdown, and per-primary-path interaction table, see [`military.md`](./military.md).** For the specific Hobart BA → OCS → tuition-free MS cost mechanics (GI Bill + Yellow Ribbon), see [Option 2g in `hobart.md`](./hobart.md#the-other-hobart-forks).
+
+---
+
+## Curriculum fit
+
+Jack has stated a preference against writing-heavy coursework. Engineering curricula are STEM-dense and don't vary much across programs; the dimension that *does* vary is the **non-STEM load** — especially at Hobart, where it also differs meaningfully between the 2a Columbia and 2b Dartmouth forks. This section breaks down the curriculum picture per path so the style dimension is factored in alongside cost, rowing, and risk.
+
+**For the full term-by-term course progression at each school (WPI, Hobart → Columbia 3:2, Hobart → Dartmouth 2:1:1:1, Hobart → WashU 3:3) with AP credits applied and low-writing elective picks per path, see [`course-plans.md`](./course-plans.md).**
+
+### WPI (Option 1) — Engineering from day 1
+
+- 4-year ABET BS structured around the **WPI Plan**: 7-week terms, each culminating in a project deliverable rather than a final exam.
+- Humanities/Arts requirement: **6 courses total**, typically a themed 5-course sequence + 1 capstone. Topic-flexible; not uniformly writing-intensive.
+- **~80% of the degree is STEM.** Closest fit to Jack's stated curriculum preference.
+
+### Hobart (Options 2a–2g) — flexible breadth-goal system, not a prescribed core
+
+Per the [HWS catalogue](https://www.hws.edu/catalogue/curriculum.aspx):
+
+- **32 courses total** — 4/semester × 8 semesters.
+- **First-Year Seminar (FYS)** — 1 writing-intensive course, mandatory, pass with C−. This is the only strictly writing-heavy requirement.
+- **Physics BA major — 12 courses** (5 required physics: PHYS 150, 160, 270, 285, 383 + Calc I & II + 5 electives including capstone). Jack's AP scores (Calc AB, BC, CS A, + pending Physics C Mech/E&M) should wipe out 4–5 of those, leaving ~8 physics-major courses at Hobart.
+- **8 Educational Goals** — 2 integrated (critical thinking, communication) taught across the curriculum + 6 aspirational (quantitative reasoning, scientific inquiry, artistic process, social inequalities, cultural difference, ethical judgment). The physics major covers the first 2 automatically. The remaining 4 require **≥5 distinct courses total**, with broad course-choice latitude — there is no Columbia-Core-style prescribed sequence.
+
+**3:2 Columbia (2a) vs. 2:1:1:1 Dartmouth (2b) — the non-STEM load at Hobart differs:**
+
+Both paths put Jack at Hobart for **3 total years ≈ 24 enrolled courses** (2a: Y1–Y3; 2b: Y1, Y2, Y4). What changes is what the partner school requires Jack to have done at Hobart before transfer:
+
+| Course category at Hobart                    | 2a Columbia 3:2          | 2b Dartmouth 2:1:1:1                       |
+| -------------------------------------------- | ------------------------ | ------------------------------------------ |
+| Physics major (post-AP)                      | 8                        | 8                                          |
+| Partner STEM prereqs                         | Calc III, Diff Eq, Chem (3) | Calc III, Linear Algebra, Chem (3)      |
+| Partner **non-STEM** prereqs                 | Econ + University Writing (**2**) | **none**                          |
+| HWS FYS                                      | 1                        | 1                                          |
+| HWS aspirational-goal courses                | ~4                       | ~1–2 (Dartmouth Y3 absorbs ~3 via non-ENGS term slots) |
+| **Required total**                           | **~18**                  | **~13–14**                                 |
+| Free electives at Hobart                     | ~6                       | ~10                                        |
+| **Non-STEM share of required Hobart work**   | ~7/18 ≈ **39%**          | ~2–3/13 ≈ **~20%**                         |
+
+**Key takeaway:** the 2:1:1:1 Dartmouth path is measurably **more STEM-heavy at Hobart** than the 3:2 Columbia path, because (a) Dartmouth doesn't require Econ or University Writing as prereqs, and (b) Dartmouth Y3 is structured as 2 engineering + 1 non-engineering course per term, and the non-engineering slots are explicitly designed to count back to the home-school BA — so 3 of Jack's HWS breadth-goal courses get taken at Dartmouth rather than at Hobart.
+
+**Per-semester, either path is ~1 non-STEM course per term** (~25% of that term's load). The FYS is the only strictly writing-intensive requirement; other goal courses can be chosen as reading-heavy rather than writing-heavy (history of technology, philosophy of science, astronomy topics, environmental studies, etc.).
+
+*Items to confirm with Prof. Donald Spector (HWS engineering liaison):*
+
+1. **AP credit mapping** — that all 5 AP scores (Calc AB, Calc BC, Physics C Mech, Physics C E&M, CS A) wipe out specific major/prereq courses (MATH 130, 131, PHYS 150, 160, an intro CS requirement), not just generic HWS credit.
+2. **Dartmouth Y3 course transfer attributes** — that non-engineering courses taken at Dartmouth in Y3 carry HWS aspirational-goal attributes back onto the HWS transcript.
+
+See [`hobart.md`](./hobart.md) for the full per-option detail, including how this interacts with the 2e Syracuse and 2g OCS forks (where Jack is at Hobart for all 4 years, so the full ~5 aspirational-goal course slate lands at Hobart).
+
+### UBC (Option 3) — Engineering from day 1
+
+- 4-year BASc: common 1st-year engineering foundation, declared discipline in Y2. Limited humanities / complementary studies requirement (~3–5 non-engineering courses total across the 4 years).
+- **~85% of the degree is STEM.** Closest to WPI on curriculum style.
 
 ---
 
