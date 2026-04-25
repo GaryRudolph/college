@@ -1,0 +1,6 @@
+# All markdown in this repo follows the conventions enforced by
+# scripts/check-table-format.sh (see .cursor/rules/decision-doc-formatting.mdc).
+# Prettier reformatting strips required <br> tags from comparison-table cells,
+# mangles [`file.md`](./file.md) link/backtick pairs, and re-wraps tables —
+# all of which fail the pre-commit hook. Skip it for every doc here.
+*.md
