@@ -101,7 +101,7 @@ Costs are **tuition + on-campus room & board**, simplified to the nearest ~$K. B
 
 | School | Net tuition | R&B (on-campus) | All-in per year |
 |---|---|---|---|
-| Hobart | ~$27K ($41K/yr merit on $68K sticker; **confirm renewal terms in offer letter**) | ~$18K | **~$46K** |
+| Hobart | ~$27K ($41K/yr merit on $68K sticker; renews on 2.0 cumulative GPA + SAP per [HWS public terms](https://www2.hws.edu/admissions/tuition-scholarships-and-aid/merit-based-awards.aspx) — no annual reapplication, fixed amount for 4 years) | ~$18K | **~$46K** |
 | WPI | ~$36K ($27K merit awarded) | ~$19K | **~$55K** |
 | Columbia | ~$70K | ~$13K | **~$83K** |
 | Dartmouth | ~$68K | ~$21K | **~$89K** |

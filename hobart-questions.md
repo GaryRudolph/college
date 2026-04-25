@@ -16,7 +16,7 @@ Each entry includes a 1-line "why it matters," the target contact, and a link ba
 | ------------------------------------------- | ------------------------------------------ | ---------------------- |
 | **Prof. Donald Spector** (`spector@hws.edu`) | HWS engineering / Combined Plan liaison   | [§1](#1-prof-donald-spector--hws-engineering-liaison) (9 items) |
 | Hobart Registrar                            | Transcript, AP posting, goal attributes    | [§2](#2-hobart-registrar) (3 items) |
-| Hobart Financial Aid                        | $41K merit scholarship terms               | [§3](#3-hobart-financial-aid) (3 items) |
+| Hobart Financial Aid                        | $41K merit scholarship terms               | [§3](#3-hobart-financial-aid) (2 open + 1 answered) |
 | Dartmouth Thayer Dual-Degree Director       | 2:1:1:1 mechanics (Option 2b)             | [§4](#4-dartmouth-thayer-dual-degree-director) (3 items) |
 | Columbia Combined Plan liaison              | AP honoring, core waivers (Option 2a)     | [§5](#5-columbia-combined-plan-liaison) (2 items) |
 | Hobart Head Rowing Coach (Chris Kerber)     | Y1 seating, 3:2 eligibility handling      | [§6](#6-hobart-head-rowing-coach-chris-kerber) (2 items) |
@@ -66,9 +66,20 @@ See [`README.md` All-in cost per option](./README.md#all-in-cost-per-option) and
 
 | # | Priority | Question | Why it matters |
 |---|----------|----------|----------------|
-| 3.1 | **P0** | **$41K/yr merit scholarship renewal terms** — GPA minimum, semester cap, any other conditions. Confirm in writing via the offer letter (mentioned as TBD in [`README.md`](./README.md#all-in-cost-per-option)). | Entire Hobart cost model assumes 3–4 years of renewal. If a stricter GPA threshold exists (e.g., 3.5 vs. 3.0), the downside cost risk increases. |
+| 3.1 | **Resolved** | **$41K/yr merit scholarship renewal terms** — GPA minimum, semester cap, any other conditions. Answered via Hobart's public site (see blockquote below); still confirm specifics in the offer letter once it arrives. | Entire Hobart cost model assumes 3–4 years of renewal. If a stricter GPA threshold exists (e.g., 3.5 vs. 3.0), the downside cost risk increases. |
 | 3.2 | **P0** | **Option 2b Y3 exchange-year scholarship handling** — does the Hobart merit scholarship continue during the Dartmouth Y3 exchange, per the Dartmouth page saying "home-institution aid transfers to Dartmouth for the exchange year"? | $41K × 1 = $41K cost difference in the 2b model. If scholarship does not apply, 2b's cost advantage over 2a narrows significantly. |
 | 3.3 | **P0** | **Option 2b Y4 return scholarship renewal** — confirm the merit scholarship renews normally when Jack returns to Hobart-in-residence for Y4 after the Y3 Dartmouth exchange. | Same $41K stake as 3.2. |
+
+> **Answered 2026-04-24 (3.1) — public HWS sources.** Hobart's [Merit-Based Scholarships page](https://www2.hws.edu/admissions/tuition-scholarships-and-aid/merit-based-awards.aspx) and [Financial Aid FAQs](https://www.hws.edu/admissions/tuition-scholarships-and-aid/financial-aid-faqs.aspx) both state the same terms; the [Satisfactory Academic Progress (SAP) page](https://www.hws.edu/admissions/tuition-scholarships-and-aid/loan-center/satisfactory-academic-progress.aspx) spells out the mechanics:
+>
+> - **Renewal GPA: 2.0 cumulative.** This is the federal SAP floor, not a stricter institutional threshold. Direct quote from the merit page: *"These scholarships are good for the time the student is enrolled at HWS as an undergraduate provided the scholarship recipient meets satisfactory academic progress, upholds community standards and maintains a minimum 2.0 cumulative GPA."*
+> - **No annual reapplication.** From the FAQ: *"Merit-based scholarships do not require annual reapplication to be renewed and award amounts remain the same for each of a student's four years at the Colleges."*
+> - **Other conditions:** maintain SAP (2.0 GPA + 67% completion ratio + 150% time-frame max — i.e., must finish within 48 attempted courses for a 32-course BA), full-time enrollment, no academic or social probation. Probation triggers a scholarship eligibility review.
+> - **First miss:** one-semester "Financial Aid Warning" with aid continuing. **Second miss:** suspension, with a hardship-waiver process for death/illness/extenuating circumstances.
+>
+> **Implication for the cost model:** the renewal risk is effectively zero for Jack's expected profile — a 2.0 floor is two full grade points below the 4.0 he's tracking at. The real merit-renewal risk lives at the partner-school transitions (Columbia 3.50, Dartmouth ~3.30, Syracuse 3.20), not at Hobart. The "**renewal terms need offer-letter confirmation**" caveat in [`.cursor/rules/decision-doc-formatting.mdc` §4](./.cursor/rules/decision-doc-formatting.mdc) and in [`README.md`'s cost row](./README.md#all-in-cost-per-option) can be downgraded — still verify the offer letter to be safe, but the public terms make the downside scenario implausible.
+>
+> **3.2 and 3.3 are NOT answered by these pages.** The merit page says the scholarship is good "for the time the student is enrolled at HWS as an undergraduate" — Option 2b's Y3 Dartmouth exchange normally keeps Jack HWS-registered (Thayer's Partner School Dual-Degree page supports this, since Y3 is billed through Hobart), but the financial-aid handling for the exchange year and the Y4-return renewal still need explicit confirmation from HWS Financial Aid.
 
 ---
 
@@ -157,7 +168,7 @@ Path 2g (and secondarily 2e/2f if OCS is a post-MS move).
 
 | Window | Actions |
 |--------|---------|
-| **Spring 2026 (now)** | §1.9 partnership-list confirmation (Spector — sets whether WashU/RPI reactivate from [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md)), §11.1 Jack role-type conversation, §3.1 scholarship offer-letter terms. |
+| **Spring 2026 (now)** | §1.9 partnership-list confirmation (Spector — sets whether WashU/RPI reactivate from [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md)), §11.1 Jack role-type conversation. (§3.1 resolved 2026-04-24 via HWS public sources; §3.2 / §3.3 still need direct Financial Aid confirmation in summer 2026.) |
 | **Summer 2026 (pre-enrollment)** | §2.1 registrar grade-transfer policy, §1.6 FSEM equivalency inquiry, §6.1 + §6.2 coach conversations. |
 | **Mid-July 2026** | Physics C + Micro scores post → schedule Spector meeting covering §1.1, §1.2, §1.3, §1.5. |
 | **August 2026 orientation** | §1.8 term-offering + instructor confirmations for Fall Y1, §2.3 PeopleSoft attribute check. |
