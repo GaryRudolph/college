@@ -43,6 +43,8 @@ The real decision is **where Jack shows up as a freshman.** Everything else — 
 | Rowing ambition (esp. Ivy LW) with engineering upside, done in 5-6 years | **Hobart**      |
 | Engineering-first with lifestyle and *possible* elite row                | **UBC**         |
 
+*[Claude Recommendation: No peeking](./ai-recommendation.md)*
+
 ---
 
 # Reference material
