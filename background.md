@@ -49,7 +49,7 @@ AP Physics 1 and Physics 2 are **algebra-based** and do **not** satisfy Columbia
 
 ## 3. The schools — full profiles
 
-> **Reframing note (April 2026):** This section is the **historical research base** and is preserved as written. The active option set has since narrowed: §3d (WashU McKelvey via 3:3) and §3e (RPI via 3:2) are now parked as unconfirmed HWS partnerships — neither shows up on HWS's 2024–25 Joint Degree Programs catalogue page or on the partner schools' published affiliate lists. They live, with reactivation checklists, in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md) until Prof. Spector confirms or denies them ([`hobart-questions.md` §1.9](./hobart-questions.md#1-prof-donald-spector--hws-engineering-liaison)). §3j (Syracuse 4+2) has been **promoted from "backup-to-the-backup" to a third primary dual-degree / direct-graduate-admission path** alongside Columbia 2a and Dartmouth 2b. Decision-grade summaries live in [`README.md`](./README.md) and [`hobart.md`](./hobart.md); the prose below each affected subsection (3d, 3e, 3j) has been re-headed to flag this status, but the underlying research is otherwise unedited.
+> **Reframing note (April 2026, updated 2026-04-24):** This section is the **historical research base** and is preserved as written. The active option set has since narrowed: §3d (WashU McKelvey via 3:3) and §3e (RPI via 3:2) are now **definitively closed** — Prof. Spector's 2026-04-24 email confirmed "no, there is not a joint degree relationship with Wash U. or Rensselaer." Both paths are archived in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md) as closed (the reactivation pathway has been retired). See the answered-blockquote in [`hobart-questions.md` §1](./hobart-questions.md#1-prof-ileana-dumitriu--hws-engineering-liaison) for the verbatim Spector quote. §3j (Syracuse 4+2) has been **promoted from "backup-to-the-backup" to a third primary dual-degree / direct-graduate-admission path** alongside Columbia 2a and Dartmouth 2b. Decision-grade summaries live in [`README.md`](./README.md) and [`hobart.md`](./hobart.md); the prose below each affected subsection (3d, 3e, 3j) has been re-headed to flag this status, but the underlying research is otherwise unedited.
 
 ### 3a. Hobart and William Smith Colleges (HWS)
 
@@ -72,9 +72,9 @@ AP Physics 1 and Physics 2 are **algebra-based** and do **not** satisfy Columbia
 - **Merit scholarship: $41,000/yr** (~60% off the $68,414 sticker) → **~$27,414/yr net tuition**. Working assumption throughout this document and `README.md`. **Applies only in years Jack is enrolled at Hobart** — the award comes off Hobart's tuition bill, it doesn't follow him to a 3:2 / 3:3 partner school. So it counts 3 years for 2a/2c/2d, 3 years for 2b (Y1/Y2/Y4 at Hobart; Y3/Y5 at Dartmouth), and 4 years for 2e/2f/2g. **Renewal terms still need offer-letter confirmation** — specifically the GPA minimum, semester cap, and how a formal leave of absence for the Dartmouth Y3 interacts with renewal (relevant only for Option 2b).
 - AP credit: Hobart grants credit for AP scores of 4 or 5, maximum 7 course units total.
 
-#### 3:2 liaison at Hobart
+#### Engineering liaison at Hobart
 
-Professor Donald Spector, Physics, `spector@hws.edu`. He coordinates all four 3:2 partner agreements.
+**Prof. Ileana Dumitriu** (`dumitriu@hws.edu`) per Prof. Donald Spector's 2026-04-24 email redirect. Spector (`spector@hws.edu`, physics) was our first contact and answered the two paths-status questions (§1.1, §1.9 in [`hobart-questions.md`](./hobart-questions.md)) before routing further engineering questions to Dumitriu. The "four 3:2 partner agreements" framing in prior versions of this bullet was wrong: Spector's reply confirmed **no WashU or RPI partnerships exist** — the canonical engineering set is Columbia (3:2), Dartmouth (2:1:1:1), and the Syracuse 4+2 direct-MS path. Physics placement (AP Physics C exemption question) routes separately to **Prof. Ted Allen**, physics dept chair (`allen@hws.edu`), via an August-orientation in-person meeting.
 
 ---
 
@@ -180,7 +180,7 @@ Dartmouth's quarter system (10-week terms) with six ENGS courses in year 3 is de
 
 ### 3d. WashU McKelvey (via 3:3)
 
-> **⚠ Status (April 2026): parked as unconfirmed HWS partnership.** HWS's 2024–25 catalogue Joint Degree Programs page lists only Columbia and Dartmouth; WashU McKelvey's affiliate list does not include HWS. The deep research below pre-dates that finding — kept here as the historical research base, but the active option set has dropped 2c. Decision-grade summary + reactivation checklist live in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md). The canonical Spector confirm question is [`hobart-questions.md` §1.9](./hobart-questions.md#1-prof-donald-spector--hws-engineering-liaison).
+> **⚠ Status (updated 2026-04-24): CLOSED — no HWS partnership.** Spector's 2026-04-24 email confirmed no joint-degree relationship exists with WashU. HWS's 2024–25 catalogue Joint Degree Programs page lists only Columbia and Dartmouth; WashU McKelvey's affiliate list does not include HWS. The deep research below pre-dates both findings — kept here as the historical research base, but Path 2c is dropped from the active option set. Closed-path archive lives in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md); verbatim Spector quote in [`hobart-questions.md` §1](./hobart-questions.md#1-prof-ileana-dumitriu--hws-engineering-liaison).
 
 - **Role in Jack's plan (if confirmed):** Fallback partner for 3:3 Dual Degree. **This was modeled as the strongest fallback option** before partnership-status review demoted it.
 - **Degree outcome:** BA from Hobart + **BS + MS** in engineering from WashU McKelvey. Six total years.
@@ -223,7 +223,7 @@ Dartmouth's quarter system (10-week terms) with six ENGS courses in year 3 is de
 
 ### 3e. RPI (via 3:2)
 
-> **⚠ Status (April 2026): parked as unconfirmed HWS partnership.** HWS's 2024–25 catalogue Joint Degree Programs page lists only Columbia and Dartmouth; RPI's known 3+2 partner list does not surface HWS. Deep research below pre-dates that finding. Decision-grade summary + reactivation checklist live in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).
+> **⚠ Status (updated 2026-04-24): CLOSED — no HWS partnership.** Spector's 2026-04-24 email confirmed no joint-degree relationship exists with Rensselaer. HWS's 2024–25 catalogue Joint Degree Programs page lists only Columbia and Dartmouth; RPI's known 3+2 partner list does not surface HWS. Deep research below pre-dates both findings and is kept as the historical research base only. Closed-path archive lives in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md); verbatim Spector quote in [`hobart-questions.md` §1](./hobart-questions.md#1-prof-ileana-dumitriu--hws-engineering-liaison).
 
 - **Role in Jack's plan (if confirmed):** Fallback partner for 3:2. High-probability admit for prepared students.
 - **Degree outcome:** BA from Hobart + BS in engineering from RPI.
@@ -580,7 +580,7 @@ The old plan assumed Jack could redshirt Y4 at Columbia and race both Y4 and Y5 
 
 The old plan assumed ACRA club rowing had informal or enrollment-based eligibility and that Jack could row all 3 grad years at WashU. **The ACRA 2025 Regatta Packet eligibility rules are explicit:** 4 seasons in 5 calendar years from initial full-time enrollment, with "competing for an institution in any one event within the academic year" constituting a used season. Prior IRA competition at Hobart counts. Jack burns 3 of 4 ACRA seasons at Hobart, uses the 4th at WashU in Y4, and is eligibility-exhausted by Y5.
 
-**Combined result: the two active rowing-fit options (2a Columbia, 2b Dartmouth) each deliver 4 total competitive seasons.** What differs is peak level of the final season (Columbia LW vs. Dartmouth LW), credential earned (Columbia SEAS BS vs. Dartmouth Thayer BE), all-in cost (~$304K Columbia / ~$275K Dartmouth — Dartmouth is *cheaper* because only 1 of its 2 Dartmouth years is billed at Dartmouth tuition; the Y3 exchange keeps Hobart's scholarship applied), and admit risk (3.50 vs. ~3.30 gate, both competitive transfer reviews). Neither is "sustained elite rowing across 5–6 years" — the 4-in-5 eligibility clock binds in both cases. The previously-tracked WashU 3:3 (2c) third rowing-fit option is now parked as an unconfirmed HWS partnership; if Spector reactivates it (see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md)), the same eligibility analysis applies — it would still be a 4-total-season path with 1 ACRA year at WashU.
+**Combined result: the two active rowing-fit options (2a Columbia, 2b Dartmouth) each deliver 4 total competitive seasons.** What differs is peak level of the final season (Columbia LW vs. Dartmouth LW), credential earned (Columbia SEAS BS vs. Dartmouth Thayer BE), all-in cost (~$304K Columbia / ~$275K Dartmouth — Dartmouth is *cheaper* because only 1 of its 2 Dartmouth years is billed at Dartmouth tuition; the Y3 exchange keeps Hobart's scholarship applied), and admit risk (3.50 vs. ~3.30 gate, both competitive transfer reviews). Neither is "sustained elite rowing across 5–6 years" — the 4-in-5 eligibility clock binds in both cases. The previously-tracked WashU 3:3 (2c) third rowing-fit option has been **closed** per Spector's 2026-04-24 email (no HWS partnership) — see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md). Even if it had existed, ACRA's 4-in-5 clock would have made it a 4-total-season path with only 1 ACRA year at WashU, not a true rowing expansion.
 
 This does not invalidate any of these paths. Each still provides a real, multi-year competitive rowing experience and a strong engineering credential. But it means the **choice between Ivy paths and WashU 3:3 is not "elite 1-year experience vs. 3 extra years of rowing."** It's a straightforward tradeoff: Ivy credential + higher admit risk + higher cost vs. WashU BS+MS + near-automatic admit + lower cost. Rowing is not a meaningful tiebreaker between them at the total-seasons level.
 
@@ -642,18 +642,18 @@ Housing: Y3 is on-campus in Dartmouth undergraduate housing (so Dartmouth R&B ap
 - **Cheaper than Columbia 3:2 (~$304K) despite the higher sticker at Dartmouth**, because only 1 of the 2 Dartmouth years is billed at Dartmouth tuition — the exchange-year structure routes Y3 through Hobart's scholarship-discounted tuition. Columbia 3:2 has no equivalent arrangement: both Columbia years are billed as full Columbia tuition.
 - *Scholarship renewal caveat:* this assumes Hobart treats the Dartmouth Y3 as an approved exchange/leave and continues the merit scholarship for Y4 when Jack returns. **Confirm with Hobart financial aid before relying on the 2b number.**
 
-### Option 2c: Hobart → WashU 3:3 (6 years) — *parked, unconfirmed partnership*
+### Option 2c: Hobart → WashU 3:3 (6 years) — *closed, no HWS partnership*
 
-> **⚠ Parked April 2026** as unconfirmed HWS partnership — see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md). Cost line below is the historical model; only relevant if Spector reactivates the path.
+> **⚠ CLOSED 2026-04-24** — Spector confirmed no HWS partnership exists. See [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md). Cost line below is the historical model and is retained for reference only; not a live option.
 
 - Hobart (3 years): $46K × 3 = ~$138K
 - WashU grad (3 years, with 50% GAS): $54.5K × 3 = ~$163.5K
 - **Total all-in: ~$302K**
 - Would deliver **BA + BS + MS** in 6 years. Roughly the same total cost as Columbia 3:2 despite adding an extra year and a master's degree, because WashU's per-year cost is materially lower.
 
-### Option 2d: Hobart → RPI 3:2 (5 years) — *parked, unconfirmed partnership*
+### Option 2d: Hobart → RPI 3:2 (5 years) — *closed, no HWS partnership*
 
-> **⚠ Parked April 2026** as unconfirmed HWS partnership — see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md). Cost line below is the historical model; only relevant if Spector reactivates the path.
+> **⚠ CLOSED 2026-04-24** — Spector confirmed no HWS partnership exists. See [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md). Cost line below is the historical model and is retained for reference only; not a live option.
 
 - Hobart (3 years): $46K × 3 = ~$138K
 - RPI (2 years): $83K × 2 = ~$166K
@@ -713,9 +713,9 @@ Housing: Y3 is on-campus in Dartmouth undergraduate housing (so Dartmouth R&B ap
 | 3. UBC | ~$268K (USD) | 4 | BASc Engineering |
 | 2b. Hobart → Dartmouth 2:1:1:1 | ~$275K | 5 | BA + Dartmouth BE |
 | 2e. Hobart → Syracuse ECS 4+2 | ~$289K | 6 | BA + Syracuse MS (no ABET BS) |
-| 2c. Hobart → WashU 3:3 *(parked, unconfirmed)* | ~$302K | 6 | BA + BS + MS Engineering |
+| 2c. Hobart → WashU 3:3 *(closed — no HWS partnership)* | ~$302K | 6 | BA + BS + MS Engineering |
 | 2a. Hobart → Columbia 3:2 | ~$304K | 5 | BA + Columbia BS |
-| 2d. Hobart → RPI 3:2 *(parked, unconfirmed)* | ~$304K | 5 | BA + RPI BS |
+| 2d. Hobart → RPI 3:2 *(closed — no HWS partnership)* | ~$304K | 5 | BA + RPI BS |
 | Add-on. WPI → Ivy (if transfer works) | ~$300K–$370K | 4 | BS Engineering (Ivy) |
 
 ### What's excluded from these numbers (and why it doesn't change the ranking)

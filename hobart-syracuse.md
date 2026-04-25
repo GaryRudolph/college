@@ -32,7 +32,7 @@ Syracuse codifies the prereq path into a single defined bridge course inside the
 Removes admit-risk variance. **Open-market MEng admission is competitive and outcome-uncertain** — particularly with a non-engineering BA where the prereq gap is the main rejection reason. The partnership converts that into:
 
 - 3.2 cumulative Hobart GPA → near-automatic admit
-- Faculty recommendation as part of the gate (Spector or another physics professor's letter has formal weight, not just a side document)
+- Faculty recommendation as part of the gate (Prof. Dumitriu as engineering liaison, Prof. Allen as physics dept chair, or another physics professor — per Spector's 2026-04-24 handoff — carries formal weight, not just a side document)
 - No competitive pool to navigate
 
 Worth real money in expected-value terms in the GPA 3.2–3.4 band, where Jack would be a coin flip elsewhere.
@@ -47,7 +47,7 @@ The Syracuse announcement explicitly uses the word "streamlined." For partner-pr
 
 ### 4. Faculty advocacy via Hobart's pre-engineering channel
 
-Spector (or successor in the engineering-liaison role) is part of the recommendation chain. This is a **known-quantity advocacy channel** rather than asking professors to write to a school they don't have institutional ties to. For a physics BA marketing themselves into an ME MS, this matters — the rec letter can specifically frame the physics-to-engineering bridge in terms the Syracuse coordinator already understands.
+Prof. Dumitriu (engineering liaison, per Spector's 2026-04-24 handoff) or a physics faculty member like Prof. Allen is part of the recommendation chain. This is a **known-quantity advocacy channel** rather than asking professors to write to a school they don't have institutional ties to. For a physics BA marketing themselves into an ME MS, this matters — the rec letter can specifically frame the physics-to-engineering bridge in terms the Syracuse coordinator already understands.
 
 ---
 
@@ -136,7 +136,7 @@ This sequencing means **the partnership becomes the safety net that lets Jack ta
 
 ## Open items
 
-These belong on the [`hobart-questions.md`](./hobart-questions.md) list — added to §1 (Spector) and §X (Syracuse ECS coordinator if/when one is identified).
+These belong on the [`hobart-questions.md`](./hobart-questions.md) list — added to §1 (Prof. Dumitriu, post-Spector handoff) and to a future Syracuse ECS coordinator section if/when one is identified.
 
 | # | Priority | Question | Why it matters |
 |---|---|---|---|

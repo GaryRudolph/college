@@ -1,19 +1,23 @@
-# Hobart paths — unconfirmed partnerships (parking lot)
+# Hobart paths — closed partnerships (historical archive)
 
-*Companion to [`hobart.md`](./hobart.md). The two paths in this file (WashU 3:3 and RPI 3:2) were previously modeled as primary Hobart fallbacks but **HWS does not currently list either as an articulated engineering joint-degree partner**. They live here, parked, until Prof. Spector confirms (or denies) the partnership status — see [§1.9 in `hobart-questions.md`](./hobart-questions.md#1-prof-donald-spector--hws-engineering-liaison) for the canonical question.*
+*Companion to [`hobart.md`](./hobart.md). The two paths in this file (WashU 3:3 and RPI 3:2) were previously modeled as primary Hobart fallbacks but are now **definitively ruled out** per Prof. Donald Spector's 2026-04-24 email reply:*
+
+> "Per your first question: No, there is not a joint degree relationship with Wash U. or Rensselaer."
+
+*Full answered-blockquote in [§1 of `hobart-questions.md`](./hobart-questions.md#1-prof-ileana-dumitriu--hws-engineering-liaison). There is no articulated Hobart → WashU 3:3 and no articulated Hobart → RPI 3:2. The catalogue evidence (catalogue page listing only Columbia + Dartmouth, WashU's affiliated-schools list excluding HWS, no HWS on any RPI 3+2 partner roster) all converged on the same answer Spector confirmed directly.*
+
+*This file is kept as a historical archive of the research done before the paths closed — the cost models, course plans, rowing analysis, and eligibility mechanics may still be useful if Jack ever considers WashU or RPI via standard graduate-transfer admission (competitive, unarticulated). The reactivation-checklist pathway has been retired; neither path can reactivate as a Hobart-articulated partnership under current HWS arrangements.*
 
 The active Hobart path set is therefore: **2a Columbia 3:2, 2b Dartmouth 2:1:1:1, 2e Syracuse ECS 4+2** (dual-degree / direct-graduate-admission), plus **2f Cal State BSME** and **2g OCS → post-service MS** as fallbacks. See [`hobart.md`](./hobart.md) for the active set.
 
 ---
 
-## Why these are parked
+## Why these are closed
 
-| Option | Catalogue evidence | Re-elevation trigger |
+| Option | Catalogue evidence (pre-Spector) | Spector confirmation (2026-04-24) |
 |--------|-------------------|----------------------|
-| **2c — Hobart → WashU 3:3** | HWS's [2024–25 catalogue, Joint Degree Programs → Engineering](https://hws.edu/catalogue/curriculum.aspx) lists only Columbia and Dartmouth. WashU McKelvey's [affiliated-schools list](https://engineering.wustl.edu/academics/dual-degree-program/affiliated-schools.html) **does not include HWS** (Hamilton College — a different Upstate NY LAC — is listed; HWS is not). An older HWS library archive references a historical HWS→WashU 3:2, suggesting a relationship that has since lapsed. | Spector confirms HWS is on McKelvey's affiliate list AND the 3:3 BS+MS structure (vs. 3:2 BS-only) AND the 50% Graduate Affiliation Scholarship still applies. |
-| **2d — Hobart → RPI 3:2** | HWS catalogue lists only Columbia + Dartmouth. RPI's known 3+2 partner LACs (Reed, Skidmore, St. Lawrence) do not include HWS, and no canonical RPI-published affiliate list surfaced in research. | Spector confirms HWS is a current RPI 3+2 partner AND the "near-automatic 3.00 GPA admit" framing applies. |
-
-If Spector confirms either, see [§Reactivation checklist](#reactivation-checklist) below for the docs that need updates.
+| **2c — Hobart → WashU 3:3** | HWS's [2024–25 catalogue, Joint Degree Programs → Engineering](https://hws.edu/catalogue/curriculum.aspx) lists only Columbia and Dartmouth. WashU McKelvey's [affiliated-schools list](https://engineering.wustl.edu/academics/dual-degree-program/affiliated-schools.html) **does not include HWS** (Hamilton College — a different Upstate NY LAC — is listed; HWS is not). An older HWS library archive references a historical HWS→WashU 3:2, suggesting a relationship that has since lapsed. | "No, there is not a joint degree relationship with Wash U." **No current partnership. Closed.** If Jack ever wants WashU McKelvey graduate ME, it's via standard competitive graduate admission — no 50% Graduate Affiliation Scholarship and no articulated 3:3 BS+MS structure. |
+| **2d — Hobart → RPI 3:2** | HWS catalogue lists only Columbia + Dartmouth. RPI's known 3+2 partner LACs (Reed, Skidmore, St. Lawrence) do not include HWS, and no canonical RPI-published affiliate list surfaced in research. | "No, there is not a joint degree relationship with …  Rensselaer." **No current partnership. Closed.** If Jack ever wants RPI engineering, it's via standard competitive transfer admission — no ~3.00-GPA articulated admit and no course-map guarantee. |
 
 ---
 
@@ -57,16 +61,9 @@ If Spector confirms either, see [§Reactivation checklist](#reactivation-checkli
 - **ME electives** (undergrad and grad): MEMS 4410 Vibrations, MEMS 4420 Robotics, MEMS 4500 Control Systems, MEMS 4700 Automotive Engineering — all problem-set / lab / project.
 - **MS electives:** most McKelvey grad ME courses are lecture + problem-set + small project. Pick by career interest (energy systems, robotics, aerospace, biomech) rather than writing-load (all are low-writing).
 
-### Spector + WashU questions to resolve before reactivating
+### WashU questions — retired
 
-| # | Priority | Question | Why |
-|---|----------|----------|-----|
-| C2c-1 | **P0** | **Is HWS currently on WashU McKelvey's articulated affiliate list?** | If "no," entire path collapses to standard transfer with no automatic admit, no GAS scholarship, no articulated 3-3 structure. |
-| C2c-2 | **P0** | **Credential mechanics — BS + MS or BS-only?** McKelvey's [dual-degree page](https://engineering.washu.edu/academics/dual-degree-program/index.html) describes "three years at WashU with 50% tuition" but doesn't clearly delineate. Confirm Y4 = BS junior, Y5 = BS senior, Y6 = MS year (the BS+MS framing). | Without the MS, 2c becomes a 5-year 3:2 BS-only and the cost calculus changes. |
-| C2c-3 | **P1** | **HWS physics major → WashU upper-division-physics requirement** — confirm PHYS 270 + PHYS 285 from HWS satisfy WashU's "1 upper-div physics beyond year sequence." | Otherwise insert an additional physics course at HWS Y3. |
-| C2c-4 | **P1** | **15 SH humanities distribution at WashU** — does the HWS BA credit transfer toward this count? | Reduces non-STEM slots Jack needs at WashU. |
-| C2c-5 | **P1** | **Graduate Affiliation Scholarship 50% discount renewal** — does it apply to all 3 years (Y4 + Y5 undergrad + Y6 MS) or only the MS year? | Cost model assumes all 3. |
-| C2c-6 | **P1** | **ACRA Rule #2 enforcement for transfers with prior IRA competition** — strict, or does the WashU coach have latitude to petition the ACRA eligibility committee (Bob Jaugstetter, Kyle Dowd)? | If strict, gives 1 year of WashU racing (not 3). |
+The pre-Spector-reply question list (C2c-1 through C2c-6) was retired 2026-04-24 when Spector confirmed no WashU partnership exists. C2c-1 ("Is HWS on McKelvey's affiliate list?") is answered "no" — the entire downstream cascade (GAS scholarship, BS+MS credential, physics-prereq articulation, ACRA transfer mechanics) is moot. **If Jack ever pursues WashU graduate ME via standard competitive graduate admission, a fresh question list would be needed — the 3:3 structure no longer gates any of it.**
 
 ---
 
@@ -87,35 +84,14 @@ If Spector confirms either, see [§Reactivation checklist](#reactivation-checkli
 - **No evidence of ACRA or IRA participation** in recent years.
 - **Assessment: recreational-level club, not a competitive rowing environment.** If Jack transfers to RPI, assume rowing effectively ends.
 
-### Spector + RPI questions to resolve before reactivating
+### RPI questions — retired
 
-| # | Priority | Question | Why |
-|---|----------|----------|-----|
-| C2d-1 | **P0** | **Is HWS a current articulated RPI 3+2 partner?** RPI's published affiliate list does not appear to include HWS; HWS catalogue lists Columbia and Dartmouth only. | If "no," 2d collapses to standard transfer (competitive review, no guaranteed course articulation). |
-| C2d-2 | **P1** | **If articulated: is the GPA gate ~3.00 (per legacy LAC partners) or higher?** | Drives admit-risk classification. |
+Same status as WashU above. C2d-1 ("Is HWS an articulated RPI 3+2 partner?") is answered "no" per Spector 2026-04-24; C2d-2 is moot. **Standard competitive transfer to RPI remains theoretically possible if Jack ever wants it — that would be a different research question (transfer admit rate, deficiency-gap analysis for a physics-BA-to-BS-engineering pivot, etc.) and not gated by this file.**
 
 ---
 
-## Reactivation checklist
+## Reactivation checklist — retired
 
-If Spector confirms either partnership, the following docs need updates to re-elevate the path back into the active set:
+Prior versions of this file included a per-doc reactivation checklist to run if Spector confirmed either partnership. **Both partnerships were definitively denied** in Spector's 2026-04-24 email. The checklist is retired; Paths 2c and 2d cannot reactivate as Hobart-articulated partnerships under current HWS arrangements. The cross-doc scrub (`hobart-questions.md`, `README.md`, `hobart.md`, `background.md`, `military.md`, `ap-credits.md`) that accompanied this archive's closure is complete — references to "parked pending Spector" have been updated to "closed per Spector 2026-04-24" across the docs.
 
-### If WashU 3:3 is confirmed
-
-- **[`hobart.md`](./hobart.md)** — re-add Option 2c bullet to "The dual-degree options that also clear the rowing bar" section; re-add row to the BA completion mechanism table; update "eligibility reframing" to note three rowing-fit options instead of two; update the "Apply to Dartmouth sophomore year, then …" portfolio strategy.
-- **[`hobart-plan.md`](./hobart-plan.md)** — re-add Path 2c WashU section (course plan above is the canonical version); re-add Mermaid Hobart-WashU 3:3 lane; update path-agnostic-core "(used by 2a, 2b)" → "(used by 2a, 2b, 2c)"; update Hobart Y3 "(used by 2a only)" → "(used by 2a and 2c)"; re-add WashU row to consolidated low-writing elective picks.
-- **[`README.md`](./README.md)** — re-add 2c row to option set + comparison tables; re-add WashU row to per-year cost baseline; re-add WashU under scholarship-application Options 2a, 2c, 2d.
-- **[`ap-credits.md`](./ap-credits.md)** — re-add WashU McKelvey column to per-school mapping; re-add Path 2c FAQ if relevant.
-- **[`hobart-questions.md`](./hobart-questions.md)** — re-add §5 WashU Dual-Degree Coordinator section (questions C2c-3, C2c-4, C2c-5, C2c-6 above are the canonical list; C2c-1 and C2c-2 are answered by the reactivation itself).
-- **[`background.md`](./background.md)** §3d — remove the parked-status callout.
-
-### If RPI 3:2 is confirmed
-
-- **[`hobart.md`](./hobart.md)** — re-add Option 2d bullet to "The other Hobart forks" section; re-add row to BA completion mechanism table.
-- **[`README.md`](./README.md)** — re-add 2d row to option set + comparison tables; re-add RPI row to per-year cost baseline.
-- **[`hobart-questions.md`](./hobart-questions.md)** — re-add §7 RPI Admissions section.
-- **[`background.md`](./background.md)** §3e — remove the parked-status callout.
-
-### Both
-
-- **[`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md)** (this file) — delete the path's section here, and delete this file entirely if both paths reactivate.
+This file is retained as a research archive: the cost models, course plans, and rowing-eligibility analysis on the (now closed) 2c / 2d paths remain factually correct and may be useful reference for (a) Jack considering WashU or RPI via standard graduate-transfer / transfer admission later, or (b) understanding what Hobart's dual-degree partner landscape looked like before it was validated directly with HWS engineering.

@@ -55,7 +55,7 @@ The real decision is **where Jack shows up as a freshman.** Everything else — 
 
 ## Option set
 
-Primary paths under consideration. Options 2a–2g all start at Hobart and differ at the junior-year fork; see [`hobart.md`](./hobart.md) for detail. Two earlier-tracked Hobart paths (2c WashU 3:3, 2d RPI 3:2) are currently parked as unconfirmed HWS partnerships — research lives in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).
+Primary paths under consideration. Options 2a–2g all start at Hobart and differ at the junior-year fork; see [`hobart.md`](./hobart.md) for detail. Two earlier-tracked Hobart paths (2c WashU 3:3, 2d RPI 3:2) are **closed** per Spector's 2026-04-24 email confirming no such partnerships exist — legacy research is archived in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).
 
 
 | #   | Option                            | One-line description                                                          |
@@ -109,7 +109,7 @@ Costs are **tuition + on-campus room & board**, simplified to the nearest ~$K. B
 | UBC (international, USD) | ~$56K | ~$11K | **~$67K** |
 | SDSU / Cal State (CA resident, on-campus) | ~$9K | ~$20K | **~$29K** |
 
-For per-year cost lines on the parked WashU 3:3 and RPI 3:2 paths, see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).
+For per-year cost lines on the closed-path archive (2c WashU 3:3, 2d RPI 3:2 — ruled out per Spector 2026-04-24), see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).
 
 **Scholarship application by option — the Hobart $41K/yr merit counts in years Jack is registered as a Hobart student (not necessarily years he's physically at Hobart):**
 
@@ -128,7 +128,7 @@ Two eligibility systems apply across Jack's active option set, and **both cap co
   - **Graduate students are ineligible for varsity athletics.** A one-time COVID waiver in 2021–22 was explicitly not renewed. Columbia's 2025–26 LW roster confirms this — no grad students.
   - **No redshirts.** If enrolled during the season, it counts whether he races or not.
 
-(For the parked WashU 3:3 path, ACRA enforces its own written 4-in-5 clock that also counts prior IRA seasons against it — full analysis in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).)
+(For the closed WashU 3:3 path — ruled out per Spector 2026-04-24 — ACRA's written 4-in-5 clock would have bound the rowing outcome even if the partnership existed; full legacy analysis in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).)
 
 **Practical implication for each path:**
 
@@ -163,8 +163,8 @@ Jack has stated a preference against writing-heavy coursework. Engineering curri
 - **[`hobart-plan.md`](./hobart-plan.md)** — Hobart dual-degree paths (2a Columbia 3:2, 2b Dartmouth 2:1:1:1) with a path-agnostic Hobart Y1–Y2 core (also used by 2e/2f/2g for the first 4 years at Hobart).
 - **[`hobart-syracuse.md`](./hobart-syracuse.md)** — Option 2e (Syracuse 4+2) deep-dive: what the partnership uniquely buys vs. an open-market MEng application after a Hobart physics BA, and when 2e is dominated by other targets.
 - **[`hobart-electives.md`](./hobart-electives.md)** — HWS goal-course and free-elective menu with RMP sentiment.
-- **[`hobart-questions.md`](./hobart-questions.md)** — consolidated list of open Hobart-path questions grouped by contact (Spector, registrar, financial aid, partner-school coordinators, coaches) with priority + revisit-date schedule.
-- **[`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md)** — parked deep-dive on WashU 3:3 (2c) and RPI 3:2 (2d), with reactivation checklist if Spector confirms either partnership.
+- **[`hobart-questions.md`](./hobart-questions.md)** — consolidated list of open Hobart-path questions grouped by contact (Dumitriu, Allen, registrar, financial aid, partner-school coordinators, coaches) with priority + revisit-date schedule.
+- **[`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md)** — closed-path archive: deep-dive on WashU 3:3 (2c) and RPI 3:2 (2d), retired after Spector's 2026-04-24 email confirmed neither partnership exists.
 
 ### WPI (Option 1) — Engineering from day 1
 
@@ -200,10 +200,12 @@ Both paths put Jack at Hobart for **3 total years ≈ 24 enrolled courses** (2a:
 
 **Per-semester, either path is ~1 non-STEM course per term** (~25% of that term's load). The FYS is the only strictly writing-intensive requirement; other goal courses can be chosen as reading-heavy rather than writing-heavy (history of technology, philosophy of science, astronomy topics, environmental studies, etc.).
 
-*Items to confirm with Prof. Donald Spector (HWS engineering liaison):*
+*Items to confirm with HWS (per Prof. Spector's 2026-04-24 handoff — Prof. Ileana Dumitriu is the engineering liaison; physics placement routes to Prof. Ted Allen; the Registrar handles transcript / AP-cap mechanics):*
 
-1. **AP credit mapping** — walk through Jack's completed + pending AP exams (see [`ap-credits.md`](./ap-credits.md)) with Spector post-July 2026, specifically on (a) whether AP Physics C (assumed 5/5 on May 2026 exams) buys exemption from PHYS 150/160 (not just credit), (b) Calc BC → MATH 131 count, and (c) the HWS 7-course AP cap with Jack's potential pile of 14 credits.
-2. **Dartmouth Y3 course transfer attributes** — that non-engineering courses taken at Dartmouth in Y3 carry HWS aspirational-goal attributes back onto the HWS transcript.
+1. **AP Physics C exemption from PHYS 150/160** (→ Prof. Ted Allen, physics dept chair, via an **August 2026 in-person placement meeting**). Per Spector's 2026-04-24 reply, the AP test alone does not determine placement; the meeting is where the decision lands. Jack's Physics C (Mech + E&M) scores post mid-July 2026.
+2. **AP Calc BC → MATH 131 count** (→ Prof. Dumitriu or Registrar) — whether BC = MATH 130 + 131 (2 courses) or MATH 131 only (1 course).
+3. **HWS 7-course AP cap + stacking rules** (→ Registrar + Dumitriu) — Jack's potential pile is ~14 credits, capped at 7.
+4. **Dartmouth Y3 course transfer attributes** (→ Prof. Dumitriu) — confirm non-engineering courses taken at Dartmouth Y3 carry HWS aspirational-goal attributes back onto the HWS transcript.
 
 See [`hobart.md`](./hobart.md) for the full per-option detail, including how this interacts with the 2e Syracuse and 2g OCS forks (where Jack is at Hobart for all 4 years, so the full ~5 aspirational-goal course slate lands at Hobart).
 

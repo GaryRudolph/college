@@ -1,6 +1,6 @@
 # Semester-by-semester course plans — Hobart variants
 
-*Companion to [`README.md`](./README.md) and [`hobart.md`](./hobart.md). This file maps every term from matriculation to graduation for Jack's **two Hobart dual-degree paths** (2a Columbia, 2b Dartmouth). The Syracuse 4+2 (2e) is graduate-only — Y1–Y4 at Hobart is the [path-agnostic core + a 4th BA-completion year](#hws-y4-senior-year-finish-the-physics-ba), and the Syracuse MS (Y5–Y6) is direct-admission graduate coursework rather than an articulated Hobart-credit-back undergraduate sequence. Representative courses only — specific IDs and term placements are subject to each school's flight plan, advisor approval, and year-specific catalogue updates. WashU 3:3 and RPI 3:2 are currently parked as unconfirmed HWS partnerships — see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).*
+*Companion to [`README.md`](./README.md) and [`hobart.md`](./hobart.md). This file maps every term from matriculation to graduation for Jack's **two Hobart dual-degree paths** (2a Columbia, 2b Dartmouth). The Syracuse 4+2 (2e) is graduate-only — Y1–Y4 at Hobart is the [path-agnostic core + a 4th BA-completion year](#hws-y4-senior-year-finish-the-physics-ba), and the Syracuse MS (Y5–Y6) is direct-admission graduate coursework rather than an articulated Hobart-credit-back undergraduate sequence. Representative courses only — specific IDs and term placements are subject to each school's flight plan, advisor approval, and year-specific catalogue updates. WashU 3:3 and RPI 3:2 were **closed** per Spector's 2026-04-24 email confirming neither partnership exists — see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md) for the closed-path archive.*
 
 **Companion files:**
 
@@ -116,15 +116,15 @@ Path 2a (Columbia) stays at Hobart through Y3 before transferring to Columbia. P
 
 ---
 
-## ⚠ Items to confirm with Prof. Spector before matriculation
+## ⚠ Items to confirm before matriculation
 
-AP-specific Spector items (physics exemption, Calc BC count, 7-course AP cap) live in [`ap-credits.md`](./ap-credits.md#-items-to-confirm-with-prof-spector-about-ap-credit). Non-AP items below:
+Per Spector's 2026-04-24 email handoff, these now route to **Prof. Ileana Dumitriu** (engineering liaison, `dumitriu@hws.edu`) for items 2–3, and to **Prof. Ted Allen** (physics dept chair, `allen@hws.edu`) for item 1's physics-major side. AP-specific items (physics exemption via the August placement meeting with Prof. Allen, Calc BC count, 7-course AP cap) live in [`ap-credits.md`](./ap-credits.md#-items-to-confirm-about-ap-credit). Non-AP items below:
 
-1. **Physics major auto-covers QR + Scientific Inquiry goals** — verify MATH 130/131 and PHYS 150/160 (or whichever major courses Jack takes) currently carry the Quant Reasoning and Scientific Inquiry attributes in PeopleSoft. If a gap exists, Jack would need one of the free-elective Quant/SInq picks to close it.
-2. **FSEM → Columbia University Writing equivalency** via Combined Plan Course Equivalence Form. If denied, Jack takes a 100-level rhetoric course (WRRH 100) for Columbia only — adds 1 non-STEM course in Path 2a.
-3. **Term offerings + goal attributes for Jack's recommended picks** — re-verify at each registration window that **ANTH 110, DAN 110, PHIL 163**, and the Y1–Y2 Chorale (MUS 930) are (a) actually offered in the proposed semester per [HWS Course Search](https://www.hws.edu/academics/course-search.aspx), (b) still carry the listed goal attribute in PeopleSoft, and (c) are being taught by the instructor whose RMP sentiment informed the easy-A pick (Maiale for ANTH 110, Frost-Arnold for PHIL 163, Lofthouse for the MUS 110 buffer). If any gate fails, fall back to the substitutions in [`hobart-electives.md`](./hobart-electives.md).
+1. **Physics major auto-covers QR + Scientific Inquiry goals** (→ Prof. Allen) — verify MATH 130/131 and PHYS 150/160 (or whichever major courses Jack takes) currently carry the Quant Reasoning and Scientific Inquiry attributes in PeopleSoft. If a gap exists, Jack would need one of the free-elective Quant/SInq picks to close it. (Tracked as [`hobart-questions.md` §1b.2](./hobart-questions.md#1b-prof-ted-allen--hws-physics-department-chair).)
+2. **FSEM → Columbia University Writing equivalency** (→ Prof. Dumitriu) via Combined Plan Course Equivalence Form. If denied, Jack takes a 100-level rhetoric course (WRRH 100) for Columbia only — adds 1 non-STEM course in Path 2a. (Tracked as [`hobart-questions.md` §1.6](./hobart-questions.md#1-prof-ileana-dumitriu--hws-engineering-liaison).)
+3. **Term offerings + goal attributes for Jack's recommended picks** (→ Jack's assigned academic advisor, per registration window) — re-verify at each registration window that **ANTH 110, DAN 110, PHIL 163**, and the Y1–Y2 Chorale (MUS 930) are (a) actually offered in the proposed semester per [HWS Course Search](https://www.hws.edu/academics/course-search.aspx), (b) still carry the listed goal attribute in PeopleSoft, and (c) are being taught by the instructor whose RMP sentiment informed the easy-A pick (Maiale for ANTH 110, Frost-Arnold for PHIL 163, Lofthouse for the MUS 110 buffer). If any gate fails, fall back to the substitutions in [`hobart-electives.md`](./hobart-electives.md).
 
-**⚠ Before locking each term's registration:** not every HWS course runs every semester. Check the [HWS Course Search](https://www.hws.edu/academics/course-search.aspx) for term offerings and re-verify goal attributes in PeopleSoft. The semester assignments above assume all recommended courses are offered in the indicated term — if ANTH 110 isn't running Fall Y2, the whole sequence shifts. Have Prof. Spector review the final sequence at each registration window.
+**⚠ Before locking each term's registration:** not every HWS course runs every semester. Check the [HWS Course Search](https://www.hws.edu/academics/course-search.aspx) for term offerings and re-verify goal attributes in PeopleSoft. The semester assignments above assume all recommended courses are offered in the indicated term — if ANTH 110 isn't running Fall Y2, the whole sequence shifts. Have Jack's assigned academic advisor (or Prof. Dumitriu for engineering-specific routing) review the final sequence at each registration window.
 
 ---
 
@@ -221,10 +221,10 @@ Thayer requires 3–4 courses forming a "concentration." ME-track options (low w
 - **ENGS 168 Optimization**
 - **ENGS 147 Advanced Heat Transfer**
 
-### ⚠ Items to confirm with Dartmouth Thayer + Prof. Spector
+### ⚠ Items to confirm with Dartmouth Thayer + Prof. Dumitriu
 
 1. **AP credit treatment for prereqs** — Thayer's dual-degree page says home-institution AP/IB is honored, but earlier guidance said AP/IB do not count toward prereqs. Clarify: do Jack's AP-transcribed Calc + CS count, or does he need to retake at HWS for a letter grade? **If the latter, Y1–Y2 at HWS shifts significantly** (CPSC 225 moves to CPSC 124 actually taken, additional math slot needed).
-2. **Non-ENGS Y3 course attribute transfer** — confirm with Thayer registrar AND Prof. Spector that MATH 23, PHYS 50, ECON 1, etc. taken at Dartmouth carry HWS goal attributes when transferred back. The 2:1:1:1 cost advantage and the "Y3 absorbs goal courses" narrative both depend on this.
+2. **Non-ENGS Y3 course attribute transfer** — confirm with Thayer registrar AND Prof. Dumitriu (engineering liaison) that MATH 23, PHYS 50, ECON 1, etc. taken at Dartmouth carry HWS goal attributes when transferred back. The 2:1:1:1 cost advantage and the "Y3 absorbs goal courses" narrative both depend on this.
 3. **Y5 writing requirement** — Dartmouth undergrads have a Writing 5 requirement. Dual-degree BE students typically don't take it (they satisfy writing via home-school FSEM). Confirm this still holds for Thayer 2:1:1:1 students in the current handbook.
 4. **ME-track-specific ENGS 24–28 and ENGS 30–37 picks** — the Thayer ME concentration has a specific subset of required + recommended electives; get the current ME track sheet from Thayer academic advising.
 
@@ -234,7 +234,7 @@ See also the [Dartmouth FAQ in `ap-credits.md`](./ap-credits.md#faq-for-the-hoba
 
 ## Consolidated low-writing elective picks (Hobart paths)
 
-Summary table across the 2 Hobart dual-degree paths, grouped by school. For the WPI-side picks, see [`wpi-plan.md`](./wpi-plan.md#wpi-electives--low-writing-picks). For the parked WashU 3:3 elective picks, see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).
+Summary table across the 2 Hobart dual-degree paths, grouped by school. For the WPI-side picks, see [`wpi-plan.md`](./wpi-plan.md#wpi-electives--low-writing-picks). For the closed-path archive's WashU 3:3 elective picks (not a live option per Spector 2026-04-24), see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).
 
 | School                            | Where the slack is                                  | Top picks (low writing, high STEM-adjacency)                                                                                                                                                                                      |
 | --------------------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -255,6 +255,6 @@ Summary table across the 2 Hobart dual-degree paths, grouped by school. For the 
 ## How to use this document
 
 1. **Read your path's section.** Each path section (2a / 2b) references the shared Hobart Y1–Y2 core instead of duplicating, so start there if you want the first two years.
-2. **Flag the ⚠ items** — they're the real questions to ask admitted-student advisers / Prof. Spector before matriculation. AP-specific items live in [`ap-credits.md`](./ap-credits.md).
+2. **Flag the ⚠ items** — they're the real questions to ask admitted-student advisers / Prof. Dumitriu (engineering) / Prof. Allen (physics placement) before matriculation. AP-specific items live in [`ap-credits.md`](./ap-credits.md).
 3. **Adjust electives to taste.** The specific course IDs are representative; schools update flight plans and course catalogs annually. The *bucket structure* (how many STEM / HUM / free slots per semester) is the stable part.
-4. **Re-review in mid-July 2026** once Physics C (Mech + E&M) and Microeconomics scores from May 2026 post. The plan assumes Physics C 5/5 — if that holds, the main remaining conversation is with Prof. Spector about whether AP Physics (1+2 and/or C) buys exemption from PHYS 150/160. If he accepts it, Jack's Y1 gets 2 courses lighter and the rest of the plan decompresses accordingly. If Physics C underperforms, consult [`ap-credits.md`](./ap-credits.md#working-assumption--physics-c-both-score-5-in-may-2026) and [`wpi-plan.md`](./wpi-plan.md) for contingency adjustments.
+4. **Re-review in mid-July 2026** once Physics C (Mech + E&M) and Microeconomics scores from May 2026 post. The plan assumes Physics C 5/5 — if that holds, the main remaining conversation is the **August 2026 in-person Physics Dept. placement meeting with Prof. Allen (or designated faculty)**. Per Spector's 2026-04-24 reply, the AP score alone doesn't grant PHYS 150/160 exemption — placement is decided at that meeting. If the department exempts Jack, his Y1 gets 2 courses lighter and the rest of the plan decompresses accordingly. If Physics C underperforms, consult [`ap-credits.md`](./ap-credits.md#working-assumption--physics-c-both-score-5-in-may-2026) and [`wpi-plan.md`](./wpi-plan.md) for contingency adjustments.

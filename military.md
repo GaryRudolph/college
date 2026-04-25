@@ -46,7 +46,7 @@ Military officer roles sort roughly into four buckets. The best role depends on 
 ### (c) OCS after graduation — any bachelor's degree
 
 - **Unrestricted line (SWO, aviation, NFO, intel, supply):** requires a bachelor's in any field. Physics BA qualifies. Jack would commission as a line officer, 4-year commitment.
-- **Engineering designator (EDO, CEC, Meteorology/Oceanography):** requires ABET-EAC engineering bachelor's. **Physics BA does NOT qualify.** WPI, UBC, and Columbia / Dartmouth engineering BS all qualify. (The parked WashU 3:3 / RPI 3:2 paths would also qualify if reactivated — see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).)
+- **Engineering designator (EDO, CEC, Meteorology/Oceanography):** requires ABET-EAC engineering bachelor's. **Physics BA does NOT qualify.** WPI, UBC, and Columbia / Dartmouth engineering BS all qualify. (The WashU 3:3 / RPI 3:2 paths were closed per Spector 2026-04-24 — no HWS partnership with either — so the qualifying dual-degree credentials are limited to Columbia SEAS BS and Dartmouth Thayer BE; see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md) for the closed-path archive.)
 - **Best fit:** If Jack wants operational leadership (SWO, aviation) or real engineering practice (CEC, EDO) — and has the right degree.
 
 ### (d) Army Direct Commissioning — Engineer Officer (post-grad)

@@ -53,7 +53,7 @@ If the scores come back lower, the plan needs to be revisited. **Contingency sum
 
 ## Per-school mapping
 
-Physics C Mech + E&M assumed 5 (per [working assumption](#working-assumption--physics-c-both-score-5-in-may-2026) above). Microeconomics remains pending (impact is smaller — affects 1 elective slot at WPI / Dartmouth at most). For the parked WashU 3:3 mapping (currently unconfirmed HWS partner), see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md).
+Physics C Mech + E&M assumed 5 (per [working assumption](#working-assumption--physics-c-both-score-5-in-may-2026) above). Microeconomics remains pending (impact is smaller — affects 1 elective slot at WPI / Dartmouth at most). The WashU 3:3 mapping is retired — Spector's 2026-04-24 email confirmed no HWS partnership with WashU; legacy mapping lives in [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md) as a closed archive.
 
 | Exam (score)                   | HWS                                                      | WPI                              | Columbia SEAS                                        | Dartmouth                                   |
 | ------------------------------ | -------------------------------------------------------- | -------------------------------- | ---------------------------------------------------- | ------------------------------------------- |
@@ -83,7 +83,7 @@ For each school where he might enroll, here is the concrete "courses skipped" su
 - **MATH 131 Calculus II** (via Calc BC)
 - **CPSC 124 Introduction to Computer Science** (via CS A 4)
 
-**At Physics Dept. (Spector) discretion — ask in July 2026:**
+**At Physics Dept. discretion — decided at the August 2026 in-person placement meeting (scheduled via Prof. Ted Allen, physics dept chair):**
 
 - **PHYS 150 Intro Physics I** — via Physics C: Mech (strong match — both calc-based); Physics 1 (5) is the fallback if Physics C underperforms
 - **PHYS 160 Intro Physics II** — via Physics C: E&M (same); Physics 2 (5) is the fallback
@@ -93,7 +93,7 @@ For each school where he might enroll, here is the concrete "courses skipped" su
 - US History (4) — 2 credits; does not satisfy any aspirational Educational Goal
 - CS Principles (4) — 2 credits; redundant with CS A
 
-**Cap reminder:** HWS limits total AP-derived credits to 7 course units. See [confirm item 3](#-items-to-confirm-with-prof-spector-about-ap-credit).
+**Cap reminder:** HWS limits total AP-derived credits to 7 course units. See [confirm item 3](#-items-to-confirm-about-ap-credit).
 
 ### WPI (if Jack picks Path 1)
 
@@ -142,11 +142,15 @@ For each school where he might enroll, here is the concrete "courses skipped" su
 
 ---
 
-## Optimistic variant — if Prof. Spector accepts AP Physics for PHYS 150/160
+## Optimistic variant — if HWS Physics Dept. exempts Jack from PHYS 150/160 at the August placement meeting
 
-If HWS Physics Dept. grants **exemption** (not just credit) from PHYS 150 and PHYS 160 on the strength of Jack's calc-based Physics C (assumed 5/5), **PHYS 150 and PHYS 160 drop out of Y1** at Hobart. Jack either pulls MATH 204 Linear Algebra + MATH 237 Diff Eq forward from Y2 into Y1 (compressing his Dartmouth-ready timeline by one semester), or uses the slots for a lighter schedule + an extra low-writing goal course earlier.
+**Mechanism update (2026-04-24):** Spector's email reply confirmed that the AP score alone does NOT determine PHYS 150/160 placement at HWS. Placement happens via an **in-person Physics Dept. meeting with Jack during August 2026 orientation** (scheduled through Prof. Ted Allen, physics dept chair — `allen@hws.edu`). The AP score is an input, not a rule. So the prior framing of "Prof. Spector accepts AP Physics for PHYS 150/160" was mechanically wrong — the decision lives with the physics dept., happens in person, and weighs understanding + background + AP score together.
 
-This is the **single most schedule-shaping question** Jack can resolve in his admitted-student communications with Prof. Spector — ideally in July 2026 when the Physics C scores are in and the conversation can be specific.
+**Outcome if the department exempts Jack from PHYS 150/160** (still a live scenario, just not via an AP-score rule): **PHYS 150 and PHYS 160 drop out of Y1** at Hobart. Jack either pulls MATH 204 Linear Algebra + MATH 237 Diff Eq forward from Y2 into Y1 (compressing his Dartmouth-ready timeline by one semester), or uses the slots for a lighter schedule + an extra low-writing goal course earlier.
+
+**Outcome if the department places Jack into PHYS 150/160** (e.g., fresher exposure, verifying content before letting him skip the year sequence): PHYS 150/160 remain in Y1 Fall/Spring as originally planned — the "default variant" in [`hobart-plan.md`](./hobart-plan.md). No course-count impact at the senior level, but Jack repeats material he's already covered at AP.
+
+This is the **single most schedule-shaping question** for Hobart Y1, still unresolved. The revised answer path: (1) Jack sits the May 2026 Physics C exams; (2) scores post mid-July 2026; (3) Jack emails Prof. Allen to schedule the placement meeting (draft at [`hobart-questions.md` Drafted outreach](./hobart-questions.md#email--prof-allen-covers-1b1-1b2-1b3)); (4) the meeting happens during August 2026 orientation and delivers the decision. Prep guidance for the meeting (what to bring, what to review, precedent for Physics C 5/5) is captured as [`hobart-questions.md` §1b.1](./hobart-questions.md#1b-prof-ted-allen--hws-physics-department-chair).
 
 ---
 
@@ -156,14 +160,16 @@ Per the 2024–25 catalogue, **credit-by-exam (including AP) cannot satisfy the 
 
 ---
 
-## ⚠ Items to confirm with Prof. Spector about AP credit
+## ⚠ Items to confirm about AP credit
 
-1. **AP Physics → PHYS 150/160 equivalence** — HWS's Physics Dept. has discretion over Physics 1, Physics 2, Physics C: Mech, and Physics C: E&M. Jack will have both sets of scores by July 2026. Ask Spector (ideally post-July once Physics C results post) whether he'll grant (a) pure credit only, (b) credit + prereq exemption (i.e., skip PHYS 150/160), or (c) neither. Calc-based Physics C is a good match for HWS's calc-based PHYS 150/160 sequence, which strengthens the exemption case. **Single most schedule-shaping question.** If yes, see [Optimistic variant](#optimistic-variant--if-prof-spector-accepts-ap-physics-for-phys-150160) above.
-2. **AP Calc BC credit count** — HWS catalogue phrasing is ambiguous ("2 courses, equiv. MATH 131"). Confirm whether BC gives MATH 130 + 131 combined (2 courses) or MATH 131 only (1 course).
-3. **7-course AP cap + AP stacking rules** — HWS caps AP contribution at 7 course units. Potential pile: BC (2) + CS A (1) + CS Principles (2) + US History (2) + Physics 1 (2) + Physics 2 (2) + Micro (1 if ≥ 4) + Physics C Mech (1 if ≥ 4) + Physics C E&M (1 if ≥ 4) = up to 14. Confirm with the registrar (a) whether Physics 1/2 and Physics C stack or only one set counts, (b) whether CS Principles stacks with CS A (usually not), and (c) which 7 get prioritized if over the cap. Ideal priority: BC → 2, CS A → 1, Physics C Mech → 1, Physics C E&M → 1, Physics 1 → 2 = 7 (keeps strongest STEM bookkeeping; US History and CS Principles drop off the AP count but still land as general electives).
-4. **Does the 32-course HWS BA total count AP credits?** Relevant for paths 2e / 2f / 2g where Jack self-completes the BA at Hobart across 4 years (see [BA completion mechanism table in `hobart.md`](./hobart.md#how-the-hobart-ba-closes-across-paths)). If the 32-course total includes AP-credited courses, Jack's AP pile (up to 7 course units) reduces his remaining Y4 course load below the default ~8 and may allow a 3-course-per-term Y4 instead of 4. Confirm the counting rule before planning Y4 load.
+Per Spector's 2026-04-24 handoff, these now route to different HWS contacts:
 
-Non-AP Spector confirm items (FSEM equivalency, goal attribute verification, term-offering checks) live in [`hobart-plan.md`](./hobart-plan.md#-items-to-confirm-with-prof-spector-before-matriculation).
+1. **AP Physics → PHYS 150/160 equivalence** (→ **Prof. Ted Allen**, physics dept chair, `allen@hws.edu`) — Spector's 2026-04-24 reply confirmed the AP test alone does not determine placement; the department meets with Jack in person once he's on campus. Jack's Physics C scores post mid-July 2026; the placement meeting happens during August 2026 orientation. Desired outcome: exemption from PHYS 150/160 (skip both), letting Jack start with PHYS 270 / 285 in Y1. Likely outcome: TBD until the meeting. Calc-based Physics C is a good match for HWS's calc-based PHYS 150/160 sequence, which strengthens the exemption case but does not guarantee it. **Still the single most schedule-shaping question** for Y1. Tracked as [`hobart-questions.md` §1b.1](./hobart-questions.md#1b-prof-ted-allen--hws-physics-department-chair). If exempted, see [Optimistic variant](#optimistic-variant--if-hws-physics-dept-exempts-jack-from-phys-150160-at-the-august-placement-meeting) above.
+2. **AP Calc BC credit count** (→ **Prof. Ileana Dumitriu**, engineering liaison, `dumitriu@hws.edu`, or Registrar) — HWS catalogue phrasing is ambiguous ("2 courses, equiv. MATH 131"). Confirm whether BC gives MATH 130 + 131 combined (2 courses) or MATH 131 only (1 course). Tracked as [`hobart-questions.md` §1.2](./hobart-questions.md#1-prof-ileana-dumitriu--hws-engineering-liaison).
+3. **7-course AP cap + AP stacking rules** (→ Hobart Registrar + Prof. Dumitriu) — HWS caps AP contribution at 7 course units. Potential pile: BC (2) + CS A (1) + CS Principles (2) + US History (2) + Physics 1 (2) + Physics 2 (2) + Micro (1 if ≥ 4) + Physics C Mech (1 if ≥ 4) + Physics C E&M (1 if ≥ 4) = up to 14. Confirm (a) whether Physics 1/2 and Physics C stack or only one set counts, (b) whether CS Principles stacks with CS A (usually not), and (c) which 7 get prioritized if over the cap. Ideal priority: BC → 2, CS A → 1, Physics C Mech → 1, Physics C E&M → 1, Physics 1 → 2 = 7 (keeps strongest STEM bookkeeping; US History and CS Principles drop off the AP count but still land as general electives). Tracked as [`hobart-questions.md` §1.3 / §2.2](./hobart-questions.md).
+4. **Does the 32-course HWS BA total count AP credits?** (→ Hobart Registrar) — Relevant for paths 2e / 2f / 2g where Jack self-completes the BA at Hobart across 4 years (see [BA completion mechanism table in `hobart.md`](./hobart.md#how-the-hobart-ba-closes-across-paths)). If the 32-course total includes AP-credited courses, Jack's AP pile (up to 7 course units) reduces his remaining Y4 course load below the default ~8 and may allow a 3-course-per-term Y4 instead of 4. Confirm the counting rule before planning Y4 load. Tracked as [`hobart-questions.md` §1.4](./hobart-questions.md).
+
+Non-AP confirm items (FSEM equivalency, goal attribute verification, term-offering checks) live in [`hobart-plan.md`](./hobart-plan.md#-items-to-confirm-before-matriculation).
 
 ---
 
@@ -171,7 +177,8 @@ Non-AP Spector confirm items (FSEM equivalency, goal attribute verification, ter
 
 - **Mid-July 2026** — Physics C + Micro scores post. Confirm:
   - Physics C Mech + E&M both ≥ 4 (working assumption). If either is < 4, re-open the WPI term layout ([`wpi-plan.md`](./wpi-plan.md)) and the HWS Y1 physics question — per the [contingency summary](#working-assumption--physics-c-both-score-5-in-may-2026) above.
-  - HWS physics exemption conversation with Spector (ideal timing — actual Physics C scores in hand).
+  - Send the **Prof. Allen email** (draft at [`hobart-questions.md` Drafted outreach](./hobart-questions.md#email--prof-allen-covers-1b1-1b2-1b3)) to schedule the August placement meeting.
+  - Send the **Prof. Dumitriu email** covering AP Calc BC count and engineering-specific items.
   - AP-cap priority if HWS registrar flags > 7 credits.
 - **August 2026 orientation (if WPI)** — confirm each AP → WPI-course appears correctly on the transcript.
-- **August 2026 orientation (if HWS)** — submit AP score report + Physics Dept. placement conversation.
+- **August 2026 orientation (if HWS)** — submit AP score report + **attend the Physics Dept. placement meeting** with Prof. Allen or designated faculty. This is where the PHYS 150/160 exemption question gets answered; bring AP score report, prep per [`hobart-questions.md` §1b.1](./hobart-questions.md#1b-prof-ted-allen--hws-physics-department-chair).
