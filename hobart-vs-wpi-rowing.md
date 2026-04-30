@@ -1,25 +1,25 @@
 # Hobart vs. WPI — Men's Rowing Side-by-Side
 
-*Companion to [`README.md`](./README.md). Focused comparison of the two starting-school choices on the rowing-culture-fit dimension only — engineering, cost, eligibility, and curriculum live in `README.md`. Synthesis as of April 24, 2026; refresh after NEWMAC (Apr 25), Liberty League (May 1), and IRA D3 at Lake Natoma (May 29–31).*
+*Companion to [`README.md`](./README.md). Focused comparison of the two starting-school choices on the rowing-culture-fit dimension only — engineering, cost, eligibility, and curriculum live in `README.md`. Synthesis as of April 29, 2026 (post-McCarthy/McGee Cup, post-Week 4 IRCA polls). Next refresh after New England Championships (May 2, Lake Quinsigamond — WPI's primary at-large résumé event for IRA D3), Dad Vail (May 8–9 — Hobart's primary AQ shot at IRA D1 V8), and IRA at Lake Natoma (May 29–31). Hobart men's is **not entered** in Liberty League Championships May 1 (per the [HWS 2025–26 schedule](https://hwsathletics.com/sports/mens-crew/schedule/2025-26)) — confirms the championship-season focus is now Dad Vail → IRA D1 at-large, not LL title defense.*
 
 ---
 
 ## TL;DR
 
 - **Rosters are essentially the same size:** WPI 45, Hobart 44. The numerical differences (boats, depth) wash.
-- **2026 form: Hobart's 1V is probably faster in raw 2K boat speed than WPI's 1V**, by something less than the 7.7s the Marietta-transitive math suggests (WPI raced into a headwind, Hobart had a tailwind). Different competition tiers — Hobart races up to D1/D2 (#21), WPI is upper-tier D3 (#10).
+- **2026 form (post-Apr 25 update): WPI is the trending-up boat right now.** WPI **won the McCarthy/McGee Cup Apr 25** — V8 1st (6:15.80) over **#11 Coast Guard** (+4.2s) and Boston College (+0.56s); plus 1st in 3V8 and V4 A. That's a real signature D3 V8 win over the only ranked boat in the field, materially strengthening WPI's IRA D3 at-large case. WPI **holds #10 D3 V8** (Wk 4 Apr 29 IRCA poll). Hobart's 1V on the older Marietta-transitive math is still likely faster on raw boat speed, but Hobart **fell out of the D1/D2 V8 top 25** in the Wk 4 poll (and isn't even receiving votes) after a quiet Apr 19–28 — the V8 has not landed a signature D1 win in 2026. Hobart's only currently-ranked boats are the **3V8 (#22 D1/D2)** and **2V8 (#25 D1/D2)**.
 - **Coaching is a genuine split, not a tilt.** WPI = depth + stability (Larry Noble in 25th season; 7 total coaches). Hobart = elite credentials at the top (Chris Kerber: 4× IRA National Champion + 4× IRA Coach of the Year at Cornell men's LW, 1993 World Championship gold) entering **Year 3** of a deliberate elevation, with previous HC Bugenhagen still on staff as HWS Director of Rowing. Different bets, both serious.
 - **Class shape is opposite, but explained.** WPI is freshman-heavy (23 of 45) — recruiting surge under stable coaching. Hobart is senior-heavy (14) with a thin JR class (3) — that JR class **is Kerber's first recruiting cycle**, small by design. Strong SO class (13) is his 2nd cycle. Jack would arrive as Kerber's **4th recruiting class**.
-- **Momentum:** Both upward, different shapes. WPI = organic rise, building from a wide freshman base under 25 years of HC continuity. Hobart = Year 3 of elite-coach-led elevation; this season's Liberty League May 1 + IRA D3 May 29–31 are the first measuring sticks of the Kerber era.
-- **Culture:** WPI = engineer-school, D3-focused, technical/measured tone, rising program. Hobart = small-LAC, race-up-or-die ethos, dynastic tradition (3× IRA champs '93/'94/'03, 2× Henley '11/'15), Faculty-Athletic Fellow program.
-- **Direct comparison opportunity:** IRA D3 Championship at Lake Natoma, **May 29–31, 2-hour flight from Bay Area**. If both make the field, that's the cleanest head-to-head of the year on the same water in the same conditions.
+- **Momentum:** Both upward, different shapes. WPI = organic rise, building from a wide freshman base under 25 years of HC continuity. Hobart = Year 3 of elite-coach-led elevation; this season's Dad Vail May 8–9 + IRA May 29–31 are the first measuring sticks of the Kerber era (the older "Liberty League title defense" framing is stale — that 16-streak ended in 2022 and the program's championship-season focus has moved to D1 IRA at-large via Dad Vail).
+- **Culture:** WPI = engineer-school, D3-focused, technical/measured tone, rising program. Hobart = small-LAC, race-up-or-die ethos, real but specific national pedigree (3× IRA small-boat medalists — coxless pair '93/'94, novice 4 '03 — never an IRA V8 final; 2× Henley '11/'15; 16-straight Liberty League titles through 2022), Faculty-Athletic Fellow program.
+- **In-person viewing opportunity (not a head-to-head):** IRA at Lake Natoma, **May 29–31, 2-hour flight from Bay Area**. If both qualify, WPI races D3 V8, Hobart most likely races HWT V4+ (and possibly HWT V8 via Dad Vail) — different events, same regatta. See [IRA event landscape](#ira-event-landscape--what-each-program-can-realistically-enter-2026).
 - **What this doesn't change:** the 4-in-5 IRA eligibility cap, the Ivy grad-student bar, and the practical "1 year of Ivy LW" outcome on 2a/2b all stand. See [eligibility note in `README.md`](./README.md#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing).
 
 ---
 
 ## Season form (Spring 2026)
 
-### WPI Engineers — IRCA D3 #10
+### WPI Engineers — IRCA D3 #10 (Wk 4 Apr 29; held)
 
 | Date | Regatta | V8 Result | Notes |
 |---|---|---|---|
@@ -27,10 +27,11 @@
 | Apr 11 | James Donahue Cup | 3rd (6:03.71) | Behind D1 MIT (5:44.60), #3 Williams (5:45.16); ahead of #13 Washington College, Conn College |
 | Apr 18 | Home Regatta #3 | — | — |
 | Apr 19 | Baker Cup | 4th (6:17.13) | Behind #3 Tufts (5:59.90), #2 Williams (6:02.46), #6 Marietta (6:11.93). Dead calm → slight headwind |
+| **Apr 25** | **McCarthy/McGee Cup (home, Lake Quinsigamond)** | **1st (6:15.80) — won the Cup** | Beat **#11 Coast Guard (6:20.00, +4.2s)**, Boston College (6:20.56, +0.56s), Conn College (6:40.14), UMass (6:58.23). Also: 3V8 1st (6:40.84), V4 A 1st (7:26.63), 2V8 2nd (1.61s behind Coast Guard). 7th McCarthy/McGee win for WPI of 10 contested. |
 
-**Read:** Holding own against the top of D3 — close enough to ranked Williams/Tufts to have a credible IRA D3 at-large case if NEWMAC doesn't deliver the auto-bid. The 2025 form ("not selected to IRA D3, 2nd in V8 3rd-level final at NIRC") is now stale — 2026 looks materially stronger.
+**Read (post-Apr 25):** WPI's first signature 2026 V8 win — beat the only ranked boat in the field (#11 Coast Guard) and held off Boston College by 0.56s. This is exactly the data point the IRA D3 at-large committee weights. (NEWMAC sponsors only women's rowing; WPI men have **no conference auto-bid path** — the New England Championships on **May 2** at Lake Quinsigamond are the primary remaining résumé event before the IRA D3 at-large committee meets.) The 2025 form ("not selected to IRA D3, 2nd in V8 3rd-level final at NIRC") is now decisively stale; 2026 IRA D3 selection probability has stepped up from "credible at-large case" to "expected to be in the field."
 
-### Hobart Statesmen — IRCA D1/D2 #21 (no D3 poll appearance — race up)
+### Hobart Statesmen — IRCA D1/D2 V8 unranked (Wk 4 Apr 29); 3V8 #22, 2V8 #25 D1/D2; no D3 poll appearance — race up
 
 | Date | Regatta | V8 Result | Notes |
 |---|---|---|---|
@@ -38,8 +39,9 @@
 | Apr 4 | Carnegie Lake (Princeton) | 2nd (5:55.7) | 9 sec behind #4 Dartmouth (open water); 4 sec ahead of #18 Georgetown; cross-headwind |
 | Apr 12 | Occoquan Invitational | 2nd heat / 4th GF (5:47.9 / 5:39.7) | Heat: 2nd to St. Joe's, ahead of Marietta & Loyola. Grand final: led to 1,200m before rough water; lost to Marist by 1 seat |
 | Apr 18 | Holy Cross Invitational (Lake Quinsigamond) | 4th (5:54.69) | Behind #17 Temple, #23 Marist, #21 Holy Cross. Coxswain noted need for stronger first 1,000m |
+| Apr 19–May 7 | (no racing — 3-week rest before Dad Vail) | — | Per [HWS schedule](https://hwsathletics.com/sports/mens-crew/schedule/2025-26): no Liberty League Championships entry; next race is Dad Vail May 8–9 |
 
-**Read:** 1V is mid-pack in the D1/D2 universe — competitive against Marist, Holy Cross, Temple, Georgetown — but no signature win yet in 2026. The 3V is the standout boat (1st at Occoquan, 2nd at Holy Cross). Trending up into championship season; 14 straight Liberty League titles on the line May 1.
+**Read (post-Wk 4 poll Apr 29):** Hobart's V8 has slipped — went from "receiving votes (10 pts)" in Wk 2 → ranked #25 in Wk 3 → **fell off the D1/D2 V8 top 25 entirely and isn't even receiving votes** in Wk 4. No signature D1 win in 2026 and a 3-week rest period without racing has kept the V8 stationary while the rest of the D1/D2 field reshuffled around them. The strength is in the **lower boats**: 3V8 ranked **#22 D1/D2** (ahead of Oregon State, Santa Clara, Marist) — that's a real top-25 ranking and consistent with the Apr 12 Occoquan / Apr 18 Holy Cross 3V results. 2V8 also broke into the rankings at #25. Whole-program trajectory is up; the V8 specifically is the boat that needs the Dad Vail / IRA result to land. The "16 consecutive Liberty League titles" run ended in 2022; Ithaca won LL men's in 2024 and 2025, and Hobart isn't entered May 1 — championship-season focus is now Dad Vail (May 8–9) → IRA D1 at-large.
 
 ---
 
@@ -125,8 +127,8 @@ His expertise is **D1 lightweight**, not D3 heavyweight — so he's rebuilding c
 
 #### What this signals about Hobart as an institution
 
-- Hiring Kerber in 2023 was a deliberate program-elevation move. Hobart's IRA national titles ('93/'94/'03) are 23 years dormant; Kerber is the kind of hire you make when you want to revive the pedigree.
-- Promoting Bugenhagen rather than letting him leave preserved the institutional knowledge that built the 14-straight Liberty League run.
+- Hiring Kerber in 2023 was a deliberate program-elevation move. Hobart has never made an IRA V8 final — the IRA medals on the program wall ('93/'94 coxless pair, '03 novice 4) are real and impressive small-boat results from a unified IRA, but they are not V8 program championships. Kerber is the kind of hire you make when you want to **build** an IRA-finalist V8, not "revive" one that didn't exist.
+- Promoting Bugenhagen rather than letting him leave preserved the institutional knowledge that built the 16-straight Liberty League title run (through 2022; the streak ended when Ithaca won the LL men's championship in 2024 and 2025, with Hobart's championship-season focus shifting to Dad Vail / IRA D1 at-large).
 - The Sept 2025 Kumagai hire (alum + Olympic Trials competitor) is alignment-and-elevation, not maintenance.
 
 #### What this signals about timing for Jack
@@ -151,12 +153,12 @@ By the time Jack would be racing varsity (his SO–SR years, 2027–30), the ent
 | Dimension | WPI | Hobart |
 |---|---|---|
 | School type | STEM-focused engineering institution; rowing roster majors lean ME, Robotics, Aero, CS, Civil, Data Science | Small liberal arts college (~700 men in Hobart proper, paired with William Smith); rowing roster majors lean Psych, Econ, Bio, Architectural Studies |
-| Conference | NEWMAC (D3-only path) | Liberty League (D3 baseline) — but rowing competes UP into D1/D2 |
-| Poll context | IRCA D3 (#10) | IRCA D1/D2 (#21) — no D3 poll appearance |
+| Conference | NEWMAC member, but **NEWMAC sponsors women's rowing only** — men have no conference championship; season-end home regatta is McCarthy/McGee Cup (Apr 25), then New England Championships (May 2) | Liberty League (D3 baseline) — but rowing competes UP into D1/D2 |
+| Poll context | IRCA D3 #10 V8 (Wk 4 Apr 29) | IRCA D1/D2: V8 unranked, 3V8 #22, 2V8 #25 (Wk 4 Apr 29); no D3 poll appearance |
 | Home water | Lake Quinsigamond, Donahue Rowing Center (shared with Holy Cross, Clark, visiting NESCAC) | Seneca Lake, Geneva NY (Finger Lakes) |
-| Championship target | IRA D3 (introduced 2022) | IRA D3 + Dad Vail + historically ECAC/NIRC; routinely faces D1 fields |
-| Tradition | Rising program, recent IRA D3 selections | Storied: 3× IRA champions ('93/'94/'03), ECAC/NIRC champs '14/'17/'19, Henley Royal Regatta '11/'15 |
-| Cultural signature | Engineer-pragmatic; "places crews in finals" | "Roll Bart" / "Statesmen gonna state"; 15-straight Statesmen Trophy vs. Ithaca; 14-straight Liberty League titles |
+| Championship target | IRA D3 at-large (no auto-bid path; introduced 2022) | Dad Vail → IRA D1 V8 at-large + IRA HWT V4+ open entry; historically also ECAC/NIRC; routinely faces D1 fields |
+| Tradition | Rising program, recent IRA D3 selections | Specific national pedigree: 3× IRA **small-boat** medalists (coxless pair '93/'94, novice 4 '03 — these events no longer contested at IRA; never an IRA V8 final), ECAC/NIRC champs '14/'17/'19, Henley Royal Regatta '11/'15 |
+| Cultural signature | Engineer-pragmatic; "places crews in finals" | "Roll Bart" / "Statesmen gonna state"; 15-straight Statesmen Trophy vs. Ithaca; 16-straight Liberty League titles (through 2022; streak ended Ithaca '24/'25) |
 | Recap voice | Measured, technical, engineer-dry | Rallying-cry, identity-forward |
 | Roster geography | Northeast tilt (MA/RI/NH/ME/CT/VT) with some national reach | National reach typical of Hobart admissions |
 | Faculty integration | Standard | Formal Faculty-Athletic Fellows program — deliberate academic-athletic linkage |
@@ -169,14 +171,14 @@ This is the dimension that doesn't show up in any single-season ranking but matt
 
 ### WPI — rising, building from base
 
-- **Boat speed trajectory:** climbed into IRCA D3 top 10 in 2026 from outside IRA D3 selection in 2025. Racing within ~6s of #6 Marietta and competitive with #2 Williams / #3 Tufts in late season suggests the program is on the upswing.
+- **Boat speed trajectory:** climbed into IRCA D3 top 10 in 2026 from outside IRA D3 selection in 2025. Racing within ~6s of #6 Marietta and competitive with #2 Williams / #3 Tufts mid-season, then **beat #11 Coast Guard and Boston College Apr 25 to win the McCarthy/McGee Cup** — the first signature 2026 V8 win and a real boost to the IRA D3 at-large case. Held #10 D3 V8 in Wk 4 IRCA poll.
 - **Roster trajectory:** 23 freshmen this year is a massive recruiting surge. That class will be sophomores when Jack arrives, juniors his sophomore year, and seniors his junior year. **Jack's likely peak-team experience is 2028–30** — the back half of his career — when the current FY class is upperclass and his own class has matured.
 - **Coaching trajectory:** Larry Noble in his 25th season is the opposite of a transition risk. Continuity at the top means Jack's freshman-year coach is likely his senior-year coach.
 - **Net:** **Up and to the right.** Lower variance, more predictable arc.
 
 ### Hobart — Year 3 of a deliberate elevation under elite coaching
 
-- **Boat speed trajectory:** #21 D1/D2 in 2026 with 14-straight Liberty League titles in play and a strong 3V — floor is solid, no signature D1 win yet in 2026. Dynastic tradition is real (Henley '11/'15, IRA '93/'94/'03) but the most recent IRA title is 23 years old. The 2026 season is **the first measuring stick of the Kerber era** — Liberty League May 1 and IRA D3 May 29–31 will set the baseline.
+- **Boat speed trajectory:** mixed picture as of Wk 4 (Apr 29). The V8 has slipped from "receiving votes" → ranked #25 D1/D2 → **off the D1/D2 V8 top 25 entirely (not even receiving votes)** without a signature D1 win in 2026 and with no racing Apr 19–May 7. The lower boats are the strength: **3V8 ranked #22 D1/D2** (consistent with the Apr 12 Occoquan / Apr 18 Holy Cross 3V wins) and **2V8 #25 D1/D2**. National-stage pedigree is real but specific (Henley '11/'15; IRA small-boat medals '93/'94/'03 — coxless pair and novice 4; the program has never made an IRA V8 final). Kerber's mission is therefore **build, not restore**: an IRA-finalist V8 would be new ground for Hobart. The 2026 season is **the first measuring stick of the Kerber era** — Dad Vail (May 8–9) and IRA at Lake Natoma (May 29–31) will set the baseline.
 - **Roster trajectory — re-read in Kerber recruiting-cycle terms:**
   - Thin JR class (3) = Kerber's Y1 recruiting class (small by design — a HC's first cycle is always undersized because most commitments are already locked in).
   - Strong SO class (13) = Kerber's Y2 cycle.
@@ -184,7 +186,7 @@ This is the dimension that doesn't show up in any single-season ranking but matt
   - Jack's class (Fall 2026) = Kerber's Y4 cycle — the first cohort recruited in a program with 3 prior Kerber-recruited classes already in the boats.
 - **Coaching trajectory:** Kerber's expertise (D1 LW championship-level) is being applied in a new context (D3 HW). Year 3 is when the system, the roster, and the recruiting wheelhouse should start producing championship results. By Jack's mid-career (Y2–Y3, 2027–29), Kerber will be entering Years 5–7 — the back half of a typical D1 HC tenure where peak results land. By his SR year (2029–30), Kerber would be in Year 7 with the entire roster Kerber-recruited.
 - **Institutional continuity:** Bugenhagen still on staff as HWS Director of Rowing — the previous coach who built the recent national-scene presence is **supporting** the new regime, not displaced by it. That's a structurally smooth handoff.
-- **Net:** **Up, with the variance front-loaded onto 2026 results.** Once we see Liberty League (May 1) and IRA D3 (May 29–31), the variance compresses. Even a mid-pack May 29–31 finish is consistent with the Y3-of-elevation narrative; a podium would accelerate it.
+- **Net:** **Up, with the variance front-loaded onto 2026 results.** Once we see Dad Vail (May 8–9) and IRA (May 29–31), the variance compresses. Even a mid-pack May 29–31 finish (or a strong Dad Vail showing without an IRA D1 V8 selection) is consistent with the Y3-of-elevation narrative; an IRA V8 selection or a HWT V4+ podium would accelerate it.
 
 ### Match to Jack's career window
 
@@ -205,27 +207,61 @@ The handoff data refines but doesn't rewrite the rowing-culture-fit picture:
 
 - **Both programs are serious rowing environments on positive trajectories.** Either is a viable answer to Jack's "real rowing culture, B/C boat at a serious program is fine" criterion.
 - **WPI is the depth + stability bet** — large peer cohort, deep coaching staff, 25-year HC tenure, predictable arc. Lower variance.
-- **Hobart is the elite-ceiling bet** — Kerber's resume (4× IRA national champion, World Championship gold) is rare at the D3 level, and 2026 is the first season where his roster, recruits, and championship instincts align. Higher ceiling, with the variance largely resolving on Liberty League May 1 + IRA D3 May 29–31.
-- **Hobart's 1V is faster in 2026 raw boat speed** (likely, with caveats), and the program races at a higher tier (D1/D2 #21) — so the rowing ceiling at Hobart is materially higher even at the base school, before any Ivy LW year on 2a/2b.
+- **Hobart is the elite-ceiling bet** — Kerber's resume (4× IRA national champion, World Championship gold) is rare at the D3 level, and 2026 is the first season where his roster, recruits, and championship instincts align. Higher ceiling, with the variance largely resolving on Dad Vail May 8–9 + IRA May 29–31.
+- **Hobart's 1V is likely faster in 2026 raw boat speed** (with caveats — the Marietta-transitive math still tilts that way), and the program races in the D1/D2 universe — so the structural rowing ceiling at Hobart is higher than WPI's even at the base school, before any Ivy LW year on 2a/2b. **But** post-Wk 4 (Apr 29) the Hobart V8 is unranked in D1/D2 and the WPI V8 just landed a signature ranked win, so the gap on actual 2026 V8 boat speed is narrower than the structural-tier framing suggests. Hobart's lower-boat strength (3V8 #22, 2V8 #25 D1/D2) is the more durable 2026 ranking signal.
 - **The 1-year Ivy LW arithmetic is unchanged.** 2a delivers 1 year of Columbia LW (Y4); 2b delivers 1 year of Dartmouth LW (Y3). The handoffs don't move that. See the [eligibility note in `README.md`](./README.md#critical-eligibility-note-why-the-5--and-6-year-paths-do-not-mean-56-years-of-racing).
 
-**For 2a/2b specifically:** Hobart's #21 D1/D2 base years under elite coaching are competitive racing in their own right — those years aren't a holding pattern before Columbia/Dartmouth. That strengthens the Hobart Ivy fork pitch beyond what the README currently implies.
+**For 2a/2b specifically:** Hobart's D1/D2-tier base years under elite coaching are competitive racing in their own right — those years aren't a holding pattern before Columbia/Dartmouth. The 2026 V8 ranking has slipped, but the program races against #4 Dartmouth, #11 BU, #16 Temple, #20 Holy Cross, #21 Marist, etc. — that's a meaningfully higher tier of competition than D3 even when the V8 isn't itself ranked. That strengthens the Hobart Ivy fork pitch beyond what the README currently implies.
 
 **For 2e/2f/2g:** Hobart is the entire 4-year rowing experience. Same considerations apply, but without the Ivy LW year on top — so the trade is squarely "Hobart D1/D2-tier under Kerber vs. WPI D3-tier under Noble for 4 years."
 
 ---
 
+## IRA event landscape — what each program can realistically enter (2026)
+
+The modern IRA contests fewer events than it did in the '90s/'00s, and WPI and Hobart are pointed at different parts of the regatta. They will probably both have a presence at IRA — but **not in the same event**, so a clean head-to-head is unlikely.
+
+### Modern IRA event structure (men's events relevant here)
+
+| Tier | Event | Field size | Selection path |
+|---|---|---|---|
+| HWT (D1/D2) | HWT V8+ | 24 | EARC Sprints 7 + MPSF 5 + Dad Vail 4 + at-large 8 |
+| HWT (D1/D2) | HWT 2V8+ | 24 | Auto if V8 entered |
+| HWT (D1/D2) | HWT 3V8+ | 24 | Auto if V8 + 2V8 entered (formerly Frosh/Novice 8, renamed 2017) |
+| HWT (D1/D2) | HWT V4+ | open | Any IRA member, 1 entry per school, no qualifier |
+| LWT | LWT V8+ | 10 | EARC Sprints up to 7 + Dad Vail 1 + at-large 2 |
+| D3 | D3 V8+ | 8 | NESCAC 2 + MARC 1 + LL 1 + highest non-conf at NIRC 1 + at-large 3 |
+| D3 | D3 2V8+ | — | Auto if D3 V8 entered |
+
+Events the IRA **no longer hosts** (relevant because Hobart's '93/'94/'03 medals came in two of these): coxless pair (discontinued), novice 4 (never had a modern dedicated event), Freshman/Novice 8 (replaced by 3V8 in 2017). To win national-level championships in those classes today, athletes go to Dad Vail, ECAC, or ACRA, not IRA.
+
+### Realistic 2026 IRA entries
+
+| Program | Likely entries | Conditional entries | Cannot/won't enter |
+|---|---|---|---|
+| **WPI** | D3 V8+ (at-large; no conference auto-bid available) | D3 2V8+ (auto if V8 entered) | HWT events (program targets D3 path); LWT (no LWT squad) |
+| **Hobart** | HWT V8+ (Dad Vail AQ path); HWT V4+ (open entry, no qualifier — entered every recent year) | HWT 2V8+ and HWT 3V8+ (auto if HWT V8 qualifies) | D3 V8+ (eligible, but program has explicitly chosen D1 path); LWT (no LWT squad) |
+
+**Probability read:**
+- WPI D3 V8 selection: ~75–80% based on poll position and head-to-head wins.
+- Hobart HWT V8 D1 selection: ~15–25% (first year on Dad Vail path; V8 currently unranked in D1/D2 Wk 4 poll after slipping out of top 25 — the at-large committee will weight the Dad Vail finish heavily).
+- Hobart HWT V4+ entry: ~100% (open entry, no qualifier).
+
+**Implication for direct head-to-head:** If both make the field, WPI will likely race in the D3 V8 final and Hobart in the HWT V4 (and possibly HWT V8). **The events are separate races.** Same regatta, same water, but no shared start line.
+
+---
+
 ## Convergence opportunity
 
-**IRA D3 National Championships — Lake Natoma, Gold River, CA — May 29–31, 2026.**
+**IRA — Lake Natoma, Gold River, CA — May 29–31, 2026.**
 
-If both teams make the field (WPI very likely; Hobart a possibility despite racing primarily D1/D2), this is the cleanest direct head-to-head of the year:
+The 2-hour flight from the Bay Area still makes this the easiest in-person look at both programs in one weekend, even if they aren't racing each other directly:
 
-- Same water, same day, same conditions — no tailwind/headwind confound.
-- 2-hour flight from the Bay Area.
-- Within 5 weeks, before the deposit decision becomes irrevocable.
+- Hobart almost certainly enters the HWT V4+ (open entry); HWT V8 entry hinges on Dad Vail.
+- WPI's D3 V8 entry hinges on the at-large committee weighting their May 2 New England Championships result.
+- Within 5 weeks, before the deposit decision becomes irrevocable — so a sample of "what does racing in this program actually look like" is still well-timed.
 
-**Worth blocking the weekend now.** NEWMAC tomorrow (Apr 25) and Liberty League May 1 will tell us whether each team is on the IRA D3 path.
+**Worth blocking the weekend now**, but reset the expectation: this is a two-program viewing trip, not a head-to-head. The Marietta-transitive math earlier in this doc remains the cleanest 1V vs. 1V comparison available for 2026.
 
 ---
 
@@ -233,10 +269,11 @@ If both teams make the field (WPI very likely; Hobart a possibility despite raci
 
 This doc will refresh after each of:
 
-1. **NEWMAC Championships — Apr 25** (tomorrow). Tells us whether WPI gets the auto-bid or has to chase the at-large.
-2. **Liberty League Championships — May 1.** 14-straight title defense; tells us where Hobart sits going into Dad Vail / IRA.
-3. **Dad Vail Regatta — May 8–9.** Hobart only.
-4. **IRA D3 — May 29–31.** Direct head-to-head if both qualify.
+1. ~~**McCarthy/McGee Cup — Apr 25**~~ ✅ **Done. WPI won V8** over #11 Coast Guard (+4.2s) and Boston College (+0.56s). See WPI Season form table above.
+2. **New England Championships — May 2, Lake Quinsigamond** (next). WPI's primary at-large résumé event for IRA D3 selection (no NEWMAC men's auto-bid exists). Should confirm or move WPI's D3 V8 ranking heading into the Wk 5 poll and the at-large committee meeting.
+3. ~~**Liberty League Championships — May 1**~~ — Hobart **not entered** per the [HWS schedule](https://hwsathletics.com/sports/mens-crew/schedule/2025-26). Confirms the championship-season focus shift to Dad Vail.
+4. **Dad Vail Regatta — May 8–9.** Hobart's primary path to the **IRA D1 HWT V8** field (4 AQ slots). Given the V8 fell out of the D1/D2 top 25 at Wk 4, Dad Vail is now the make-or-break for D1 V8 selection.
+5. **IRA — May 29–31, Lake Natoma.** Direct head-to-head **only if both qualify into events that overlap.** They likely won't: WPI's path is D3 V8; Hobart's likely entries are HWT V8 (D1 path), HWT V4+ (open entry), and HWT 2V8/3V8 conditional on V8 making the field. See [IRA event landscape](#ira-event-landscape--what-each-program-can-realistically-enter-2026).
 
 After each, swap in the result and re-evaluate the 2026 form line.
 

@@ -580,7 +580,7 @@ The old plan assumed Jack could redshirt Y4 at Columbia and race both Y4 and Y5 
 
 The old plan assumed ACRA club rowing had informal or enrollment-based eligibility and that Jack could row all 3 grad years at WashU. **The ACRA 2025 Regatta Packet eligibility rules are explicit:** 4 seasons in 5 calendar years from initial full-time enrollment, with "competing for an institution in any one event within the academic year" constituting a used season. Prior IRA competition at Hobart counts. Jack burns 3 of 4 ACRA seasons at Hobart, uses the 4th at WashU in Y4, and is eligibility-exhausted by Y5.
 
-**Combined result: the two active rowing-fit options (2a Columbia, 2b Dartmouth) each deliver 4 total competitive seasons.** What differs is peak level of the final season (Columbia LW vs. Dartmouth LW), credential earned (Columbia SEAS BS vs. Dartmouth Thayer BE), all-in cost (~$304K Columbia / ~$275K Dartmouth — Dartmouth is *cheaper* because only 1 of its 2 Dartmouth years is billed at Dartmouth tuition; the Y3 exchange keeps Hobart's scholarship applied), and admit risk (3.50 vs. ~3.30 gate, both competitive transfer reviews). Neither is "sustained elite rowing across 5–6 years" — the 4-in-5 eligibility clock binds in both cases. The previously-tracked WashU 3:3 (2c) third rowing-fit option has been **closed** per Spector's 2026-04-24 email (no HWS partnership) — see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md). Even if it had existed, ACRA's 4-in-5 clock would have made it a 4-total-season path with only 1 ACRA year at WashU, not a true rowing expansion.
+**Combined result: the two active rowing-fit options (2a Columbia, 2b Dartmouth) each deliver 4 total competitive seasons.** What differs is peak level of the final season (Columbia LW vs. Dartmouth LW), credential earned (Columbia SEAS BS vs. Dartmouth Thayer BE), all-in cost (~$304K Columbia / ~$316K Dartmouth — both Dartmouth years are billed at full Dartmouth tuition; the prior model that routed Y3 through Hobart at the scholarship rate has been rejected, see [Option 2b](#option-2b-hobart--dartmouth-2111-5-years) below), and admit risk (3.50 vs. ~3.30 gate, both competitive transfer reviews). Neither is "sustained elite rowing across 5–6 years" — the 4-in-5 eligibility clock binds in both cases. The previously-tracked WashU 3:3 (2c) third rowing-fit option has been **closed** per Spector's 2026-04-24 email (no HWS partnership) — see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md). Even if it had existed, ACRA's 4-in-5 clock would have made it a 4-total-season path with only 1 ACRA year at WashU, not a true rowing expansion.
 
 This does not invalidate any of these paths. Each still provides a real, multi-year competitive rowing experience and a strong engineering credential. But it means the **choice between Ivy paths and WashU 3:3 is not "elite 1-year experience vs. 3 extra years of rowing."** It's a straightforward tradeoff: Ivy credential + higher admit risk + higher cost vs. WashU BS+MS + near-automatic admit + lower cost. Rowing is not a meaningful tiebreaker between them at the total-seasons level.
 
@@ -627,20 +627,23 @@ Assumptions used throughout (merit scholarships are **tuition-only** — they do
 
 ### Option 2b: Hobart → Dartmouth 2:1:1:1 (5 years)
 
-**Key tuition structure** (confirmed from Dartmouth Thayer's Partner School Dual-Degree page, [thayer.dartmouth.edu/undergraduate/dual](https://thayer.dartmouth.edu/undergraduate/dual)): during the **first** year at Dartmouth (Y3 for HWS), students remain registered at their home institution and pay home-institution tuition — structurally an exchange/study-abroad year. Only the **BE year** (Y5) is billed as a Dartmouth student. The Dartmouth page is explicit on both halves:
+**Key tuition structure (revised 2026-04-29):** Jack pays **full Dartmouth tuition for both Y3 and Y5** at Dartmouth. The earlier model assumed the Dartmouth Thayer Partner School Dual-Degree page's exchange-year language (home-institution tuition during the first Dartmouth year) would route Y3 through Hobart's scholarship-discounted tuition — that assumption is now rejected. The Hobart $41K/yr merit scholarship does **not** transfer to Dartmouth for the Y3 dual-degree year. Y3 credits still flow back to Hobart for BA-completion purposes, but the financial structure is Dartmouth pricing in both Dartmouth years.
+
+For reference, the Dartmouth Thayer page still says:
 
 > First year: "Students applying for the first year of the Dual-Degree Program should consult with their home institution's registrar regarding tuition... During the first year, eligible Dual-Degree students receive financial aid through their home institutions."
 >
 > BE year: "Dual-Degree students returning for the BE year are considered Dartmouth students and pay tuition and fees to Thayer School of Engineering."
 
-Housing: Y3 is on-campus in Dartmouth undergraduate housing (so Dartmouth R&B applies); Y5 is off-campus in Hanover at the student's own arrangement.
+The "consult with home institution's registrar" language remains accurate as a procedural pointer, but the actual tuition Jack pays for Y3 is full Dartmouth — Hobart's merit scholarship is enrollment-conditional and does not extend to the dual-degree year at Dartmouth.
+
+Housing: Y3 is on-campus in Dartmouth undergraduate housing; Y5 is off-campus in Hanover at the student's own arrangement (modeled at the same R&B figure for simplicity).
 
 - Hobart (3 years total — Y1, Y2, Y4): $46K × 3 = ~$138K (Hobart tuition post-scholarship + Hobart R&B)
-- Dartmouth Y3 as Hobart-registered exchange student: ~$27K Hobart tuition (scholarship applies) + ~$21K Dartmouth on-campus R&B = ~$48K
-- Dartmouth Y5 as full Dartmouth BE student: ~$68K tuition + ~$21K off-campus R&B = ~$89K
-- **Total all-in: ~$275K**
-- **Cheaper than Columbia 3:2 (~$304K) despite the higher sticker at Dartmouth**, because only 1 of the 2 Dartmouth years is billed at Dartmouth tuition — the exchange-year structure routes Y3 through Hobart's scholarship-discounted tuition. Columbia 3:2 has no equivalent arrangement: both Columbia years are billed as full Columbia tuition.
-- *Scholarship renewal caveat:* this assumes Hobart treats the Dartmouth Y3 as an approved exchange/leave and continues the merit scholarship for Y4 when Jack returns. **Confirm with Hobart financial aid before relying on the 2b number.**
+- Dartmouth Y3 (full Dartmouth tuition + on-campus R&B): ~$68K + ~$21K = ~$89K
+- Dartmouth Y5 (full Dartmouth BE student): ~$68K + ~$21K = ~$89K
+- **Total all-in: ~$316K**
+- **Now more expensive than Columbia 3:2 (~$304K)**, inverting the prior cost ranking. The 2b vs. 2a case no longer rests on cost — the remaining 2b advantages are the earlier Feb 1 Y2 admission deadline (vs. Feb 1 Y3 for Columbia, enabling the portfolio-strategy fallback), the lower GPA gate (~3.30 vs. 3.50), and the Y3 Dartmouth LW racing year vs. Y4 at Columbia.
 
 ### Option 2c: Hobart → WashU 3:3 (6 years) — *closed, no HWS partnership*
 
@@ -711,11 +714,11 @@ Housing: Y3 is on-campus in Dartmouth undergraduate housing (so Dartmouth R&B ap
 | 1. WPI | ~$220K | 4 | BS Engineering |
 | 2f. Hobart BA → Cal State BSME (on-campus) | ~$242K | 6 | BA Physics + BSME |
 | 3. UBC | ~$268K (USD) | 4 | BASc Engineering |
-| 2b. Hobart → Dartmouth 2:1:1:1 | ~$275K | 5 | BA + Dartmouth BE |
 | 2e. Hobart → Syracuse ECS 4+2 | ~$289K | 6 | BA + Syracuse MS (no ABET BS) |
 | 2c. Hobart → WashU 3:3 *(closed — no HWS partnership)* | ~$302K | 6 | BA + BS + MS Engineering |
 | 2a. Hobart → Columbia 3:2 | ~$304K | 5 | BA + Columbia BS |
 | 2d. Hobart → RPI 3:2 *(closed — no HWS partnership)* | ~$304K | 5 | BA + RPI BS |
+| 2b. Hobart → Dartmouth 2:1:1:1 | ~$316K | 5 | BA + Dartmouth BE |
 | Add-on. WPI → Ivy (if transfer works) | ~$300K–$370K | 4 | BS Engineering (Ivy) |
 
 ### What's excluded from these numbers (and why it doesn't change the ranking)
@@ -860,7 +863,7 @@ Rough estimates of tuition-only value if Jack completes 3+ years of active duty 
 | Option 1 (WPI) | ~$220K | Can add Dartmouth/Cornell/Stanford MS for ~$0 post-service. Strong cost efficiency. |
 | Option 2g (Hobart BA → OCS / NUPOC, skip the state-school BSME) | ~$184K (Hobart BA only) | Can add **Dartmouth Thayer MS for ~$0** post-service. End state: Physics BA + Navy nuclear service + Dartmouth MEng. |
 | Option 3 (UBC) | ~$268K (USD) | Same — post-service MS at Dartmouth/Cornell possible. Upgrades the US-brand-recognition problem of the UBC undergrad. |
-| Options 2a/2b (Hobart → Ivy) | ~$275K (2b) / ~$304K (2a) | Less value-add since Ivy BS is already in hand; still available if he wants a further MS. |
+| Options 2a/2b (Hobart → Ivy) | ~$304K (2a) / ~$316K (2b) | Less value-add since Ivy BS is already in hand; still available if he wants a further MS. |
 
 **Key insight:** the military path is not just "how Jack pays for his first degree" — it's also a **structured path to an elite engineering MS at near-zero tuition after service.** This is particularly powerful for Options 1 and 2g, where the undergrad credential is less prestigious (or less expensive) than an Ivy BS and can be topped with a Dartmouth/Cornell/Stanford MS for effectively free.
 

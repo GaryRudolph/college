@@ -85,10 +85,10 @@ The cost model is **tuition + on-campus room & board**, rounded to the nearest ~
 
 **Per-year all-in cost (tuition + R&B), 2025–26 rates:**
 
-- **Hobart:** ~$27K net tuition ($41K/yr merit on $68K sticker ≈ 60% off; renewal terms confirmed via [HWS public site](https://www2.hws.edu/admissions/tuition-scholarships-and-aid/merit-based-awards.aspx) — **2.0 cumulative GPA + Satisfactory Academic Progress + no academic/social probation, no annual reapplication, award amount fixed for all 4 years**; only the Option 2b Y3 exchange-year + Y4 return handling still needs direct HWS Financial Aid confirmation) + ~$18K R&B = **~$46K/yr all-in**. Scholarship applies **only in years Jack is enrolled at Hobart** — does not follow him to a 3:2 / 3:3 partner.
+- **Hobart:** ~$27K net tuition ($41K/yr merit on $68K sticker ≈ 60% off; renewal terms confirmed via [HWS public site](https://www2.hws.edu/admissions/tuition-scholarships-and-aid/merit-based-awards.aspx) — **2.0 cumulative GPA + Satisfactory Academic Progress + no academic/social probation, no annual reapplication, award amount fixed for all 4 years**; Option 2b Y3 exchange-year scholarship handling resolved 2026-04-29 — scholarship does **not** transfer to Dartmouth for Y3) + ~$18K R&B = **~$46K/yr all-in**. Scholarship applies **only in years Jack is enrolled at Hobart in residence** — does not follow him to a 3:2 partner, and does not transfer to the Y3 dual-degree year at Dartmouth.
 - **WPI:** ~$36K net tuition ($27K merit awarded) + ~$19K R&B = **~$55K/yr all-in**.
 - **Columbia:** ~$70K tuition + ~$13K R&B = **~$83K/yr all-in**. No need-based aid assumed.
-- **Dartmouth:** ~$68K tuition + ~$21K R&B = **~$89K/yr all-in**. No need-based aid assumed. **Option 2b exception:** the Y3 "first year at Dartmouth" is billed through Hobart as an exchange year (per [Thayer's Partner School Dual-Degree page](https://thayer.dartmouth.edu/undergraduate/dual)) — Jack pays ~$27K Hobart tuition (scholarship applies) + ~$21K Dartmouth on-campus R&B ≈ ~$48K for Y3, not $89K. Only Y5 is billed at full Dartmouth. So 2b totals: 3 × $46K (Y1/Y2/Y4 at Hobart) + $48K (Y3 exchange) + $89K (Y5 Dartmouth BE) ≈ **~$275K**. Do not naively compute 2b as $46K × 3 + $89K × 2.
+- **Dartmouth:** ~$68K tuition + ~$21K R&B = **~$89K/yr all-in**. No need-based aid assumed. **Option 2b (revised 2026-04-29):** the Hobart $41K/yr merit scholarship does **not** transfer to Dartmouth for the Y3 dual-degree year — Jack pays full Dartmouth (~$89K) for Y3 just like Y5, despite the Dartmouth Thayer page describing Y3 as an exchange-style year for credit-transfer purposes. So 2b totals: 3 × $46K (Y1/Y2/Y4 at Hobart) + 2 × $89K (Y3 + Y5 at Dartmouth) = **~$316K**. The earlier ~$275K figure (which assumed Y3 was billed through Hobart at the scholarship rate) is rejected — see [`hobart-questions.md` §3.2](../../hobart-questions.md#3-hobart-financial-aid) for the resolution.
 - **WashU 3:3 graduate years:** ~$34.5K net tuition (50% automatic Graduate Affiliation Scholarship) + ~$20K R&B = **~$54.5K/yr all-in**.
 - **RPI:** ~$65K tuition + ~$18K R&B = **~$83K/yr all-in**. Full sticker.
 - **Syracuse ECS 4+2 graduate years:** ~$36K tuition (no partner-school discount published; 2025–26 rate $2,015/credit × 18 credits) + ~$16K R&B = **~$52K/yr all-in**.
@@ -102,7 +102,7 @@ The cost model is **tuition + on-campus room & board**, rounded to the nearest ~
 |---|---|---|---|
 | 1 | WPI | **~$220K** | 4 |
 | 2a | Hobart → Columbia (3:2) | **~$304K** | 5 |
-| 2b | Hobart → Dartmouth (2:1:1:1) | **~$275K** | 5 |
+| 2b | Hobart → Dartmouth (2:1:1:1) | **~$316K** | 5 |
 | 2c | Hobart → WashU (3:3) | **~$302K** | 6 |
 | 2d | Hobart → RPI (3:2) | **~$304K** | 5 |
 | 2e | Hobart → Syracuse ECS (4+2) | **~$289K** | 6 |
