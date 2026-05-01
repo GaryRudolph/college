@@ -1,6 +1,6 @@
 # Semester-by-semester course plans — Hobart variants
 
-*Companion to [`README.md`](./README.md) and [`hobart.md`](./hobart.md). This file maps every term from matriculation to graduation for Jack's **two Hobart dual-degree paths** (2a Columbia, 2b Dartmouth). The Syracuse 4+2 (2e) is graduate-only — Y1–Y4 at Hobart is the [path-agnostic core + a 4th BA-completion year](#hws-y4-senior-year-finish-the-physics-ba), and the Syracuse MS (Y5–Y6) is direct-admission graduate coursework rather than an articulated Hobart-credit-back undergraduate sequence. Representative courses only — specific IDs and term placements are subject to each school's flight plan, advisor approval, and year-specific catalogue updates. WashU 3:3 and RPI 3:2 were **closed** per Spector's 2026-04-24 email confirming neither partnership exists — see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md) for the closed-path archive.*
+*Companion to [`README.md`](./README.md) and [`hobart.md`](./hobart.md). This file maps every term from matriculation to graduation for Jack's **two Hobart dual-degree paths** (2a Columbia, 2b Dartmouth). The Syracuse 4+2 (2e) is graduate-only — Y1–Y4 at Hobart is the [path-agnostic core + a 4th BA-completion year](#hws-y4-senior-year-finish-the-physics-ba), and the Syracuse MS (Y5–Y6) is direct-admission graduate coursework rather than an articulated Hobart-credit-back undergraduate sequence. **Two military paths also attach to the Hobart starting point** and appear in the paths-at-a-glance below: the **USNA wildcard** (branches off at end of Y1 if admitted — plebe restart at USNA, 4 years to ABET BS Engineering) and **Option 2g** (Hobart BA → OCS or NUPOC commission → 3–5 yrs active service → tuition-free MS at Dartmouth Thayer / Cornell / Stanford via GI Bill + Yellow Ribbon). Term-by-term detail for the military paths is not modeled here — USNA has its own curriculum once Jack's on campus, and 2g's MS years are service-dependent. See [`military.md`](./military.md) for role-type + entry-path detail and [Option 2g in `hobart.md`](./hobart.md#the-other-hobart-forks) for GI Bill / Yellow Ribbon cost mechanics. Representative courses only — specific IDs and term placements are subject to each school's flight plan, advisor approval, and year-specific catalogue updates. WashU 3:3 and RPI 3:2 were **closed** per Spector's 2026-04-24 email confirming neither partnership exists — see [`hobart-unconfirmed-paths.md`](./hobart-unconfirmed-paths.md) for the closed-path archive.*
 
 **Companion files:**
 
@@ -10,41 +10,67 @@
 
 ---
 
-## The Hobart paths at a glance
+## The paths at a glance
 
 ```mermaid
 gantt
-  title Jack's Hobart dual-degree + direct-admission paths — school enrolled + degrees conferred
-  dateFormat  YYYY
+  title Jack's Hobart-based paths — school enrolled + degrees conferred
+  dateFormat  YYYY-MM-DD
   axisFormat  %Y
+  section USNA wildcard (end-Y1 branch)
+  HWS Y1                    :u1, 2026-07-01, 1y
+  USNA Y1-Y4 plebe restart  :u2, after u1, 4y
+  BS Eng (USNA, ABET)       :milestone, mu1, after u2, 0d
+  Active service 5y         :u3, after u2, 5y
   section Hobart-Columbia 3:2
-  HWS Y1-Y3           :c1, 2026, 3y
+  HWS Y1-Y3           :c1, 2026-07-01, 3y
   Columbia Y4-Y5      :c2, after c1, 2y
-  BA physics (HWS)    :milestone, m2a1, 2030, 0d
+  BA physics (HWS)    :milestone, m2a1, 2030-07-01, 0d
   BS ME (Columbia)    :milestone, m2a2, after c2, 0d
   section Hobart-Dartmouth 2:1:1:1
-  HWS Y1-Y2           :d1, 2026, 2y
+  HWS Y1-Y2           :d1, 2026-07-01, 2y
   Dartmouth Y3        :d2, after d1, 1y
   HWS Y4              :d3, after d2, 1y
   BA physics (HWS)    :milestone, m2b1, after d3, 0d
   Dartmouth Y5        :d4, after d3, 1y
   BE ME (Dartmouth)   :milestone, m2b2, after d4, 0d
   section Hobart-Syracuse 4+2
-  HWS Y1-Y4           :s1, 2026, 4y
+  HWS Y1-Y4           :s1, 2026-07-01, 4y
   BA physics (HWS)    :milestone, m2e1, after s1, 0d
   Syracuse MS Y5-Y6   :s2, after s1, 2y
   MS Eng (Syracuse)   :milestone, m2e2, after s2, 0d
+  section Hobart BA + OCS/NUPOC + post-svc MS
+  HWS Y1-Y4           :g1, 2026-07-01, 4y
+  BA physics (HWS)    :milestone, m2g1, after g1, 0d
+  Active service 3-5y :g2, after g1, 4y
+  MS grad years       :g3, after g2, 2y
+  MS Eng (tuition-free) :milestone, m2g2, after g3, 0d
 ```
 
-| Path                           | Years | Total courses (approx)                 | Degree(s) earned                                  |
+| Path                           | Years (in school) | Total courses (approx)                 | Degree(s) earned                                  |
 | ------------------------------ | ----- | -------------------------------------- | ------------------------------------------------- |
+| **USNA wildcard** (branches off end-Y1 if admitted) | 4 at USNA (Class of 2031; Hobart Y1 lost academically on plebe restart) | ~32 USNA | BS Engineering (USNA, ABET) + 5y active-duty commitment |
 | 2a. Hobart → Columbia 3:2      | 5     | ~24 HWS + ~20 Columbia                 | BA physics (HWS) + BS ME (Columbia SEAS, ABET)    |
 | 2b. Hobart → Dartmouth 2:1:1:1 | 5     | ~16 HWS + ~18 Dartmouth (3+3 quarters) | BA physics (HWS) + BE ME (Dartmouth Thayer, ABET) |
 | 2e. Hobart → Syracuse 4+2      | 6     | 32 HWS + ~10 Syracuse grad             | BA physics (HWS) + MS Eng (Syracuse ECS, no ABET BS) |
+| **2g. Hobart BA → OCS/NUPOC → post-service MS** | 4 HWS + 2 MS grad (3–5y active service between) | 32 HWS + ~10 MS grad | BA physics (HWS) + MS Engineering (Dartmouth Thayer / Cornell / Stanford, tuition-free via GI Bill + Yellow Ribbon) + 3–5y service commitment |
 
-**Y1 + Fall Y2 are path-agnostic.** Jack does not need to pick a fork before **sophomore February** (the Dartmouth application deadline is Feb 1 of Y2). The Columbia application happens in junior year. The Syracuse application happens senior year (Y4) — direct-admission at 3.2 Hobart GPA. Until Spring Y2 all three paths share a single schedule — see the [path-agnostic Hobart Y1–Y2 core](#hobart-y1y2--path-agnostic-core-used-by-2a-and-2b) below.
+**Y1 + Fall Y2 are path-agnostic across all five Hobart-based paths.** Jack does not need to pick a fork before **sophomore February** (the Dartmouth application deadline is Feb 1 of Y2). The Columbia application happens in junior year. The Syracuse application happens senior year (Y4) — direct-admission at 3.2 Hobart GPA. The USNA wildcard is a **parallel application rather than a Hobart-fork decision** — if admitted, Jack leaves Hobart at end of Y1; if rejected, no change. Until Spring Y2 all paths share a single schedule — see the [path-agnostic Hobart Y1–Y2 core](#hobart-y1y2--path-agnostic-core-used-by-2a-and-2b) below.
 
 **Syracuse 4+2 (2e) shares Y1–Y4 with the other 4-yr-at-Hobart paths (2f Cal State, 2g OCS).** The Syracuse / Cal State / OCS-MS years are graduate-level (Syracuse, OCS post-service) or transfer-undergrad (Cal State) and are not articulated Hobart-credit-back sequences — they're separate degree programs that begin after the Hobart BA is conferred. The Syracuse MS coursework is therefore not modeled term-by-term in this file; see [`background.md` §3j](./background.md#3j-syracuse-university-via-42-pathway--confirmed-partnership-ms-only) for the structure.
+
+### The two military paths — USNA wildcard vs. Option 2g
+
+**USNA wildcard** — applied in parallel during spring/summer 2026 with the Hobart matriculation already in motion. Admission odds are low (~8% admit + Congressional nomination hurdle), so the base case is that the application doesn't change anything. But **if USNA admits**, Jack **restarts as a plebe at USNA in summer 2027** — his Hobart Y1 is academically lost (no transfer credit; developmentally it still counts), and he graduates **Class of 2031** with an ABET BS Engineering and a 5-year active-duty commitment. USNA is **$0 out of pocket** (tuition + R&B + medical + monthly stipend all covered). **No changes to the Hobart Y1 plan either way** — the Hobart Y1–Y2 core schedule holds regardless of the USNA outcome. Full role-type and entry-path detail in [`military.md`](./military.md).
+
+**Option 2g — Hobart BA → OCS/NUPOC → tuition-free post-service MS.** Shares Y1–Y4 with 2e (Syracuse) and 2f (Cal State) — 4 years of Hobart physics BA, same path-agnostic core as 2a/2b through Spring Y2, same [Hobart Y3 layout](#hobart-y3--used-by-2a-only-2b-is-at-dartmouth-in-y3) and [HWS Y4](#hws-y4-senior-year-finish-the-physics-ba) as the other 4-yr-at-Hobart forks (no dual-degree application). Two commissioning timings:
+
+- **NUPOC (junior/senior year)** — Jack applies during Y3 or Y4 of Hobart. If accepted, Navy pays him a **$5K+/month stipend during senior year + up to $38K signing bonus** (~$168K total pre-graduation). Commissions at Hobart graduation into submarine / SWO-Nuclear / Naval Reactors Engineer. 5 years active + 3 years inactive reserve. Physics BA is a standard NUPOC profile — Jack's HWS Applied Physics BA qualifies directly.
+- **OCS (post-graduation)** — Jack applies to Navy / Marine / Army Officer Candidate School after the Hobart BA is conferred. Physics BA qualifies for **unrestricted-line designators only** (SWO, aviation, NFO, intel, supply) — engineering-duty designators (EDO, CEC) require an ABET-EAC engineering BS, which the Hobart physics BA is not. 4-year active commitment.
+
+After service, Jack applies to an engineering MS at **Dartmouth Thayer / Cornell / Stanford** (or similar Yellow Ribbon partner) and pays **$0 tuition** — Post-9/11 GI Bill covers the base rate, Yellow Ribbon covers the gap. Net out-of-pocket cost to Jack for the full BA + MS: **~$184K (Hobart 4 years) + $0 grad**. See [Option 2g in `hobart.md`](./hobart.md#the-other-hobart-forks) for the full GI Bill + Yellow Ribbon cost-mechanism breakdown.
+
+**Key consequence for the Y1–Y4 Hobart plan:** both 2g and the USNA wildcard require no changes to Jack's Hobart schedule. 2g uses the same Y1–Y4 sequence as 2e/2f. USNA is a parallel application that either changes everything (admitted — leave Hobart) or nothing (rejected — continue Hobart). The Y1–Y4 core below already supports both.
 
 ---
 
